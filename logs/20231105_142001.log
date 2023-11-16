@@ -1,0 +1,42 @@
+0 INTRODUCTION (3 minutes)
+- Brief history of Fleetwood Mac, formation and evolution over the years.
+- Overview of the podcast structure and what listeners can expect.
+- Teaser trivia question about Fleetwood Mac to engage listeners.
+
+
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+  File "/Users/kbverlaan/GitProjects/autogen-podcast/autogen_podcast/main.py", line 63, in main
+    sentences = sent_tokenize(LAST_SECTION_SCRIPT)
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/nltk/tokenize/__init__.py", line 106, in sent_tokenize
+    tokenizer = load(f"tokenizers/punkt/{language}.pickle")
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/nltk/data.py", line 750, in load
+    opened_resource = _open(resource_url)
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/nltk/data.py", line 876, in _open
+    return find(path_, path + [""]).open()
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/nltk/data.py", line 583, in find
+    raise LookupError(resource_not_found)
+LookupError: 
+**********************************************************************
+  Resource [93mpunkt[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt/PY3/english.pickle[0m
+
+  Searched in:
+    - '/Users/kbverlaan/nltk_data'
+    - '/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/nltk_data'
+    - '/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/share/nltk_data'
+    - '/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+    - ''
+**********************************************************************
+

@@ -1,0 +1,160 @@
+0 INTRODUCTION (3 minutes)
+- Brief history of Fleetwood Mac, formation and evolution over the years.
+- Overview of the podcast structure and what listeners can expect.
+- Teaser trivia question about Fleetwood Mac to engage listeners.
+
+
+
+
+---------- Outline Creation Feedback Conversation Starting ----------
+
+
+basic_chat: Admin -> Outline_Writer
+Admin (to Outline_Writer):
+
+
+        Write the script for the following section outline:
+        INTRODUCTION (3 minutes)
+- Brief history of Fleetwood Mac, formation and evolution over the years.
+- Overview of the podcast structure and what listeners can expect.
+- Teaser trivia question about Fleetwood Mac to engage listeners.
+
+.
+
+        Use the LAST SECTION SCRIPT to make sure the script flows nicely into the new era.
+        LAST SECTION
+        Introduction has no pervious section.
+        
+
+--------------------------------------------------------------------------------
+basic_chat(): replied with: ARTIST: Fleetwood Mac
+
+----------
+INTRODUCTION (3 minutes)
+- Welcome to our podcast where we delve into the discographies of iconic artists. Today, we're exploring the legendary band Fleetwood Mac. Formed in 1967, Fleetwood Mac has seen numerous changes in its lineup, but its music has always remained influential and timeless. 
+- In this podcast, we'll be taking you through the different eras of Fleetwood Mac's discography, discussing their music, stories, and the impact they've had on the music industry. Each era will be a journey through their evolution, their highs and lows, and the music that has touched millions of hearts worldwide.
+- To kick things off, here's a trivia question for all you Fleetwood Mac fans out there: Which Fleetwood Mac album stayed on the UK charts for a record-breaking 478 weeks? Keep listening to find out the answer!
+
+----------
+ERA 1: The Peter Green Era (1967-1970) (10 minutes)
+- Introduction to the Peter Green era, the formation of the band, and their early blues influences.
+- Discussion on key albums and songs during this era.
+- Stories and anecdotes about the band during this time.
+- Analysis of the band's impact and legacy during the Peter Green era.
+
+----------
+ERA 2: The Bob Welch Era (1971-1974) (10 minutes)
+- Introduction to the Bob Welch era, changes in the band's lineup, and shift in musical style.
+- Discussion on key albums and songs during this era.
+- Stories and anecdotes about the band during this time.
+- Analysis of the band's impact and legacy during the Bob Welch era.
+
+----------
+ERA 3: The Buckingham Nicks Era (1975-1987) (15 minutes)
+- Introduction to the Buckingham Nicks era, the addition of Lindsey Buckingham and Stevie Nicks, and the band's rise to global fame.
+- Discussion on key albums and songs during this era.
+- Stories and anecdotes about the band during this time.
+- Analysis of the band's impact and legacy during the Buckingham Nicks era.
+
+----------
+CONCLUSION (5 minutes)
+- Recap of the different eras of Fleetwood Mac's discography.
+- Reflection on the band's overall impact and legacy.
+- Answer to the trivia question from the introduction.
+- Teaser for the next podcast episode.
+
+
+--------- Running iteration 0 with (agent_a: Outline_Writer, agent_b: Outline_Critic) ----------
+
+
+basic_chat: Outline_Writer -> Outline_Critic
+Outline_Writer (to Outline_Critic):
+
+ARTIST: Fleetwood Mac
+
+----------
+INTRODUCTION (3 minutes)
+- Welcome to our podcast where we delve into the discographies of iconic artists. Today, we're exploring the legendary band Fleetwood Mac. Formed in 1967, Fleetwood Mac has seen numerous changes in its lineup, but its music has always remained influential and timeless. 
+- In this podcast, we'll be taking you through the different eras of Fleetwood Mac's discography, discussing their music, stories, and the impact they've had on the music industry. Each era will be a journey through their evolution, their highs and lows, and the music that has touched millions of hearts worldwide.
+- To kick things off, here's a trivia question for all you Fleetwood Mac fans out there: Which Fleetwood Mac album stayed on the UK charts for a record-breaking 478 weeks? Keep listening to find out the answer!
+
+----------
+ERA 1: The Peter Green Era (1967-1970) (10 minutes)
+- Introduction to the Peter Green era, the formation of the band, and their early blues influences.
+- Discussion on key albums and songs during this era.
+- Stories and anecdotes about the band during this time.
+- Analysis of the band's impact and legacy during the Peter Green era.
+
+----------
+ERA 2: The Bob Welch Era (1971-1974) (10 minutes)
+- Introduction to the Bob Welch era, changes in the band's lineup, and shift in musical style.
+- Discussion on key albums and songs during this era.
+- Stories and anecdotes about the band during this time.
+- Analysis of the band's impact and legacy during the Bob Welch era.
+
+----------
+ERA 3: The Buckingham Nicks Era (1975-1987) (15 minutes)
+- Introduction to the Buckingham Nicks era, the addition of Lindsey Buckingham and Stevie Nicks, and the band's rise to global fame.
+- Discussion on key albums and songs during this era.
+- Stories and anecdotes about the band during this time.
+- Analysis of the band's impact and legacy during the Buckingham Nicks era.
+
+----------
+CONCLUSION (5 minutes)
+- Recap of the different eras of Fleetwood Mac's discography.
+- Reflection on the band's overall impact and legacy.
+- Answer to the trivia question from the introduction.
+- Teaser for the next podcast episode.
+
+--------------------------------------------------------------------------------
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+  File "/Users/kbverlaan/GitProjects/autogen-podcast/autogen_podcast/main.py", line 66, in main
+    _, strategy_messages = outline_creation_orchestrator.feedback_conversation(prompt)
+  File "/Users/kbverlaan/GitProjects/autogen-podcast/autogen_podcast/modules/orchestrator.py", line 220, in feedback_conversation
+    self.basic_chat(agent_a, agent_b, self.latest_message)
+  File "/Users/kbverlaan/GitProjects/autogen-podcast/autogen_podcast/modules/orchestrator.py", line 79, in basic_chat
+    reply = agent_b.generate_reply(sender=agent_a)
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/autogen/agentchat/conversable_agent.py", line 781, in generate_reply
+    final, reply = reply_func(self, messages=messages, sender=sender, config=reply_func_tuple["config"])
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/autogen/agentchat/conversable_agent.py", line 606, in generate_oai_reply
+    response = oai.ChatCompletion.create(
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/autogen/oai/completion.py", line 803, in create
+    response = cls.create(
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/autogen/oai/completion.py", line 834, in create
+    return cls._get_response(params, raise_on_ratelimit_or_timeout=raise_on_ratelimit_or_timeout)
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/autogen/oai/completion.py", line 222, in _get_response
+    response = openai_completion.create(**config)
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/openai/api_resources/chat_completion.py", line 25, in create
+    return super().create(*args, **kwargs)
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/openai/api_resources/abstract/engine_api_resource.py", line 155, in create
+    response, _, api_key = requestor.request(
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/openai/api_requestor.py", line 289, in request
+    result = self.request_raw(
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/openai/api_requestor.py", line 606, in request_raw
+    result = _thread_context.session.request(
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/requests/sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/requests/sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/requests/adapters.py", line 486, in send
+    resp = conn.urlopen(
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/urllib3/connectionpool.py", line 791, in urlopen
+    response = self._make_request(
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/urllib3/connectionpool.py", line 537, in _make_request
+    response = conn.getresponse()
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/urllib3/connection.py", line 461, in getresponse
+    httplib_response = super().getresponse()
+  File "/Users/kbverlaan/miniforge3/lib/python3.10/http/client.py", line 1374, in getresponse
+    response.begin()
+  File "/Users/kbverlaan/miniforge3/lib/python3.10/http/client.py", line 318, in begin
+    version, status, reason = self._read_status()
+  File "/Users/kbverlaan/miniforge3/lib/python3.10/http/client.py", line 279, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "/Users/kbverlaan/miniforge3/lib/python3.10/socket.py", line 705, in readinto
+    return self._sock.recv_into(b)
+  File "/Users/kbverlaan/miniforge3/lib/python3.10/ssl.py", line 1274, in recv_into
+    return self.read(nbytes, buffer)
+  File "/Users/kbverlaan/miniforge3/lib/python3.10/ssl.py", line 1130, in read
+    return self._sslobj.read(len, buffer)
+KeyboardInterrupt

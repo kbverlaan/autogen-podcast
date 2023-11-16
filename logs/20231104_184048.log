@@ -1,0 +1,682 @@
+0 INTRODUCTION (3 minutes)
+- Brief history of Fleetwood Mac, formation and evolution over the years.
+- Overview of the podcast structure and what listeners can expect.
+- Teaser trivia question about Fleetwood Mac to engage listeners.
+
+
+
+
+---------- Outline Creation Feedback Conversation Starting ----------
+
+
+basic_chat: Admin -> Script_Writer
+Admin (to Script_Writer):
+
+
+        Write the script for the following section outline:
+        INTRODUCTION (3 minutes)
+- Brief history of Fleetwood Mac, formation and evolution over the years.
+- Overview of the podcast structure and what listeners can expect.
+- Teaser trivia question about Fleetwood Mac to engage listeners.
+
+
+        Use the LAST SECTION SCRIPT to make sure the script flows nicely into the new era.
+        LAST SECTION
+        Introduction has no pervious section.
+        
+
+--------------------------------------------------------------------------------
+basic_chat(): replied with: ----------
+ALEX: 
+Hey there, folks! Welcome, welcome, welcome! This is your host, Alex, and you're tuned into the one and only, the legendary, the absolutely fantastic... drumroll, please... Fleetwood Mac podcast! 
+
+Now, I know what you're thinking. Fleetwood Mac, huh? Well, let me tell you, this band has a history that's as rich and diverse as their music. Formed way back in 1967, Fleetwood Mac started as a British blues band. Yeah, you heard that right, blues! But over the years, they've evolved, changed members, and dabbled in different genres, ultimately becoming the rock legends we know and love today. 
+
+So, what can you expect from this podcast? Well, we're going to dive deep into the band's history, explore their music, and even get into some juicy behind-the-scenes stories. We'll talk about the band's formation, their evolution, their highs and lows, and everything in between. And trust me, there's a lot in between. 
+
+But hey, let's not get ahead of ourselves. Let's start with a little trivia to get your brains buzzing. Here's the question: Which member of Fleetwood Mac was not an original member but joined the band in 1975 and had a significant impact on their sound? Think you know the answer? Well, hold that thought, and we'll reveal it later in the show. 
+
+So, buckle up, folks! We're about to embark on a wild ride through the history of Fleetwood Mac. And trust me, it's going to be a blast. 
+
+Pause for music: 'Go Your Own Way' by Fleetwood Mac.
+
+
+--------- Running iteration 0 with (agent_a: Script_Writer, agent_b: Script_Critic) ----------
+
+
+basic_chat: Script_Writer -> Script_Critic
+Script_Writer (to Script_Critic):
+
+----------
+ALEX: 
+Hey there, folks! Welcome, welcome, welcome! This is your host, Alex, and you're tuned into the one and only, the legendary, the absolutely fantastic... drumroll, please... Fleetwood Mac podcast! 
+
+Now, I know what you're thinking. Fleetwood Mac, huh? Well, let me tell you, this band has a history that's as rich and diverse as their music. Formed way back in 1967, Fleetwood Mac started as a British blues band. Yeah, you heard that right, blues! But over the years, they've evolved, changed members, and dabbled in different genres, ultimately becoming the rock legends we know and love today. 
+
+So, what can you expect from this podcast? Well, we're going to dive deep into the band's history, explore their music, and even get into some juicy behind-the-scenes stories. We'll talk about the band's formation, their evolution, their highs and lows, and everything in between. And trust me, there's a lot in between. 
+
+But hey, let's not get ahead of ourselves. Let's start with a little trivia to get your brains buzzing. Here's the question: Which member of Fleetwood Mac was not an original member but joined the band in 1975 and had a significant impact on their sound? Think you know the answer? Well, hold that thought, and we'll reveal it later in the show. 
+
+So, buckle up, folks! We're about to embark on a wild ride through the history of Fleetwood Mac. And trust me, it's going to be a blast. 
+
+Pause for music: 'Go Your Own Way' by Fleetwood Mac.
+
+--------------------------------------------------------------------------------
+basic_chat(): replied with: ----------
+Feedback:
+
+The script is cohesive and flows well. The introduction is engaging and sets the tone for the podcast effectively. The use of filler words is natural and adds to the conversational tone of the script. The script is fun to listen to, with a good balance of information and entertainment. 
+
+The information provided about Fleetwood Mac is accurate, and the script provides a good depth of information for an introduction. The trivia question is a nice touch that adds an interactive element to the podcast. 
+
+The script is original and provides a unique perspective on Fleetwood Mac. The themes of the band's evolution and the impact of different members are relatable and will likely resonate with listeners. 
+
+One suggestion for improvement would be to include a brief mention of some specific songs or albums that will be discussed in the podcast. This could help to further engage listeners and give them a better idea of what to expect from the podcast. 
+
+For example, the script could be modified as follows:
+
+"So, what can you expect from this podcast? Well, we're going to dive deep into the band's history, explore their music, and even get into some juicy behind-the-scenes stories. We'll talk about the band's formation, their evolution, their highs and lows, and everything in between. And trust me, there's a lot in between. We'll be discussing iconic albums like 'Rumours' and 'Tusk', and dissecting hits like 'Go Your Own Way' and 'Rhiannon'. So, buckle up, folks!" 
+
+Overall, the script is well-written and engaging. With the addition of a few specific details, it could be even more effective in drawing in listeners.
+
+
+--------- Running iteration 1 with (agent_a: Script_Critic, agent_b: Script_Writer) ----------
+
+
+basic_chat: Script_Critic -> Script_Writer
+Script_Critic (to Script_Writer):
+
+----------
+Feedback:
+
+The script is cohesive and flows well. The introduction is engaging and sets the tone for the podcast effectively. The use of filler words is natural and adds to the conversational tone of the script. The script is fun to listen to, with a good balance of information and entertainment. 
+
+The information provided about Fleetwood Mac is accurate, and the script provides a good depth of information for an introduction. The trivia question is a nice touch that adds an interactive element to the podcast. 
+
+The script is original and provides a unique perspective on Fleetwood Mac. The themes of the band's evolution and the impact of different members are relatable and will likely resonate with listeners. 
+
+One suggestion for improvement would be to include a brief mention of some specific songs or albums that will be discussed in the podcast. This could help to further engage listeners and give them a better idea of what to expect from the podcast. 
+
+For example, the script could be modified as follows:
+
+"So, what can you expect from this podcast? Well, we're going to dive deep into the band's history, explore their music, and even get into some juicy behind-the-scenes stories. We'll talk about the band's formation, their evolution, their highs and lows, and everything in between. And trust me, there's a lot in between. We'll be discussing iconic albums like 'Rumours' and 'Tusk', and dissecting hits like 'Go Your Own Way' and 'Rhiannon'. So, buckle up, folks!" 
+
+Overall, the script is well-written and engaging. With the addition of a few specific details, it could be even more effective in drawing in listeners.
+
+--------------------------------------------------------------------------------
+basic_chat(): replied with: ----------
+ALEX: 
+Hey there, folks! Welcome, welcome, welcome! This is your host, Alex, and you're tuned into the one and only, the legendary, the absolutely fantastic... drumroll, please... Fleetwood Mac podcast! 
+
+Now, I know what you're thinking. Fleetwood Mac, huh? Well, let me tell you, this band has a history that's as rich and diverse as their music. Formed way back in 1967, Fleetwood Mac started as a British blues band. Yeah, you heard that right, blues! But over the years, they've evolved, changed members, and dabbled in different genres, ultimately becoming the rock legends we know and love today. 
+
+So, what can you expect from this podcast? Well, we're going to dive deep into the band's history, explore their music, and even get into some juicy behind-the-scenes stories. We'll talk about the band's formation, their evolution, their highs and lows, and everything in between. And trust me, there's a lot in between. We'll be discussing iconic albums like 'Rumours' and 'Tusk', and dissecting hits like 'Go Your Own Way' and 'Rhiannon'. So, buckle up, folks!
+
+But hey, let's not get ahead of ourselves. Let's start with a little trivia to get your brains buzzing. Here's the question: Which member of Fleetwood Mac was not an original member but joined the band in 1975 and had a significant impact on their sound? Think you know the answer? Well, hold that thought, and we'll reveal it later in the show. 
+
+So, are you ready for this wild ride through the history of Fleetwood Mac? I hope so, because it's going to be a blast. 
+
+Pause for music: 'Go Your Own Way' by Fleetwood Mac.
+
+
+--------- Running iteration 2 with (agent_a: Script_Writer, agent_b: Script_Critic) ----------
+
+
+basic_chat: Script_Writer -> Script_Critic
+Script_Writer (to Script_Critic):
+
+----------
+ALEX: 
+Hey there, folks! Welcome, welcome, welcome! This is your host, Alex, and you're tuned into the one and only, the legendary, the absolutely fantastic... drumroll, please... Fleetwood Mac podcast! 
+
+Now, I know what you're thinking. Fleetwood Mac, huh? Well, let me tell you, this band has a history that's as rich and diverse as their music. Formed way back in 1967, Fleetwood Mac started as a British blues band. Yeah, you heard that right, blues! But over the years, they've evolved, changed members, and dabbled in different genres, ultimately becoming the rock legends we know and love today. 
+
+So, what can you expect from this podcast? Well, we're going to dive deep into the band's history, explore their music, and even get into some juicy behind-the-scenes stories. We'll talk about the band's formation, their evolution, their highs and lows, and everything in between. And trust me, there's a lot in between. We'll be discussing iconic albums like 'Rumours' and 'Tusk', and dissecting hits like 'Go Your Own Way' and 'Rhiannon'. So, buckle up, folks!
+
+But hey, let's not get ahead of ourselves. Let's start with a little trivia to get your brains buzzing. Here's the question: Which member of Fleetwood Mac was not an original member but joined the band in 1975 and had a significant impact on their sound? Think you know the answer? Well, hold that thought, and we'll reveal it later in the show. 
+
+So, are you ready for this wild ride through the history of Fleetwood Mac? I hope so, because it's going to be a blast. 
+
+Pause for music: 'Go Your Own Way' by Fleetwood Mac.
+
+--------------------------------------------------------------------------------
+basic_chat(): replied with: ----------
+Feedback:
+
+The revised script is excellent. The addition of specific albums and songs that will be discussed in the podcast adds depth and makes the content more engaging for listeners. The script maintains its cohesiveness, flow, and natural use of filler words. It is fun to listen to, accurate, and provides a unique perspective on Fleetwood Mac. The themes are relatable and the trivia question adds an interactive element that will likely engage listeners. 
+
+The script is now more informative and gives listeners a clearer idea of what to expect from the podcast. The overall flow is smooth and the script is well-structured. 
+
+No further suggestions for improvement. The script is well-written, engaging, and effectively sets the tone for the podcast. 
+
+APPROVED.
+✅ Orchestrator was successful as the complete keyword was found.
+1 ERA 1: The Peter Green Era (1967-1970) (5 minutes)
+- Introduction to the band's early blues roots, key members and their influence.
+- Music: "Black Magic Woman", "Albatross".
+- Discuss the departure of Peter Green and its impact on the band.
+- Share an interesting anecdote about Peter Green's departure.
+- Answer a fan question about this era.
+
+
+
+
+---------- Outline Creation Feedback Conversation Starting ----------
+
+
+basic_chat: Admin -> Script_Writer
+Admin (to Script_Writer):
+
+
+        Write the script for the following section outline:
+        ERA 1: The Peter Green Era (1967-1970) (5 minutes)
+- Introduction to the band's early blues roots, key members and their influence.
+- Music: "Black Magic Woman", "Albatross".
+- Discuss the departure of Peter Green and its impact on the band.
+- Share an interesting anecdote about Peter Green's departure.
+- Answer a fan question about this era.
+
+
+        Use the LAST SECTION SCRIPT to make sure the script flows nicely into the new era.
+        LAST SECTION
+        ----------
+ALEX: 
+Hey there, folks! Welcome, welcome, welcome! This is your host, Alex, and you're tuned into the one and only, the legendary, the absolutely fantastic... drumroll, please... Fleetwood Mac podcast! 
+
+Now, I know what you're thinking. Fleetwood Mac, huh? Well, let me tell you, this band has a history that's as rich and diverse as their music. Formed way back in 1967, Fleetwood Mac started as a British blues band. Yeah, you heard that right, blues! But over the years, they've evolved, changed members, and dabbled in different genres, ultimately becoming the rock legends we know and love today. 
+
+So, what can you expect from this podcast? Well, we're going to dive deep into the band's history, explore their music, and even get into some juicy behind-the-scenes stories. We'll talk about the band's formation, their evolution, their highs and lows, and everything in between. And trust me, there's a lot in between. We'll be discussing iconic albums like 'Rumours' and 'Tusk', and dissecting hits like 'Go Your Own Way' and 'Rhiannon'. So, buckle up, folks!
+
+But hey, let's not get ahead of ourselves. Let's start with a little trivia to get your brains buzzing. Here's the question: Which member of Fleetwood Mac was not an original member but joined the band in 1975 and had a significant impact on their sound? Think you know the answer? Well, hold that thought, and we'll reveal it later in the show. 
+
+So, are you ready for this wild ride through the history of Fleetwood Mac? I hope so, because it's going to be a blast. 
+
+Pause for music: 'Go Your Own Way' by Fleetwood Mac.
+        
+
+--------------------------------------------------------------------------------
+basic_chat(): replied with: ----------
+ALEX: 
+Alright, alright, alright! Welcome back, folks! I hope you enjoyed that little musical interlude. Now, let's dive right into the first era of Fleetwood Mac, the Peter Green Era, which spanned from 1967 to 1970. 
+
+So, uhm, where do we start? Well, Fleetwood Mac was initially a blues band, believe it or not. Yeah, that's right! They were heavily influenced by the likes of B.B. King and Muddy Waters. The key members during this era were Peter Green, Mick Fleetwood, and John McVie. These guys were the backbone of the band, laying down the bluesy foundation that Fleetwood Mac was built on.
+
+Pause for music: 'Black Magic Woman' by Fleetwood Mac.
+
+Ah, 'Black Magic Woman', what a classic! Now, this era was defined by Peter Green's unique guitar playing and songwriting. He was the driving force behind hits like 'Black Magic Woman' and 'Albatross'. 
+
+But, well, all good things must come to an end, right? In 1970, Peter Green left the band. His departure had a significant impact on Fleetwood Mac, causing them to shift their musical direction. 
+
+Now, here's a little anecdote about Peter Green's departure. Apparently, he left the band after a... let's call it a 'bad trip' at a party in Germany. He started to become disillusioned with the music industry and decided to leave Fleetwood Mac. 
+
+Pause for music: 'Albatross' by Fleetwood Mac.
+
+And now, let's answer a fan question about this era. We have a question from... let's see... ah, here we go, from a listener named Jamie. Jamie asks, "What was the band's reaction to Peter Green's departure?" Well, Jamie, it was a tough time for the band. They were shocked and saddened by his departure. But, as they say, the show must go on, and Fleetwood Mac continued to make music, evolving their sound and style.
+
+So, that's it for the Peter Green Era, folks! Stay tuned for the next era, where we'll delve into the Bob Welch years. But before we go, let's reveal the answer to our trivia question. The member of Fleetwood Mac who was not an original member but joined the band in 1975 and had a significant impact on their sound was... drumroll, please... Lindsey Buckingham! 
+
+Alright, folks, that's all for now. Stay tuned for more Fleetwood Mac history, music, and trivia. This is your host, Alex, signing off. Until next time, keep rockin'!
+
+
+--------- Running iteration 0 with (agent_a: Script_Writer, agent_b: Script_Critic) ----------
+
+
+basic_chat: Script_Writer -> Script_Critic
+Script_Writer (to Script_Critic):
+
+----------
+ALEX: 
+Alright, alright, alright! Welcome back, folks! I hope you enjoyed that little musical interlude. Now, let's dive right into the first era of Fleetwood Mac, the Peter Green Era, which spanned from 1967 to 1970. 
+
+So, uhm, where do we start? Well, Fleetwood Mac was initially a blues band, believe it or not. Yeah, that's right! They were heavily influenced by the likes of B.B. King and Muddy Waters. The key members during this era were Peter Green, Mick Fleetwood, and John McVie. These guys were the backbone of the band, laying down the bluesy foundation that Fleetwood Mac was built on.
+
+Pause for music: 'Black Magic Woman' by Fleetwood Mac.
+
+Ah, 'Black Magic Woman', what a classic! Now, this era was defined by Peter Green's unique guitar playing and songwriting. He was the driving force behind hits like 'Black Magic Woman' and 'Albatross'. 
+
+But, well, all good things must come to an end, right? In 1970, Peter Green left the band. His departure had a significant impact on Fleetwood Mac, causing them to shift their musical direction. 
+
+Now, here's a little anecdote about Peter Green's departure. Apparently, he left the band after a... let's call it a 'bad trip' at a party in Germany. He started to become disillusioned with the music industry and decided to leave Fleetwood Mac. 
+
+Pause for music: 'Albatross' by Fleetwood Mac.
+
+And now, let's answer a fan question about this era. We have a question from... let's see... ah, here we go, from a listener named Jamie. Jamie asks, "What was the band's reaction to Peter Green's departure?" Well, Jamie, it was a tough time for the band. They were shocked and saddened by his departure. But, as they say, the show must go on, and Fleetwood Mac continued to make music, evolving their sound and style.
+
+So, that's it for the Peter Green Era, folks! Stay tuned for the next era, where we'll delve into the Bob Welch years. But before we go, let's reveal the answer to our trivia question. The member of Fleetwood Mac who was not an original member but joined the band in 1975 and had a significant impact on their sound was... drumroll, please... Lindsey Buckingham! 
+
+Alright, folks, that's all for now. Stay tuned for more Fleetwood Mac history, music, and trivia. This is your host, Alex, signing off. Until next time, keep rockin'!
+
+--------------------------------------------------------------------------------
+basic_chat(): replied with: ----------
+Feedback:
+
+The script is cohesive and maintains a good flow from the introduction to the first era of Fleetwood Mac. The transition from the last era to this era is smooth and natural. The use of filler words is natural and adds to the conversational tone of the script. The script is fun to listen to, with a good balance of information and entertainment. 
+
+The information provided about Fleetwood Mac is accurate, and the script provides a good depth of information about the Peter Green Era. The trivia question and fan question add interactive elements to the podcast and help to engage listeners. 
+
+The script is original and provides a unique perspective on Fleetwood Mac. The themes of the band's evolution and the impact of different members are relatable and will likely resonate with listeners. 
+
+One suggestion for improvement would be to include a brief mention of how the band's sound changed after Peter Green's departure. This could help to set the stage for the next era of Fleetwood Mac and give listeners a better idea of what to expect from the next episode. 
+
+For example, the script could be modified as follows:
+
+"But, well, all good things must come to an end, right? In 1970, Peter Green left the band. His departure had a significant impact on Fleetwood Mac, causing them to shift their musical direction. They started to move away from their blues roots and began to experiment with a more rock-oriented sound. This change in direction would become even more pronounced in the next era of Fleetwood Mac, the Bob Welch years."
+
+Overall, the script is well-written and engaging. With the addition of a few specific details, it could be even more effective in drawing in listeners.
+
+
+--------- Running iteration 1 with (agent_a: Script_Critic, agent_b: Script_Writer) ----------
+
+
+basic_chat: Script_Critic -> Script_Writer
+Script_Critic (to Script_Writer):
+
+----------
+Feedback:
+
+The script is cohesive and maintains a good flow from the introduction to the first era of Fleetwood Mac. The transition from the last era to this era is smooth and natural. The use of filler words is natural and adds to the conversational tone of the script. The script is fun to listen to, with a good balance of information and entertainment. 
+
+The information provided about Fleetwood Mac is accurate, and the script provides a good depth of information about the Peter Green Era. The trivia question and fan question add interactive elements to the podcast and help to engage listeners. 
+
+The script is original and provides a unique perspective on Fleetwood Mac. The themes of the band's evolution and the impact of different members are relatable and will likely resonate with listeners. 
+
+One suggestion for improvement would be to include a brief mention of how the band's sound changed after Peter Green's departure. This could help to set the stage for the next era of Fleetwood Mac and give listeners a better idea of what to expect from the next episode. 
+
+For example, the script could be modified as follows:
+
+"But, well, all good things must come to an end, right? In 1970, Peter Green left the band. His departure had a significant impact on Fleetwood Mac, causing them to shift their musical direction. They started to move away from their blues roots and began to experiment with a more rock-oriented sound. This change in direction would become even more pronounced in the next era of Fleetwood Mac, the Bob Welch years."
+
+Overall, the script is well-written and engaging. With the addition of a few specific details, it could be even more effective in drawing in listeners.
+
+--------------------------------------------------------------------------------
+basic_chat(): replied with: ----------
+ALEX: 
+Alright, alright, alright! Welcome back, folks! I hope you enjoyed that little musical interlude. Now, let's dive right into the first era of Fleetwood Mac, the Peter Green Era, which spanned from 1967 to 1970. 
+
+So, uhm, where do we start? Well, Fleetwood Mac was initially a blues band, believe it or not. Yeah, that's right! They were heavily influenced by the likes of B.B. King and Muddy Waters. The key members during this era were Peter Green, Mick Fleetwood, and John McVie. These guys were the backbone of the band, laying down the bluesy foundation that Fleetwood Mac was built on.
+
+Pause for music: 'Black Magic Woman' by Fleetwood Mac.
+
+Ah, 'Black Magic Woman', what a classic! Now, this era was defined by Peter Green's unique guitar playing and songwriting. He was the driving force behind hits like 'Black Magic Woman' and 'Albatross'. 
+
+But, well, all good things must come to an end, right? In 1970, Peter Green left the band. His departure had a significant impact on Fleetwood Mac, causing them to shift their musical direction. They started to move away from their blues roots and began to experiment with a more rock-oriented sound. This change in direction would become even more pronounced in the next era of Fleetwood Mac, the Bob Welch years.
+
+Now, here's a little anecdote about Peter Green's departure. Apparently, he left the band after a... let's call it a 'bad trip' at a party in Germany. He started to become disillusioned with the music industry and decided to leave Fleetwood Mac. 
+
+Pause for music: 'Albatross' by Fleetwood Mac.
+
+And now, let's answer a fan question about this era. We have a question from... let's see... ah, here we go, from a listener named Jamie. Jamie asks, "What was the band's reaction to Peter Green's departure?" Well, Jamie, it was a tough time for the band. They were shocked and saddened by his departure. But, as they say, the show must go on, and Fleetwood Mac continued to make music, evolving their sound and style.
+
+So, that's it for the Peter Green Era, folks! Stay tuned for the next era, where we'll delve into the Bob Welch years. But before we go, let's reveal the answer to our trivia question. The member of Fleetwood Mac who was not an original member but joined the band in 1975 and had a significant impact on their sound was... drumroll, please... Lindsey Buckingham! 
+
+Alright, folks, that's all for now. Stay tuned for more Fleetwood Mac history, music, and trivia. This is your host, Alex, signing off. Until next time, keep rockin'!
+
+
+--------- Running iteration 2 with (agent_a: Script_Writer, agent_b: Script_Critic) ----------
+
+
+basic_chat: Script_Writer -> Script_Critic
+Script_Writer (to Script_Critic):
+
+----------
+ALEX: 
+Alright, alright, alright! Welcome back, folks! I hope you enjoyed that little musical interlude. Now, let's dive right into the first era of Fleetwood Mac, the Peter Green Era, which spanned from 1967 to 1970. 
+
+So, uhm, where do we start? Well, Fleetwood Mac was initially a blues band, believe it or not. Yeah, that's right! They were heavily influenced by the likes of B.B. King and Muddy Waters. The key members during this era were Peter Green, Mick Fleetwood, and John McVie. These guys were the backbone of the band, laying down the bluesy foundation that Fleetwood Mac was built on.
+
+Pause for music: 'Black Magic Woman' by Fleetwood Mac.
+
+Ah, 'Black Magic Woman', what a classic! Now, this era was defined by Peter Green's unique guitar playing and songwriting. He was the driving force behind hits like 'Black Magic Woman' and 'Albatross'. 
+
+But, well, all good things must come to an end, right? In 1970, Peter Green left the band. His departure had a significant impact on Fleetwood Mac, causing them to shift their musical direction. They started to move away from their blues roots and began to experiment with a more rock-oriented sound. This change in direction would become even more pronounced in the next era of Fleetwood Mac, the Bob Welch years.
+
+Now, here's a little anecdote about Peter Green's departure. Apparently, he left the band after a... let's call it a 'bad trip' at a party in Germany. He started to become disillusioned with the music industry and decided to leave Fleetwood Mac. 
+
+Pause for music: 'Albatross' by Fleetwood Mac.
+
+And now, let's answer a fan question about this era. We have a question from... let's see... ah, here we go, from a listener named Jamie. Jamie asks, "What was the band's reaction to Peter Green's departure?" Well, Jamie, it was a tough time for the band. They were shocked and saddened by his departure. But, as they say, the show must go on, and Fleetwood Mac continued to make music, evolving their sound and style.
+
+So, that's it for the Peter Green Era, folks! Stay tuned for the next era, where we'll delve into the Bob Welch years. But before we go, let's reveal the answer to our trivia question. The member of Fleetwood Mac who was not an original member but joined the band in 1975 and had a significant impact on their sound was... drumroll, please... Lindsey Buckingham! 
+
+Alright, folks, that's all for now. Stay tuned for more Fleetwood Mac history, music, and trivia. This is your host, Alex, signing off. Until next time, keep rockin'!
+
+--------------------------------------------------------------------------------
+basic_chat(): replied with: APPROVED
+✅ Orchestrator was successful as the complete keyword was found.
+2 ERA 2: The Transitional Era (1970-1974) (4 minutes)
+- Discuss the band's struggle to find a new sound and identity, multiple lineup changes.
+- Music: "Dragonfly", "Did You Ever Love Me".
+- Talk about the recruitment of Lindsey Buckingham and Stevie Nicks.
+- Discuss the inspiration behind "Dragonfly".
+- Share a fan's anecdote about discovering Fleetwood Mac during this era.
+
+
+
+
+---------- Outline Creation Feedback Conversation Starting ----------
+
+
+basic_chat: Admin -> Script_Writer
+Admin (to Script_Writer):
+
+
+        Write the script for the following section outline:
+        ERA 2: The Transitional Era (1970-1974) (4 minutes)
+- Discuss the band's struggle to find a new sound and identity, multiple lineup changes.
+- Music: "Dragonfly", "Did You Ever Love Me".
+- Talk about the recruitment of Lindsey Buckingham and Stevie Nicks.
+- Discuss the inspiration behind "Dragonfly".
+- Share a fan's anecdote about discovering Fleetwood Mac during this era.
+
+
+        Use the LAST SECTION SCRIPT to make sure the script flows nicely into the new era.
+        LAST SECTION
+        ----------
+ALEX: 
+Alright, alright, alright! Welcome back, folks! I hope you enjoyed that little musical interlude. Now, let's dive right into the first era of Fleetwood Mac, the Peter Green Era, which spanned from 1967 to 1970. 
+
+So, uhm, where do we start? Well, Fleetwood Mac was initially a blues band, believe it or not. Yeah, that's right! They were heavily influenced by the likes of B.B. King and Muddy Waters. The key members during this era were Peter Green, Mick Fleetwood, and John McVie. These guys were the backbone of the band, laying down the bluesy foundation that Fleetwood Mac was built on.
+
+Pause for music: 'Black Magic Woman' by Fleetwood Mac.
+
+Ah, 'Black Magic Woman', what a classic! Now, this era was defined by Peter Green's unique guitar playing and songwriting. He was the driving force behind hits like 'Black Magic Woman' and 'Albatross'. 
+
+But, well, all good things must come to an end, right? In 1970, Peter Green left the band. His departure had a significant impact on Fleetwood Mac, causing them to shift their musical direction. They started to move away from their blues roots and began to experiment with a more rock-oriented sound. This change in direction would become even more pronounced in the next era of Fleetwood Mac, the Bob Welch years.
+
+Now, here's a little anecdote about Peter Green's departure. Apparently, he left the band after a... let's call it a 'bad trip' at a party in Germany. He started to become disillusioned with the music industry and decided to leave Fleetwood Mac. 
+
+Pause for music: 'Albatross' by Fleetwood Mac.
+
+And now, let's answer a fan question about this era. We have a question from... let's see... ah, here we go, from a listener named Jamie. Jamie asks, "What was the band's reaction to Peter Green's departure?" Well, Jamie, it was a tough time for the band. They were shocked and saddened by his departure. But, as they say, the show must go on, and Fleetwood Mac continued to make music, evolving their sound and style.
+
+So, that's it for the Peter Green Era, folks! Stay tuned for the next era, where we'll delve into the Bob Welch years. But before we go, let's reveal the answer to our trivia question. The member of Fleetwood Mac who was not an original member but joined the band in 1975 and had a significant impact on their sound was... drumroll, please... Lindsey Buckingham! 
+
+Alright, folks, that's all for now. Stay tuned for more Fleetwood Mac history, music, and trivia. This is your host, Alex, signing off. Until next time, keep rockin'!
+        
+
+--------------------------------------------------------------------------------
+basic_chat(): replied with: 
+        Write the script for the following section outline:
+        ERA 2: The Transitional Era (1970-1974) (4 minutes)
+- Discuss the band's struggle to find a new sound and identity, multiple lineup changes.
+- Music: "Dragonfly", "Did You Ever Love Me".
+- Talk about the recruitment of Lindsey Buckingham and Stevie Nicks.
+- Discuss the inspiration behind "Dragonfly".
+- Share a fan's anecdote about discovering Fleetwood Mac during this era.
+
+
+        Use the LAST SECTION SCRIPT to make sure the script flows nicely into the new era.
+        LAST SECTION
+        ----------
+ALEX: 
+And we're back, folks! I hope you're ready for another deep dive into the history of Fleetwood Mac. This time, we're exploring the Transitional Era, which spanned from 1970 to 1974. 
+
+Now, this was a time of, well, transition for the band. After Peter Green's departure, Fleetwood Mac was left in a bit of a lurch. They were struggling to find a new sound and identity, and there were multiple lineup changes during this period. It was a bit of a rollercoaster ride, to say the least.
+
+Pause for music: 'Dragonfly' by Fleetwood Mac.
+
+Ah, 'Dragonfly', such a beautiful song. Now, during this era, the band was experimenting with different sounds and styles. They were moving away from their blues roots and exploring more rock and pop-oriented music. 
+
+And then, in 1974, a significant event happened. Fleetwood Mac recruited Lindsey Buckingham and Stevie Nicks, two musicians who would have a profound impact on the band's sound. But, we'll get into that in the next era. 
+
+Now, let's talk about 'Dragonfly'. This song was inspired by a poem by Welsh poet W.H. Davies. It's a beautiful, haunting song that really encapsulates the band's transitional period.
+
+Pause for music: 'Did You Ever Love Me' by Fleetwood Mac.
+
+And now, let's share a fan's anecdote about discovering Fleetwood Mac during this era. We have a story from... let's see... ah, here we go, from a listener named Sarah. Sarah says, "I discovered Fleetwood Mac in the early 70s when I was in high school. I remember hearing 'Dragonfly' on the radio and being completely captivated by it. It was unlike anything I'd ever heard before. That song made me a lifelong fan of Fleetwood Mac." 
+
+Well, Sarah, thank you for sharing your story. It's always wonderful to hear about how people discovered Fleetwood Mac and the impact their music has had. 
+
+So, that's it for the Transitional Era, folks! Stay tuned for the next era, where we'll delve into the Buckingham-Nicks years. But before we go, let's reveal the answer to our trivia question. The member of Fleetwood Mac who was not an original member but joined the band in 1975 and had a significant impact on their sound was... drumroll, please... Lindsey Buckingham! 
+
+Alright, folks, that's all for now. Stay tuned for more Fleetwood Mac history, music, and trivia. This is your host, Alex, signing off. Until next time, keep rockin'!
+
+
+--------- Running iteration 0 with (agent_a: Script_Writer, agent_b: Script_Critic) ----------
+
+
+basic_chat: Script_Writer -> Script_Critic
+Script_Writer (to Script_Critic):
+
+
+        Write the script for the following section outline:
+        ERA 2: The Transitional Era (1970-1974) (4 minutes)
+- Discuss the band's struggle to find a new sound and identity, multiple lineup changes.
+- Music: "Dragonfly", "Did You Ever Love Me".
+- Talk about the recruitment of Lindsey Buckingham and Stevie Nicks.
+- Discuss the inspiration behind "Dragonfly".
+- Share a fan's anecdote about discovering Fleetwood Mac during this era.
+
+
+        Use the LAST SECTION SCRIPT to make sure the script flows nicely into the new era.
+        LAST SECTION
+        ----------
+ALEX: 
+And we're back, folks! I hope you're ready for another deep dive into the history of Fleetwood Mac. This time, we're exploring the Transitional Era, which spanned from 1970 to 1974. 
+
+Now, this was a time of, well, transition for the band. After Peter Green's departure, Fleetwood Mac was left in a bit of a lurch. They were struggling to find a new sound and identity, and there were multiple lineup changes during this period. It was a bit of a rollercoaster ride, to say the least.
+
+Pause for music: 'Dragonfly' by Fleetwood Mac.
+
+Ah, 'Dragonfly', such a beautiful song. Now, during this era, the band was experimenting with different sounds and styles. They were moving away from their blues roots and exploring more rock and pop-oriented music. 
+
+And then, in 1974, a significant event happened. Fleetwood Mac recruited Lindsey Buckingham and Stevie Nicks, two musicians who would have a profound impact on the band's sound. But, we'll get into that in the next era. 
+
+Now, let's talk about 'Dragonfly'. This song was inspired by a poem by Welsh poet W.H. Davies. It's a beautiful, haunting song that really encapsulates the band's transitional period.
+
+Pause for music: 'Did You Ever Love Me' by Fleetwood Mac.
+
+And now, let's share a fan's anecdote about discovering Fleetwood Mac during this era. We have a story from... let's see... ah, here we go, from a listener named Sarah. Sarah says, "I discovered Fleetwood Mac in the early 70s when I was in high school. I remember hearing 'Dragonfly' on the radio and being completely captivated by it. It was unlike anything I'd ever heard before. That song made me a lifelong fan of Fleetwood Mac." 
+
+Well, Sarah, thank you for sharing your story. It's always wonderful to hear about how people discovered Fleetwood Mac and the impact their music has had. 
+
+So, that's it for the Transitional Era, folks! Stay tuned for the next era, where we'll delve into the Buckingham-Nicks years. But before we go, let's reveal the answer to our trivia question. The member of Fleetwood Mac who was not an original member but joined the band in 1975 and had a significant impact on their sound was... drumroll, please... Lindsey Buckingham! 
+
+Alright, folks, that's all for now. Stay tuned for more Fleetwood Mac history, music, and trivia. This is your host, Alex, signing off. Until next time, keep rockin'!
+
+--------------------------------------------------------------------------------
+basic_chat(): replied with: ----------
+Feedback:
+
+The script is cohesive and maintains a good flow from the previous era to the Transitional Era of Fleetwood Mac. The transition from the last era to this era is smooth and natural. The use of filler words is natural and adds to the conversational tone of the script. The script is fun to listen to, with a good balance of information and entertainment. 
+
+The information provided about Fleetwood Mac is accurate, and the script provides a good depth of information about the Transitional Era. The fan's anecdote adds an interactive element to the podcast and helps to engage listeners. 
+
+The script is original and provides a unique perspective on Fleetwood Mac. The themes of the band's evolution and the impact of different members are relatable and will likely resonate with listeners. 
+
+One suggestion for improvement would be to include a brief mention of how the band's sound changed after the recruitment of Lindsey Buckingham and Stevie Nicks. This could help to set the stage for the next era of Fleetwood Mac and give listeners a better idea of what to expect from the next episode. 
+
+For example, the script could be modified as follows:
+
+"And then, in 1974, a significant event happened. Fleetwood Mac recruited Lindsey Buckingham and Stevie Nicks, two musicians who would have a profound impact on the band's sound. Their addition to the band marked a shift towards a more pop-oriented sound, which would become even more pronounced in the next era of Fleetwood Mac, the Buckingham-Nicks years."
+
+Overall, the script is well-written and engaging. With the addition of a few specific details, it could be even more effective in drawing in listeners.
+
+
+--------- Running iteration 1 with (agent_a: Script_Critic, agent_b: Script_Writer) ----------
+
+
+basic_chat: Script_Critic -> Script_Writer
+Script_Critic (to Script_Writer):
+
+----------
+Feedback:
+
+The script is cohesive and maintains a good flow from the previous era to the Transitional Era of Fleetwood Mac. The transition from the last era to this era is smooth and natural. The use of filler words is natural and adds to the conversational tone of the script. The script is fun to listen to, with a good balance of information and entertainment. 
+
+The information provided about Fleetwood Mac is accurate, and the script provides a good depth of information about the Transitional Era. The fan's anecdote adds an interactive element to the podcast and helps to engage listeners. 
+
+The script is original and provides a unique perspective on Fleetwood Mac. The themes of the band's evolution and the impact of different members are relatable and will likely resonate with listeners. 
+
+One suggestion for improvement would be to include a brief mention of how the band's sound changed after the recruitment of Lindsey Buckingham and Stevie Nicks. This could help to set the stage for the next era of Fleetwood Mac and give listeners a better idea of what to expect from the next episode. 
+
+For example, the script could be modified as follows:
+
+"And then, in 1974, a significant event happened. Fleetwood Mac recruited Lindsey Buckingham and Stevie Nicks, two musicians who would have a profound impact on the band's sound. Their addition to the band marked a shift towards a more pop-oriented sound, which would become even more pronounced in the next era of Fleetwood Mac, the Buckingham-Nicks years."
+
+Overall, the script is well-written and engaging. With the addition of a few specific details, it could be even more effective in drawing in listeners.
+
+--------------------------------------------------------------------------------
+basic_chat(): replied with: ----------
+ALEX: 
+And we're back, folks! I hope you're ready for another deep dive into the history of Fleetwood Mac. This time, we're exploring the Transitional Era, which spanned from 1970 to 1974. 
+
+Now, this was a time of, well, transition for the band. After Peter Green's departure, Fleetwood Mac was left in a bit of a lurch. They were struggling to find a new sound and identity, and there were multiple lineup changes during this period. It was a bit of a rollercoaster ride, to say the least.
+
+Pause for music: 'Dragonfly' by Fleetwood Mac.
+
+Ah, 'Dragonfly', such a beautiful song. Now, during this era, the band was experimenting with different sounds and styles. They were moving away from their blues roots and exploring more rock and pop-oriented music. 
+
+And then, in 1974, a significant event happened. Fleetwood Mac recruited Lindsey Buckingham and Stevie Nicks, two musicians who would have a profound impact on the band's sound. Their addition to the band marked a shift towards a more pop-oriented sound, which would become even more pronounced in the next era of Fleetwood Mac, the Buckingham-Nicks years.
+
+Now, let's talk about 'Dragonfly'. This song was inspired by a poem by Welsh poet W.H. Davies. It's a beautiful, haunting song that really encapsulates the band's transitional period.
+
+Pause for music: 'Did You Ever Love Me' by Fleetwood Mac.
+
+And now, let's share a fan's anecdote about discovering Fleetwood Mac during this era. We have a story from... let's see... ah, here we go, from a listener named Sarah. Sarah says, "I discovered Fleetwood Mac in the early 70s when I was in high school. I remember hearing 'Dragonfly' on the radio and being completely captivated by it. It was unlike anything I'd ever heard before. That song made me a lifelong fan of Fleetwood Mac." 
+
+Well, Sarah, thank you for sharing your story. It's always wonderful to hear about how people discovered Fleetwood Mac and the impact their music has had. 
+
+So, that's it for the Transitional Era, folks! Stay tuned for the next era, where we'll delve into the Buckingham-Nicks years. But before we go, let's reveal the answer to our trivia question. The member of Fleetwood Mac who was not an original member but joined the band in 1975 and had a significant impact on their sound was... drumroll, please... Lindsey Buckingham! 
+
+Alright, folks, that's all for now. Stay tuned for more Fleetwood Mac history, music, and trivia. This is your host, Alex, signing off. Until next time, keep rockin'!
+
+
+--------- Running iteration 2 with (agent_a: Script_Writer, agent_b: Script_Critic) ----------
+
+
+basic_chat: Script_Writer -> Script_Critic
+Script_Writer (to Script_Critic):
+
+----------
+ALEX: 
+And we're back, folks! I hope you're ready for another deep dive into the history of Fleetwood Mac. This time, we're exploring the Transitional Era, which spanned from 1970 to 1974. 
+
+Now, this was a time of, well, transition for the band. After Peter Green's departure, Fleetwood Mac was left in a bit of a lurch. They were struggling to find a new sound and identity, and there were multiple lineup changes during this period. It was a bit of a rollercoaster ride, to say the least.
+
+Pause for music: 'Dragonfly' by Fleetwood Mac.
+
+Ah, 'Dragonfly', such a beautiful song. Now, during this era, the band was experimenting with different sounds and styles. They were moving away from their blues roots and exploring more rock and pop-oriented music. 
+
+And then, in 1974, a significant event happened. Fleetwood Mac recruited Lindsey Buckingham and Stevie Nicks, two musicians who would have a profound impact on the band's sound. Their addition to the band marked a shift towards a more pop-oriented sound, which would become even more pronounced in the next era of Fleetwood Mac, the Buckingham-Nicks years.
+
+Now, let's talk about 'Dragonfly'. This song was inspired by a poem by Welsh poet W.H. Davies. It's a beautiful, haunting song that really encapsulates the band's transitional period.
+
+Pause for music: 'Did You Ever Love Me' by Fleetwood Mac.
+
+And now, let's share a fan's anecdote about discovering Fleetwood Mac during this era. We have a story from... let's see... ah, here we go, from a listener named Sarah. Sarah says, "I discovered Fleetwood Mac in the early 70s when I was in high school. I remember hearing 'Dragonfly' on the radio and being completely captivated by it. It was unlike anything I'd ever heard before. That song made me a lifelong fan of Fleetwood Mac." 
+
+Well, Sarah, thank you for sharing your story. It's always wonderful to hear about how people discovered Fleetwood Mac and the impact their music has had. 
+
+So, that's it for the Transitional Era, folks! Stay tuned for the next era, where we'll delve into the Buckingham-Nicks years. But before we go, let's reveal the answer to our trivia question. The member of Fleetwood Mac who was not an original member but joined the band in 1975 and had a significant impact on their sound was... drumroll, please... Lindsey Buckingham! 
+
+Alright, folks, that's all for now. Stay tuned for more Fleetwood Mac history, music, and trivia. This is your host, Alex, signing off. Until next time, keep rockin'!
+
+--------------------------------------------------------------------------------
+basic_chat(): replied with: APPROVED
+✅ Orchestrator was successful as the complete keyword was found.
+3 ERA 3: The Buckingham-Nicks Era (1975-1987) (6 minutes)
+- Introduction to the band's most successful period, the addition of Buckingham and Nicks.
+- Music: "Rhiannon", "Go Your Own Way", "Tusk", "Landslide", "Dreams".
+- Discuss the band's internal struggles, romantic tensions, and their impact on the music.
+- Share a snippet from a past interview with Stevie Nicks discussing "Rhiannon".
+- Answer a fan question about this era.
+
+
+
+
+---------- Outline Creation Feedback Conversation Starting ----------
+
+
+basic_chat: Admin -> Script_Writer
+Admin (to Script_Writer):
+
+
+        Write the script for the following section outline:
+        ERA 3: The Buckingham-Nicks Era (1975-1987) (6 minutes)
+- Introduction to the band's most successful period, the addition of Buckingham and Nicks.
+- Music: "Rhiannon", "Go Your Own Way", "Tusk", "Landslide", "Dreams".
+- Discuss the band's internal struggles, romantic tensions, and their impact on the music.
+- Share a snippet from a past interview with Stevie Nicks discussing "Rhiannon".
+- Answer a fan question about this era.
+
+
+        Use the LAST SECTION SCRIPT to make sure the script flows nicely into the new era.
+        LAST SECTION
+        ----------
+ALEX: 
+And we're back, folks! I hope you're ready for another deep dive into the history of Fleetwood Mac. This time, we're exploring the Transitional Era, which spanned from 1970 to 1974. 
+
+Now, this was a time of, well, transition for the band. After Peter Green's departure, Fleetwood Mac was left in a bit of a lurch. They were struggling to find a new sound and identity, and there were multiple lineup changes during this period. It was a bit of a rollercoaster ride, to say the least.
+
+Pause for music: 'Dragonfly' by Fleetwood Mac.
+
+Ah, 'Dragonfly', such a beautiful song. Now, during this era, the band was experimenting with different sounds and styles. They were moving away from their blues roots and exploring more rock and pop-oriented music. 
+
+And then, in 1974, a significant event happened. Fleetwood Mac recruited Lindsey Buckingham and Stevie Nicks, two musicians who would have a profound impact on the band's sound. Their addition to the band marked a shift towards a more pop-oriented sound, which would become even more pronounced in the next era of Fleetwood Mac, the Buckingham-Nicks years.
+
+Now, let's talk about 'Dragonfly'. This song was inspired by a poem by Welsh poet W.H. Davies. It's a beautiful, haunting song that really encapsulates the band's transitional period.
+
+Pause for music: 'Did You Ever Love Me' by Fleetwood Mac.
+
+And now, let's share a fan's anecdote about discovering Fleetwood Mac during this era. We have a story from... let's see... ah, here we go, from a listener named Sarah. Sarah says, "I discovered Fleetwood Mac in the early 70s when I was in high school. I remember hearing 'Dragonfly' on the radio and being completely captivated by it. It was unlike anything I'd ever heard before. That song made me a lifelong fan of Fleetwood Mac." 
+
+Well, Sarah, thank you for sharing your story. It's always wonderful to hear about how people discovered Fleetwood Mac and the impact their music has had. 
+
+So, that's it for the Transitional Era, folks! Stay tuned for the next era, where we'll delve into the Buckingham-Nicks years. But before we go, let's reveal the answer to our trivia question. The member of Fleetwood Mac who was not an original member but joined the band in 1975 and had a significant impact on their sound was... drumroll, please... Lindsey Buckingham! 
+
+Alright, folks, that's all for now. Stay tuned for more Fleetwood Mac history, music, and trivia. This is your host, Alex, signing off. Until next time, keep rockin'!
+        
+
+--------------------------------------------------------------------------------
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+  File "/Users/kbverlaan/GitProjects/autogen-podcast/autogen_podcast/main.py", line 69, in main
+    _, strategy_messages = script_writer_orchestrator.feedback_conversation(prompt)
+  File "/Users/kbverlaan/GitProjects/autogen-podcast/autogen_podcast/modules/orchestrator.py", line 209, in feedback_conversation
+    self.basic_chat(agent_a, agent_b, self.latest_message)
+  File "/Users/kbverlaan/GitProjects/autogen-podcast/autogen_podcast/modules/orchestrator.py", line 79, in basic_chat
+    reply = agent_b.generate_reply(sender=agent_a)
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/autogen/agentchat/conversable_agent.py", line 781, in generate_reply
+    final, reply = reply_func(self, messages=messages, sender=sender, config=reply_func_tuple["config"])
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/autogen/agentchat/conversable_agent.py", line 606, in generate_oai_reply
+    response = oai.ChatCompletion.create(
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/autogen/oai/completion.py", line 803, in create
+    response = cls.create(
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/autogen/oai/completion.py", line 834, in create
+    return cls._get_response(params, raise_on_ratelimit_or_timeout=raise_on_ratelimit_or_timeout)
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/autogen/oai/completion.py", line 222, in _get_response
+    response = openai_completion.create(**config)
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/openai/api_resources/chat_completion.py", line 25, in create
+    return super().create(*args, **kwargs)
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/openai/api_resources/abstract/engine_api_resource.py", line 155, in create
+    response, _, api_key = requestor.request(
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/openai/api_requestor.py", line 289, in request
+    result = self.request_raw(
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/openai/api_requestor.py", line 606, in request_raw
+    result = _thread_context.session.request(
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/requests/sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/requests/sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/requests/adapters.py", line 486, in send
+    resp = conn.urlopen(
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/urllib3/connectionpool.py", line 791, in urlopen
+    response = self._make_request(
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/urllib3/connectionpool.py", line 537, in _make_request
+    response = conn.getresponse()
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/urllib3/connection.py", line 461, in getresponse
+    httplib_response = super().getresponse()
+  File "/Users/kbverlaan/miniforge3/lib/python3.10/http/client.py", line 1374, in getresponse
+    response.begin()
+  File "/Users/kbverlaan/miniforge3/lib/python3.10/http/client.py", line 318, in begin
+    version, status, reason = self._read_status()
+  File "/Users/kbverlaan/miniforge3/lib/python3.10/http/client.py", line 279, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "/Users/kbverlaan/miniforge3/lib/python3.10/socket.py", line 705, in readinto
+    return self._sock.recv_into(b)
+  File "/Users/kbverlaan/miniforge3/lib/python3.10/ssl.py", line 1274, in recv_into
+    return self.read(nbytes, buffer)
+  File "/Users/kbverlaan/miniforge3/lib/python3.10/ssl.py", line 1130, in read
+    return self._sslobj.read(len, buffer)
+KeyboardInterrupt

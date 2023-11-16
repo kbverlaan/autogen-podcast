@@ -1,0 +1,113 @@
+
+
+---------- Outline Creation Feedback Conversation Starting ----------
+
+
+basic_chat: Admin -> Script_Writer
+Admin (to Script_Writer):
+
+
+        Write the part of the script for the following section outline:
+        INTRODUCTION (3 minutes)
+- Brief history of Fleetwood Mac, formation and evolution over the years.
+- Overview of the podcast structure and what listeners can expect.
+- Teaser trivia question about Fleetwood Mac to engage listeners.
+
+
+        Use the LAST THREE SENTENCES from the last section to make sure this script flows naturally into this section.
+        ENDING OF LAST SECTION
+        Introduction has no pervious section. The podcast name is Rhythm and Roots.
+        
+
+--------------------------------------------------------------------------------
+basic_chat(): replied with: ...and that, my friends, is the essence of Rhythm and Roots, where we delve into the stories behind the music that moves us. Now, let's shift gears a bit, shall we? 
+
+Pause for music: 'Go Your Own Way' by Fleetwood Mac
+
+Alright, alright, alright... I hope you enjoyed that little musical interlude. Now, let's talk about a band that's been around the block a few times, shall we? I'm talking about none other than Fleetwood Mac. 
+
+Formed in 1967, Fleetwood Mac started as a British blues band. Over the years, they've evolved, changed members, and even genres. From blues to rock to pop, they've done it all. And through all the changes, they've managed to stay relevant, producing hit after hit. 
+
+Now, in this podcast, we're going to take a deep dive into the history of Fleetwood Mac, their music, and the stories behind their songs. We'll talk about their formation, their evolution, and the ups and downs they've faced over the years. We'll also delve into the personal lives of the band members, their relationships with each other, and how all of this influenced their music. 
+
+So, if you're a fan of Fleetwood Mac, or if you're just curious about the stories behind some of the most iconic songs in music history, then you're in the right place. 
+
+And to keep things interesting, I'll be throwing in some trivia questions throughout the podcast. Here's a little teaser for you... Can you name the only Fleetwood Mac album to reach number one on the UK Albums Chart? Don't worry, I'll give you the answer later in the show. 
+
+So, sit back, relax, and let's take a journey into the world of Fleetwood Mac...
+
+
+--------- Running iteration 0 with (agent_a: Script_Writer, agent_b: Script_Critic) ----------
+
+
+basic_chat: Script_Writer -> Script_Critic
+Script_Writer (to Script_Critic):
+
+...and that, my friends, is the essence of Rhythm and Roots, where we delve into the stories behind the music that moves us. Now, let's shift gears a bit, shall we? 
+
+Pause for music: 'Go Your Own Way' by Fleetwood Mac
+
+Alright, alright, alright... I hope you enjoyed that little musical interlude. Now, let's talk about a band that's been around the block a few times, shall we? I'm talking about none other than Fleetwood Mac. 
+
+Formed in 1967, Fleetwood Mac started as a British blues band. Over the years, they've evolved, changed members, and even genres. From blues to rock to pop, they've done it all. And through all the changes, they've managed to stay relevant, producing hit after hit. 
+
+Now, in this podcast, we're going to take a deep dive into the history of Fleetwood Mac, their music, and the stories behind their songs. We'll talk about their formation, their evolution, and the ups and downs they've faced over the years. We'll also delve into the personal lives of the band members, their relationships with each other, and how all of this influenced their music. 
+
+So, if you're a fan of Fleetwood Mac, or if you're just curious about the stories behind some of the most iconic songs in music history, then you're in the right place. 
+
+And to keep things interesting, I'll be throwing in some trivia questions throughout the podcast. Here's a little teaser for you... Can you name the only Fleetwood Mac album to reach number one on the UK Albums Chart? Don't worry, I'll give you the answer later in the show. 
+
+So, sit back, relax, and let's take a journey into the world of Fleetwood Mac...
+
+--------------------------------------------------------------------------------
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+  File "/Users/kbverlaan/GitProjects/autogen-podcast/autogen_podcast/main.py", line 78, in main
+    _, strategy_messages = script_writer_orchestrator.feedback_conversation(prompt)
+  File "/Users/kbverlaan/GitProjects/autogen-podcast/autogen_podcast/modules/orchestrator.py", line 220, in feedback_conversation
+    self.basic_chat(agent_a, agent_b, self.latest_message)
+  File "/Users/kbverlaan/GitProjects/autogen-podcast/autogen_podcast/modules/orchestrator.py", line 79, in basic_chat
+    reply = agent_b.generate_reply(sender=agent_a)
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/autogen/agentchat/conversable_agent.py", line 781, in generate_reply
+    final, reply = reply_func(self, messages=messages, sender=sender, config=reply_func_tuple["config"])
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/autogen/agentchat/conversable_agent.py", line 606, in generate_oai_reply
+    response = oai.ChatCompletion.create(
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/autogen/oai/completion.py", line 803, in create
+    response = cls.create(
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/autogen/oai/completion.py", line 834, in create
+    return cls._get_response(params, raise_on_ratelimit_or_timeout=raise_on_ratelimit_or_timeout)
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/autogen/oai/completion.py", line 222, in _get_response
+    response = openai_completion.create(**config)
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/openai/api_resources/chat_completion.py", line 25, in create
+    return super().create(*args, **kwargs)
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/openai/api_resources/abstract/engine_api_resource.py", line 155, in create
+    response, _, api_key = requestor.request(
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/openai/api_requestor.py", line 289, in request
+    result = self.request_raw(
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/openai/api_requestor.py", line 606, in request_raw
+    result = _thread_context.session.request(
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/requests/sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/requests/sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/requests/adapters.py", line 486, in send
+    resp = conn.urlopen(
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/urllib3/connectionpool.py", line 791, in urlopen
+    response = self._make_request(
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/urllib3/connectionpool.py", line 537, in _make_request
+    response = conn.getresponse()
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/urllib3/connection.py", line 461, in getresponse
+    httplib_response = super().getresponse()
+  File "/Users/kbverlaan/miniforge3/lib/python3.10/http/client.py", line 1374, in getresponse
+    response.begin()
+  File "/Users/kbverlaan/miniforge3/lib/python3.10/http/client.py", line 318, in begin
+    version, status, reason = self._read_status()
+  File "/Users/kbverlaan/miniforge3/lib/python3.10/http/client.py", line 279, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "/Users/kbverlaan/miniforge3/lib/python3.10/socket.py", line 705, in readinto
+    return self._sock.recv_into(b)
+  File "/Users/kbverlaan/miniforge3/lib/python3.10/ssl.py", line 1274, in recv_into
+    return self.read(nbytes, buffer)
+  File "/Users/kbverlaan/miniforge3/lib/python3.10/ssl.py", line 1130, in read
+    return self._sslobj.read(len, buffer)
+KeyboardInterrupt

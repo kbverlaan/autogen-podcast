@@ -1,0 +1,139 @@
+
+
+---------- Script no. 1 Creation Feedback Conversation Starting ----------
+
+
+basic_chat: Admin -> Script_Writer
+Admin (to Script_Writer):
+
+
+Write the part of the script for the following section outline:
+ERA 1: The Peter Green Era (1967-1970) (5 minutes)
+- Overview of the band's blues roots and Peter Green's influence.
+- Music highlights: "Black Magic Woman", "Albatross", and "Oh Well".
+- Stories: Peter Green's departure and its impact on the band.
+
+
+If the outline is not the introduction, use the following last sentences of the previous section to create a smooth transition.
+LAST SENTENCES OF PREVIOUS SECTION
+"It's fascinating, isn't it? How the band's name is a constant reminder of its roots. Now, let's keep the beat going as we continue to explore the captivating world of Fleetwood Mac."
+
+
+--------------------------------------------------------------------------------
+basic_chat(): replied with: Absolutely, it's fascinating. The band's name, Fleetwood Mac, is indeed a constant reminder of its roots. And speaking of roots, let's delve into the band's early years, a period that was heavily influenced by the blues. This era, from 1967 to 1970, is often referred to as the Peter Green Era. 
+
+Peter Green, a remarkable guitarist and songwriter, was one of the founding members of Fleetwood Mac. His influence on the band's music was profound, and his bluesy guitar riffs and soulful songwriting set the tone for the band's early sound. 
+
+During this era, Fleetwood Mac produced some truly iconic tracks. One of the most notable is "Black Magic Woman". Now, you might be more familiar with the Santana version, but it was actually written and first performed by Fleetwood Mac under Peter Green's leadership. [play: "Black Magic Woman" by Fleetwood Mac]
+
+[pause 1 second]
+
+Another standout track from this era is "Albatross". This instrumental piece is a beautiful showcase of Peter Green's guitar skills and the band's blues influences. It's a soothing, melodic piece that really transports you to another place. [play: "Albatross" by Fleetwood Mac]
+
+[pause 1 second]
+
+And then there's "Oh Well", a song that perfectly encapsulates the raw energy and creativity of the Peter Green Era. It's a track that really gets your foot tapping and showcases the band's ability to blend blues with rock. [play: "Oh Well" by Fleetwood Mac]
+
+[pause 1 second]
+
+But, as we know, all good things must come to an end. In 1970, Peter Green left Fleetwood Mac. His departure had a significant impact on the band, both personally and musically. It marked the end of an era, but also the beginning of a new chapter for Fleetwood Mac. The band's sound evolved, and they continued to create music that resonated with audiences around the world. But that's a story we'll get into as we continue our journey through the captivating world of Fleetwood Mac.
+
+
+--------- Running iteration 0 with (agent_a: Script_Writer, agent_b: Script_Critic) ----------
+
+
+basic_chat: Script_Writer -> Script_Critic
+Script_Writer (to Script_Critic):
+
+Absolutely, it's fascinating. The band's name, Fleetwood Mac, is indeed a constant reminder of its roots. And speaking of roots, let's delve into the band's early years, a period that was heavily influenced by the blues. This era, from 1967 to 1970, is often referred to as the Peter Green Era. 
+
+Peter Green, a remarkable guitarist and songwriter, was one of the founding members of Fleetwood Mac. His influence on the band's music was profound, and his bluesy guitar riffs and soulful songwriting set the tone for the band's early sound. 
+
+During this era, Fleetwood Mac produced some truly iconic tracks. One of the most notable is "Black Magic Woman". Now, you might be more familiar with the Santana version, but it was actually written and first performed by Fleetwood Mac under Peter Green's leadership. [play: "Black Magic Woman" by Fleetwood Mac]
+
+[pause 1 second]
+
+Another standout track from this era is "Albatross". This instrumental piece is a beautiful showcase of Peter Green's guitar skills and the band's blues influences. It's a soothing, melodic piece that really transports you to another place. [play: "Albatross" by Fleetwood Mac]
+
+[pause 1 second]
+
+And then there's "Oh Well", a song that perfectly encapsulates the raw energy and creativity of the Peter Green Era. It's a track that really gets your foot tapping and showcases the band's ability to blend blues with rock. [play: "Oh Well" by Fleetwood Mac]
+
+[pause 1 second]
+
+But, as we know, all good things must come to an end. In 1970, Peter Green left Fleetwood Mac. His departure had a significant impact on the band, both personally and musically. It marked the end of an era, but also the beginning of a new chapter for Fleetwood Mac. The band's sound evolved, and they continued to create music that resonated with audiences around the world. But that's a story we'll get into as we continue our journey through the captivating world of Fleetwood Mac.
+
+--------------------------------------------------------------------------------
+basic_chat(): replied with: - Increase the length of pauses between music tracks to 2 seconds for better pacing.
+- Add more engaging questions or prompts to involve the audience.
+- Provide more in-depth analysis or insights on the tracks played.
+- Include more original content or unique perspectives on the band's history.
+- Ensure smooth transitions between the discussion of different songs.
+- Avoid using abbreviations or symbols in the script.
+
+
+--------- Running iteration 1 with (agent_a: Script_Critic, agent_b: Script_Writer) ----------
+
+
+basic_chat: Script_Critic -> Script_Writer
+Script_Critic (to Script_Writer):
+
+- Increase the length of pauses between music tracks to 2 seconds for better pacing.
+- Add more engaging questions or prompts to involve the audience.
+- Provide more in-depth analysis or insights on the tracks played.
+- Include more original content or unique perspectives on the band's history.
+- Ensure smooth transitions between the discussion of different songs.
+- Avoid using abbreviations or symbols in the script.
+
+--------------------------------------------------------------------------------
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+  File "/Users/kbverlaan/GitProjects/autogen-podcast/autogen_podcast/main.py", line 86, in main
+    _, strategy_messages = script_writer_orchestrator.feedback_conversation(prompt)
+  File "/Users/kbverlaan/GitProjects/autogen-podcast/autogen_podcast/modules/orchestrator.py", line 220, in feedback_conversation
+    self.basic_chat(agent_a, agent_b, self.latest_message)
+  File "/Users/kbverlaan/GitProjects/autogen-podcast/autogen_podcast/modules/orchestrator.py", line 79, in basic_chat
+    reply = agent_b.generate_reply(sender=agent_a)
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/autogen/agentchat/conversable_agent.py", line 781, in generate_reply
+    final, reply = reply_func(self, messages=messages, sender=sender, config=reply_func_tuple["config"])
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/autogen/agentchat/conversable_agent.py", line 606, in generate_oai_reply
+    response = oai.ChatCompletion.create(
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/autogen/oai/completion.py", line 803, in create
+    response = cls.create(
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/autogen/oai/completion.py", line 826, in create
+    return cls._get_response(
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/autogen/oai/completion.py", line 222, in _get_response
+    response = openai_completion.create(**config)
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/openai/api_resources/chat_completion.py", line 25, in create
+    return super().create(*args, **kwargs)
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/openai/api_resources/abstract/engine_api_resource.py", line 155, in create
+    response, _, api_key = requestor.request(
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/openai/api_requestor.py", line 289, in request
+    result = self.request_raw(
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/openai/api_requestor.py", line 606, in request_raw
+    result = _thread_context.session.request(
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/requests/sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/requests/sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/requests/adapters.py", line 486, in send
+    resp = conn.urlopen(
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/urllib3/connectionpool.py", line 791, in urlopen
+    response = self._make_request(
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/urllib3/connectionpool.py", line 537, in _make_request
+    response = conn.getresponse()
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/urllib3/connection.py", line 461, in getresponse
+    httplib_response = super().getresponse()
+  File "/Users/kbverlaan/miniforge3/lib/python3.10/http/client.py", line 1374, in getresponse
+    response.begin()
+  File "/Users/kbverlaan/miniforge3/lib/python3.10/http/client.py", line 318, in begin
+    version, status, reason = self._read_status()
+  File "/Users/kbverlaan/miniforge3/lib/python3.10/http/client.py", line 279, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "/Users/kbverlaan/miniforge3/lib/python3.10/socket.py", line 705, in readinto
+    return self._sock.recv_into(b)
+  File "/Users/kbverlaan/miniforge3/lib/python3.10/ssl.py", line 1274, in recv_into
+    return self.read(nbytes, buffer)
+  File "/Users/kbverlaan/miniforge3/lib/python3.10/ssl.py", line 1130, in read
+    return self._sslobj.read(len, buffer)
+KeyboardInterrupt

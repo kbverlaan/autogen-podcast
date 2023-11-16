@@ -1,0 +1,193 @@
+
+
+---------- Script no. 0 Creation Feedback Conversation Starting ----------
+
+
+basic_chat: Admin -> Script_Writer
+Admin (to Script_Writer):
+
+
+
+Begin the podcast introduction for 'Rhythm and Roots' following the provided outline. Write the part of the script for the following section outline: 
+ 
+INTRODUCTION (3-5 minutes)
+- Introduction to Fleetwood Mac, their influence and impact on the music industry.
+- Trivia Question: "Which two members of Fleetwood Mac were in a romantic relationship during the recording of the album 'Rumours'?"
+- Highlight Track: "Go Your Own Way" from the album 'Rumours'.
+
+
+
+--------------------------------------------------------------------------------
+basic_chat(): replied with: [Music fades in]
+
+Hey there, folks! This is your host, Basilius, and you're tuned into 'Rhythm and Roots', the podcast where we delve into the stories behind the music that moves us. Today, we're going to be talking about a band that needs no introduction, but I'm going to give them one anyway because they're just that good. I'm talking about Fleetwood Mac, a band that has left an indelible mark on the music industry.
+
+Fleetwood Mac, folks, is a band that has seen it all. From their bluesy beginnings in the late 60s to their pop-rock dominance in the 70s and 80s, they've weathered lineup changes, personal turmoil, and the ever-changing tides of the music industry, all while producing some of the most iconic songs of their era. Their influence is undeniable, and their impact on the music industry is something we're still feeling today.
+
+Now, before we dive in, I've got a trivia question for you. This one's for all you Fleetwood Mac super fans out there. Here it is: Which two members of Fleetwood Mac were in a romantic relationship during the recording of the album 'Rumours'? Think about it, and I'll reveal the answer later in the show.
+
+Speaking of 'Rumours', it's time to highlight one of the standout tracks from that album. This song, folks, is a classic. It's a song about love, loss, and going your own way, literally. It's a song that encapsulates the tumultuous time the band was going through when they recorded 'Rumours'. I'm talking about "Go Your Own Way". 
+
+[play: "Go Your Own Way" by Fleetwood Mac]
+
+This song, with its driving beat and raw, emotional lyrics, is a testament to the band's ability to channel their personal struggles into their music, creating something truly timeless. So, sit back, relax, and let the music take you on a journey. This is "Go Your Own Way" by Fleetwood Mac. Enjoy.
+
+
+--------- Running iteration 0 with (agent_a: Script_Writer, agent_b: Script_Critic) ----------
+
+
+basic_chat: Script_Writer -> Script_Critic
+Script_Writer (to Script_Critic):
+
+[Music fades in]
+
+Hey there, folks! This is your host, Basilius, and you're tuned into 'Rhythm and Roots', the podcast where we delve into the stories behind the music that moves us. Today, we're going to be talking about a band that needs no introduction, but I'm going to give them one anyway because they're just that good. I'm talking about Fleetwood Mac, a band that has left an indelible mark on the music industry.
+
+Fleetwood Mac, folks, is a band that has seen it all. From their bluesy beginnings in the late 60s to their pop-rock dominance in the 70s and 80s, they've weathered lineup changes, personal turmoil, and the ever-changing tides of the music industry, all while producing some of the most iconic songs of their era. Their influence is undeniable, and their impact on the music industry is something we're still feeling today.
+
+Now, before we dive in, I've got a trivia question for you. This one's for all you Fleetwood Mac super fans out there. Here it is: Which two members of Fleetwood Mac were in a romantic relationship during the recording of the album 'Rumours'? Think about it, and I'll reveal the answer later in the show.
+
+Speaking of 'Rumours', it's time to highlight one of the standout tracks from that album. This song, folks, is a classic. It's a song about love, loss, and going your own way, literally. It's a song that encapsulates the tumultuous time the band was going through when they recorded 'Rumours'. I'm talking about "Go Your Own Way". 
+
+[play: "Go Your Own Way" by Fleetwood Mac]
+
+This song, with its driving beat and raw, emotional lyrics, is a testament to the band's ability to channel their personal struggles into their music, creating something truly timeless. So, sit back, relax, and let the music take you on a journey. This is "Go Your Own Way" by Fleetwood Mac. Enjoy.
+
+--------------------------------------------------------------------------------
+basic_chat(): replied with: - Increase the depth of the discussion about Fleetwood Mac to provide more detailed information.
+- Add more original content to the script to make it more unique.
+- Provide more insights and new perspectives about the band and their music.
+- Reflect more on the track "Go Your Own Way" after it has played.
+- Group tracks together in a block if the script between songs is too short and unmeaningful.
+
+
+--------- Running iteration 1 with (agent_a: Script_Critic, agent_b: Script_Writer) ----------
+
+
+basic_chat: Script_Critic -> Script_Writer
+Script_Critic (to Script_Writer):
+
+- Increase the depth of the discussion about Fleetwood Mac to provide more detailed information.
+- Add more original content to the script to make it more unique.
+- Provide more insights and new perspectives about the band and their music.
+- Reflect more on the track "Go Your Own Way" after it has played.
+- Group tracks together in a block if the script between songs is too short and unmeaningful.
+
+--------------------------------------------------------------------------------
+basic_chat(): replied with: [Music fades in]
+
+Hello, hello! This is your host, Basilius, and you're tuned into 'Rhythm and Roots', the podcast that takes you on a deep dive into the stories behind the music that shapes our lives. Today, we're going to be exploring the labyrinthine world of Fleetwood Mac, a band that has not only survived but thrived amidst the tumultuous waves of the music industry.
+
+Fleetwood Mac, my friends, is a band that has journeyed through the entire spectrum of musical evolution. From their humble beginnings as a British blues band in the late 60s, they transformed into a pop-rock powerhouse in the 70s and 80s. They've navigated through lineup changes as fluid as their music, personal upheavals that could rival any soap opera, and the ever-evolving landscape of the music industry. And through it all, they've gifted us with songs that have become the soundtrack to many of our lives.
+
+Now, here's a little nugget for all you Fleetwood Mac aficionados out there. Can you tell me which two members of Fleetwood Mac were entangled in a romantic relationship during the recording of the album 'Rumours'? Hold that thought, and we'll circle back to it later in the show.
+
+Speaking of 'Rumours', let's delve into one of the standout tracks from that album. This song, my friends, is more than just a classic. It's a raw, emotional narrative about love, loss, and the courage to go your own way. It's a song that perfectly encapsulates the tumultuous period the band was navigating when they recorded 'Rumours'. I'm talking about "Go Your Own Way". 
+
+[play: "Go Your Own Way" by Fleetwood Mac]
+
+Ah, the raw energy of "Go Your Own Way" never fails to captivate. The driving beat, the poignant lyrics, it's a testament to the band's ability to channel their personal struggles into their music, creating something that resonates with listeners even today. It's a song that reminds us that even in the midst of chaos, beautiful things can be born.
+
+But the magic of Fleetwood Mac doesn't stop there. Let's keep the momentum going with another track that showcases their unique blend of pop and rock. This next song is a fan favorite, a track that showcases the band's knack for creating catchy, memorable melodies. Here's "Don't Stop".
+
+[play: "Don't Stop" by Fleetwood Mac]
+
+These two songs, back-to-back, give us a glimpse into the musical genius of Fleetwood Mac. Their ability to create music that is both deeply personal and universally relatable is truly remarkable. So, as we continue our journey through the world of Fleetwood Mac, let's keep these songs in mind, as they are a testament to the band's enduring legacy.
+
+
+--------- Running iteration 2 with (agent_a: Script_Writer, agent_b: Script_Critic) ----------
+
+
+basic_chat: Script_Writer -> Script_Critic
+Script_Writer (to Script_Critic):
+
+[Music fades in]
+
+Hello, hello! This is your host, Basilius, and you're tuned into 'Rhythm and Roots', the podcast that takes you on a deep dive into the stories behind the music that shapes our lives. Today, we're going to be exploring the labyrinthine world of Fleetwood Mac, a band that has not only survived but thrived amidst the tumultuous waves of the music industry.
+
+Fleetwood Mac, my friends, is a band that has journeyed through the entire spectrum of musical evolution. From their humble beginnings as a British blues band in the late 60s, they transformed into a pop-rock powerhouse in the 70s and 80s. They've navigated through lineup changes as fluid as their music, personal upheavals that could rival any soap opera, and the ever-evolving landscape of the music industry. And through it all, they've gifted us with songs that have become the soundtrack to many of our lives.
+
+Now, here's a little nugget for all you Fleetwood Mac aficionados out there. Can you tell me which two members of Fleetwood Mac were entangled in a romantic relationship during the recording of the album 'Rumours'? Hold that thought, and we'll circle back to it later in the show.
+
+Speaking of 'Rumours', let's delve into one of the standout tracks from that album. This song, my friends, is more than just a classic. It's a raw, emotional narrative about love, loss, and the courage to go your own way. It's a song that perfectly encapsulates the tumultuous period the band was navigating when they recorded 'Rumours'. I'm talking about "Go Your Own Way". 
+
+[play: "Go Your Own Way" by Fleetwood Mac]
+
+Ah, the raw energy of "Go Your Own Way" never fails to captivate. The driving beat, the poignant lyrics, it's a testament to the band's ability to channel their personal struggles into their music, creating something that resonates with listeners even today. It's a song that reminds us that even in the midst of chaos, beautiful things can be born.
+
+But the magic of Fleetwood Mac doesn't stop there. Let's keep the momentum going with another track that showcases their unique blend of pop and rock. This next song is a fan favorite, a track that showcases the band's knack for creating catchy, memorable melodies. Here's "Don't Stop".
+
+[play: "Don't Stop" by Fleetwood Mac]
+
+These two songs, back-to-back, give us a glimpse into the musical genius of Fleetwood Mac. Their ability to create music that is both deeply personal and universally relatable is truly remarkable. So, as we continue our journey through the world of Fleetwood Mac, let's keep these songs in mind, as they are a testament to the band's enduring legacy.
+
+--------------------------------------------------------------------------------
+basic_chat(): replied with: - Increase the depth of the discussion about Fleetwood Mac to provide more detailed information.
+- Provide more insights and new perspectives about the band and their music.
+- Reflect more on the track "Go Your Own Way" and "Don't Stop" after they have played.
+- Group tracks together in a block if the script between songs is too short and unmeaningful.
+
+
+--------- Running iteration 3 with (agent_a: Script_Critic, agent_b: Script_Writer) ----------
+
+
+basic_chat: Script_Critic -> Script_Writer
+Script_Critic (to Script_Writer):
+
+- Increase the depth of the discussion about Fleetwood Mac to provide more detailed information.
+- Provide more insights and new perspectives about the band and their music.
+- Reflect more on the track "Go Your Own Way" and "Don't Stop" after they have played.
+- Group tracks together in a block if the script between songs is too short and unmeaningful.
+
+--------------------------------------------------------------------------------
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+  File "/Users/kbverlaan/GitProjects/autogen-podcast/autogen_podcast/main.py", line 81, in main
+    _, strategy_messages = script_writer_orchestrator.feedback_conversation(prompt)
+  File "/Users/kbverlaan/GitProjects/autogen-podcast/autogen_podcast/modules/orchestrator.py", line 220, in feedback_conversation
+    self.basic_chat(agent_a, agent_b, self.latest_message)
+  File "/Users/kbverlaan/GitProjects/autogen-podcast/autogen_podcast/modules/orchestrator.py", line 79, in basic_chat
+    reply = agent_b.generate_reply(sender=agent_a)
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/autogen/agentchat/conversable_agent.py", line 781, in generate_reply
+    final, reply = reply_func(self, messages=messages, sender=sender, config=reply_func_tuple["config"])
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/autogen/agentchat/conversable_agent.py", line 606, in generate_oai_reply
+    response = oai.ChatCompletion.create(
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/autogen/oai/completion.py", line 803, in create
+    response = cls.create(
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/autogen/oai/completion.py", line 826, in create
+    return cls._get_response(
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/autogen/oai/completion.py", line 222, in _get_response
+    response = openai_completion.create(**config)
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/openai/api_resources/chat_completion.py", line 25, in create
+    return super().create(*args, **kwargs)
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/openai/api_resources/abstract/engine_api_resource.py", line 155, in create
+    response, _, api_key = requestor.request(
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/openai/api_requestor.py", line 289, in request
+    result = self.request_raw(
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/openai/api_requestor.py", line 606, in request_raw
+    result = _thread_context.session.request(
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/requests/sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/requests/sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/requests/adapters.py", line 486, in send
+    resp = conn.urlopen(
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/urllib3/connectionpool.py", line 791, in urlopen
+    response = self._make_request(
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/urllib3/connectionpool.py", line 537, in _make_request
+    response = conn.getresponse()
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/urllib3/connection.py", line 461, in getresponse
+    httplib_response = super().getresponse()
+  File "/Users/kbverlaan/miniforge3/lib/python3.10/http/client.py", line 1374, in getresponse
+    response.begin()
+  File "/Users/kbverlaan/miniforge3/lib/python3.10/http/client.py", line 318, in begin
+    version, status, reason = self._read_status()
+  File "/Users/kbverlaan/miniforge3/lib/python3.10/http/client.py", line 279, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "/Users/kbverlaan/miniforge3/lib/python3.10/socket.py", line 705, in readinto
+    return self._sock.recv_into(b)
+  File "/Users/kbverlaan/miniforge3/lib/python3.10/ssl.py", line 1274, in recv_into
+    return self.read(nbytes, buffer)
+  File "/Users/kbverlaan/miniforge3/lib/python3.10/ssl.py", line 1130, in read
+    return self._sslobj.read(len, buffer)
+KeyboardInterrupt

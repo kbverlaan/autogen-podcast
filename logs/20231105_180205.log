@@ -1,0 +1,281 @@
+
+
+---------- Outline Creation Feedback Conversation Starting ----------
+
+
+basic_chat: Admin -> Script_Writer
+Admin (to Script_Writer):
+
+
+        Write the part of the script for the following section outline:
+        INTRODUCTION (3 minutes)
+- Brief history of Fleetwood Mac, formation and evolution over the years.
+- Overview of the podcast structure and what listeners can expect.
+- Teaser trivia question about Fleetwood Mac to engage listeners.
+
+
+        Use the LAST THREE SENTENCES from the last section to make sure this script flows naturally into this section.
+        ENDING OF LAST SECTION
+        This is the introduction, so there was no last section. Please write the introduction of the podcast according to the outline.
+        
+
+--------------------------------------------------------------------------------
+basic_chat(): replied with: ----------
+Well, hello there, folks! This is your host, Basilius, and I'm absolutely thrilled to welcome you to our brand new podcast. Now, if you're a fan of music, history, and a good ol' story, then you're in the right place, my friend. 
+
+So, let's dive right in, shall we? Today, we're going to be talking about a band that's as legendary as they come... Fleetwood Mac. Ah, yes, Fleetwood Mac. Formed in 1967, this British-American band has seen it all. From blues to rock, from success to turmoil, from lineup changes to timeless classics... Fleetwood Mac has truly been a rollercoaster ride. 
+
+Now, the band was initially formed by Peter Green, Mick Fleetwood, and Jeremy Spencer. Over the years, though, the lineup evolved, with members like Christine McVie, Lindsey Buckingham, and Stevie Nicks joining the fray. And let me tell you, each member brought their own unique flavor to the band, creating a sound that's... well, unmistakably Fleetwood Mac.
+
+Pause for music: 'Go Your Own Way' by Fleetwood Mac.
+
+Alright, now that we've set the stage, let's talk about what you can expect from this podcast. We're going to be diving deep into the history of Fleetwood Mac, exploring their music, their personal lives, their highs, their lows... everything. We'll be featuring interviews, trivia, and even some rare, behind-the-scenes stories. So, whether you're a die-hard fan or just curious about the band, there's something here for everyone.
+
+Now, to keep things interesting, we're going to be throwing in some trivia questions throughout the podcast. And to kick things off, here's a little teaser for you... Can you tell me which Fleetwood Mac song was the band's only U.S. number one hit? Think about it, and we'll reveal the answer later in the show.
+
+So, buckle up, folks. We're about to embark on a journey through the tumultuous, fascinating, and utterly captivating world of Fleetwood Mac. And trust me, you won't want to miss a beat.
+
+
+--------- Running iteration 0 with (agent_a: Script_Writer, agent_b: Script_Critic) ----------
+
+
+basic_chat: Script_Writer -> Script_Critic
+Script_Writer (to Script_Critic):
+
+----------
+Well, hello there, folks! This is your host, Basilius, and I'm absolutely thrilled to welcome you to our brand new podcast. Now, if you're a fan of music, history, and a good ol' story, then you're in the right place, my friend. 
+
+So, let's dive right in, shall we? Today, we're going to be talking about a band that's as legendary as they come... Fleetwood Mac. Ah, yes, Fleetwood Mac. Formed in 1967, this British-American band has seen it all. From blues to rock, from success to turmoil, from lineup changes to timeless classics... Fleetwood Mac has truly been a rollercoaster ride. 
+
+Now, the band was initially formed by Peter Green, Mick Fleetwood, and Jeremy Spencer. Over the years, though, the lineup evolved, with members like Christine McVie, Lindsey Buckingham, and Stevie Nicks joining the fray. And let me tell you, each member brought their own unique flavor to the band, creating a sound that's... well, unmistakably Fleetwood Mac.
+
+Pause for music: 'Go Your Own Way' by Fleetwood Mac.
+
+Alright, now that we've set the stage, let's talk about what you can expect from this podcast. We're going to be diving deep into the history of Fleetwood Mac, exploring their music, their personal lives, their highs, their lows... everything. We'll be featuring interviews, trivia, and even some rare, behind-the-scenes stories. So, whether you're a die-hard fan or just curious about the band, there's something here for everyone.
+
+Now, to keep things interesting, we're going to be throwing in some trivia questions throughout the podcast. And to kick things off, here's a little teaser for you... Can you tell me which Fleetwood Mac song was the band's only U.S. number one hit? Think about it, and we'll reveal the answer later in the show.
+
+So, buckle up, folks. We're about to embark on a journey through the tumultuous, fascinating, and utterly captivating world of Fleetwood Mac. And trust me, you won't want to miss a beat.
+
+--------------------------------------------------------------------------------
+basic_chat(): replied with: Scores: 
+Cohesiveness: 9/10
+Flow between last era and this era: N/A
+Overall flow: 9/10
+Natural use of filler words: 8/10
+Fun to listen: 9/10
+Accuracy of the information: 10/10
+Depth: 8/10
+Originality: 9/10
+Unique perspective: 8/10
+Relatability to themes: 9/10
+Non-repetitiveness of the script: 8/10
+Track introductions/announcements: 9/10
+Transition from song back into story: N/A
+
+Feedback:
+- The script is engaging and informative, providing a good balance of historical facts and entertaining content.
+- The host's personality shines through, making the podcast fun to listen to.
+- The trivia question is a nice touch, adding an interactive element to the podcast.
+- The script could benefit from a bit more depth, particularly in terms of the band's music and its impact.
+- The use of filler words is mostly natural, but there are a few instances where they feel a bit forced.
+
+Suggestions:
+- Consider adding more details about the band's music, such as their most popular songs and how their sound evolved over time.
+- Try to make the use of filler words more natural and less noticeable.
+- Consider adding a brief overview of what will be covered in the next episode at the end of the podcast. This can help build anticipation and keep listeners coming back for more.
+
+
+--------- Running iteration 1 with (agent_a: Script_Critic, agent_b: Script_Writer) ----------
+
+
+basic_chat: Script_Critic -> Script_Writer
+Script_Critic (to Script_Writer):
+
+Scores: 
+Cohesiveness: 9/10
+Flow between last era and this era: N/A
+Overall flow: 9/10
+Natural use of filler words: 8/10
+Fun to listen: 9/10
+Accuracy of the information: 10/10
+Depth: 8/10
+Originality: 9/10
+Unique perspective: 8/10
+Relatability to themes: 9/10
+Non-repetitiveness of the script: 8/10
+Track introductions/announcements: 9/10
+Transition from song back into story: N/A
+
+Feedback:
+- The script is engaging and informative, providing a good balance of historical facts and entertaining content.
+- The host's personality shines through, making the podcast fun to listen to.
+- The trivia question is a nice touch, adding an interactive element to the podcast.
+- The script could benefit from a bit more depth, particularly in terms of the band's music and its impact.
+- The use of filler words is mostly natural, but there are a few instances where they feel a bit forced.
+
+Suggestions:
+- Consider adding more details about the band's music, such as their most popular songs and how their sound evolved over time.
+- Try to make the use of filler words more natural and less noticeable.
+- Consider adding a brief overview of what will be covered in the next episode at the end of the podcast. This can help build anticipation and keep listeners coming back for more.
+
+--------------------------------------------------------------------------------
+basic_chat(): replied with: ----------
+Well, folks, I hope you're ready for a deep dive into the world of Fleetwood Mac. This band, let me tell you, they've got a story that's as captivating as their music. And their music... well, it's nothing short of legendary. 
+
+Now, Fleetwood Mac's sound has evolved quite a bit over the years. They started off as a blues band, believe it or not. But over time, they transitioned into rock and pop, creating a unique blend that's... well, it's unmistakably Fleetwood Mac. 
+
+And speaking of their music, let's take a moment to appreciate one of their most iconic songs. This one, folks, is a classic. It's a song that's been covered by countless artists, a song that's stood the test of time. It's a song that, in many ways, encapsulates the spirit of Fleetwood Mac. 
+
+Pause for music: 'Rhiannon' by Fleetwood Mac.
+
+Ah, 'Rhiannon'. What a song, right? Now, this track was written by Stevie Nicks, who joined the band in 1975 along with Lindsey Buckingham. And let me tell you, their arrival marked a turning point for Fleetwood Mac. Their sound evolved, their popularity soared, and they started churning out hit after hit. 
+
+But, as you might expect, success came with its own set of challenges. The band members struggled with personal issues, relationship dramas, and the pressures of fame. But through it all, they kept making music. And that, my friends, is the true spirit of Fleetwood Mac.
+
+Now, remember that trivia question I asked earlier? The one about Fleetwood Mac's only U.S. number one hit? Well, the answer is... 'Dreams'. Yes, 'Dreams', a song that's as timeless as they come. 
+
+So, folks, as we continue our journey through the world of Fleetwood Mac, we'll be delving deeper into their music, their story, and their legacy. We'll be exploring the highs, the lows, the triumphs, the heartbreaks... everything that makes Fleetwood Mac the legendary band they are today. 
+
+And trust me, you won't want to miss a beat. So, stay tuned, folks. We've got a lot more Fleetwood Mac coming your way.
+
+
+--------- Running iteration 2 with (agent_a: Script_Writer, agent_b: Script_Critic) ----------
+
+
+basic_chat: Script_Writer -> Script_Critic
+Script_Writer (to Script_Critic):
+
+----------
+Well, folks, I hope you're ready for a deep dive into the world of Fleetwood Mac. This band, let me tell you, they've got a story that's as captivating as their music. And their music... well, it's nothing short of legendary. 
+
+Now, Fleetwood Mac's sound has evolved quite a bit over the years. They started off as a blues band, believe it or not. But over time, they transitioned into rock and pop, creating a unique blend that's... well, it's unmistakably Fleetwood Mac. 
+
+And speaking of their music, let's take a moment to appreciate one of their most iconic songs. This one, folks, is a classic. It's a song that's been covered by countless artists, a song that's stood the test of time. It's a song that, in many ways, encapsulates the spirit of Fleetwood Mac. 
+
+Pause for music: 'Rhiannon' by Fleetwood Mac.
+
+Ah, 'Rhiannon'. What a song, right? Now, this track was written by Stevie Nicks, who joined the band in 1975 along with Lindsey Buckingham. And let me tell you, their arrival marked a turning point for Fleetwood Mac. Their sound evolved, their popularity soared, and they started churning out hit after hit. 
+
+But, as you might expect, success came with its own set of challenges. The band members struggled with personal issues, relationship dramas, and the pressures of fame. But through it all, they kept making music. And that, my friends, is the true spirit of Fleetwood Mac.
+
+Now, remember that trivia question I asked earlier? The one about Fleetwood Mac's only U.S. number one hit? Well, the answer is... 'Dreams'. Yes, 'Dreams', a song that's as timeless as they come. 
+
+So, folks, as we continue our journey through the world of Fleetwood Mac, we'll be delving deeper into their music, their story, and their legacy. We'll be exploring the highs, the lows, the triumphs, the heartbreaks... everything that makes Fleetwood Mac the legendary band they are today. 
+
+And trust me, you won't want to miss a beat. So, stay tuned, folks. We've got a lot more Fleetwood Mac coming your way.
+
+--------------------------------------------------------------------------------
+basic_chat(): replied with: Scores: 
+Cohesiveness: 9/10
+Flow between last era and this era: 9/10
+Overall flow: 9/10
+Natural use of filler words: 8/10
+Fun to listen: 9/10
+Accuracy of the information: 10/10
+Depth: 9/10
+Originality: 9/10
+Unique perspective: 8/10
+Relatability to themes: 9/10
+Non-repetitiveness of the script: 8/10
+Track introductions/announcements: 9/10
+Transition from song back into story: 9/10
+
+Feedback:
+- The script is engaging and informative, providing a good balance of historical facts and entertaining content.
+- The host's personality shines through, making the podcast fun to listen to.
+- The trivia question is a nice touch, adding an interactive element to the podcast.
+- The script could benefit from a bit more depth, particularly in terms of the band's music and its impact.
+- The use of filler words is mostly natural, but there are a few instances where they feel a bit forced.
+
+Suggestions:
+- Consider adding more details about the band's music, such as their most popular songs and how their sound evolved over time.
+- Try to make the use of filler words more natural and less noticeable.
+- Consider adding a brief overview of what will be covered in the next episode at the end of the podcast. This can help build anticipation and keep listeners coming back for more.
+
+
+--------- Running iteration 3 with (agent_a: Script_Critic, agent_b: Script_Writer) ----------
+
+
+basic_chat: Script_Critic -> Script_Writer
+Script_Critic (to Script_Writer):
+
+Scores: 
+Cohesiveness: 9/10
+Flow between last era and this era: 9/10
+Overall flow: 9/10
+Natural use of filler words: 8/10
+Fun to listen: 9/10
+Accuracy of the information: 10/10
+Depth: 9/10
+Originality: 9/10
+Unique perspective: 8/10
+Relatability to themes: 9/10
+Non-repetitiveness of the script: 8/10
+Track introductions/announcements: 9/10
+Transition from song back into story: 9/10
+
+Feedback:
+- The script is engaging and informative, providing a good balance of historical facts and entertaining content.
+- The host's personality shines through, making the podcast fun to listen to.
+- The trivia question is a nice touch, adding an interactive element to the podcast.
+- The script could benefit from a bit more depth, particularly in terms of the band's music and its impact.
+- The use of filler words is mostly natural, but there are a few instances where they feel a bit forced.
+
+Suggestions:
+- Consider adding more details about the band's music, such as their most popular songs and how their sound evolved over time.
+- Try to make the use of filler words more natural and less noticeable.
+- Consider adding a brief overview of what will be covered in the next episode at the end of the podcast. This can help build anticipation and keep listeners coming back for more.
+
+--------------------------------------------------------------------------------
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+  File "/Users/kbverlaan/GitProjects/autogen-podcast/autogen_podcast/main.py", line 78, in main
+    _, strategy_messages = script_writer_orchestrator.feedback_conversation(prompt)
+  File "/Users/kbverlaan/GitProjects/autogen-podcast/autogen_podcast/modules/orchestrator.py", line 220, in feedback_conversation
+    self.basic_chat(agent_a, agent_b, self.latest_message)
+  File "/Users/kbverlaan/GitProjects/autogen-podcast/autogen_podcast/modules/orchestrator.py", line 79, in basic_chat
+    reply = agent_b.generate_reply(sender=agent_a)
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/autogen/agentchat/conversable_agent.py", line 781, in generate_reply
+    final, reply = reply_func(self, messages=messages, sender=sender, config=reply_func_tuple["config"])
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/autogen/agentchat/conversable_agent.py", line 606, in generate_oai_reply
+    response = oai.ChatCompletion.create(
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/autogen/oai/completion.py", line 803, in create
+    response = cls.create(
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/autogen/oai/completion.py", line 834, in create
+    return cls._get_response(params, raise_on_ratelimit_or_timeout=raise_on_ratelimit_or_timeout)
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/autogen/oai/completion.py", line 222, in _get_response
+    response = openai_completion.create(**config)
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/openai/api_resources/chat_completion.py", line 25, in create
+    return super().create(*args, **kwargs)
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/openai/api_resources/abstract/engine_api_resource.py", line 155, in create
+    response, _, api_key = requestor.request(
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/openai/api_requestor.py", line 289, in request
+    result = self.request_raw(
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/openai/api_requestor.py", line 606, in request_raw
+    result = _thread_context.session.request(
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/requests/sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/requests/sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/requests/adapters.py", line 486, in send
+    resp = conn.urlopen(
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/urllib3/connectionpool.py", line 791, in urlopen
+    response = self._make_request(
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/urllib3/connectionpool.py", line 537, in _make_request
+    response = conn.getresponse()
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/urllib3/connection.py", line 461, in getresponse
+    httplib_response = super().getresponse()
+  File "/Users/kbverlaan/miniforge3/lib/python3.10/http/client.py", line 1374, in getresponse
+    response.begin()
+  File "/Users/kbverlaan/miniforge3/lib/python3.10/http/client.py", line 318, in begin
+    version, status, reason = self._read_status()
+  File "/Users/kbverlaan/miniforge3/lib/python3.10/http/client.py", line 279, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "/Users/kbverlaan/miniforge3/lib/python3.10/socket.py", line 705, in readinto
+    return self._sock.recv_into(b)
+  File "/Users/kbverlaan/miniforge3/lib/python3.10/ssl.py", line 1274, in recv_into
+    return self.read(nbytes, buffer)
+  File "/Users/kbverlaan/miniforge3/lib/python3.10/ssl.py", line 1130, in read
+    return self._sslobj.read(len, buffer)
+KeyboardInterrupt

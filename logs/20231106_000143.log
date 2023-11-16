@@ -1,0 +1,5 @@
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+  File "/Users/kbverlaan/GitProjects/autogen-podcast/autogen_podcast/main.py", line 27, in main
+    prompt = f"Create an outline for a podcast that gives an introduction around the discography of {artist}." + OPENING_PROMPT
+NameError: name 'OPENING_PROMPT' is not defined

@@ -1,0 +1,173 @@
+
+
+---------- Outline Creation Feedback Conversation Starting ----------
+
+
+basic_chat: Admin -> Script_Writer
+Admin (to Script_Writer):
+
+
+        Write the part of the script for the following section outline:
+        INTRODUCTION (3 minutes)
+- Brief history of Fleetwood Mac, formation and evolution over the years.
+- Overview of the podcast structure and what listeners can expect.
+- Teaser trivia question about Fleetwood Mac to engage listeners.
+
+
+        Use the LAST THREE SENTENCES from the last section to make sure this script flows naturally into this section.
+        ENDING OF LAST SECTION
+        Introduction has no pervious section. The podcast name is Rhythm and Roots.
+        
+
+--------------------------------------------------------------------------------
+basic_chat(): replied with: ----------
+...and that, my friends, is how we find ourselves here, at the beginning of another exciting journey into the heart of music history. Welcome to Rhythm and Roots, I'm your host, Basilius, and I'm thrilled to be your guide on this musical expedition. 
+
+Now, today, we're diving into the rich and tumultuous history of a band that needs no introduction... but I'm gonna give them one anyway. We're talking about Fleetwood Mac, folks. Formed in London in 1967, this band has seen more than its fair share of ups, downs, and everything in between. From their bluesy beginnings to their pop-rock dominance, Fleetwood Mac has evolved and adapted over the years, much like a musical chameleon... or maybe a phoenix, rising from the ashes of their own internal conflicts to create some of the most iconic songs of the 20th century. 
+
+Pause for music: 'Go Your Own Way' by Fleetwood Mac.
+
+Ah, that's a classic, isn't it? Now, here on Rhythm and Roots, we're all about digging deep. We're not just gonna skim the surface of Fleetwood Mac's history. Oh no, we're going to delve into the nitty-gritty, the behind-the-scenes drama, the creative process, and of course, the music itself. We'll explore how this band, against all odds, managed to stay together and produce hit after hit, even when they were at each other's throats. 
+
+And to keep things interesting, we'll be sprinkling in some trivia questions throughout the podcast. So, if you're a Fleetwood Mac superfan, or even if you're just a casual listener, you'll have a chance to test your knowledge and maybe learn something new. 
+
+Speaking of trivia, let's kick things off with a teaser question. Now, we all know that Fleetwood Mac has had a revolving door of band members over the years, but can you tell me who the only two constant members have been since the band's formation in 1967? Don't worry, I won't leave you hanging for too long. We'll reveal the answer later in the show. 
+
+So, buckle up, folks. We're about to embark on a wild ride through the history of Fleetwood Mac. And trust me, it's gonna be a trip you won't want to miss.
+
+
+--------- Running iteration 0 with (agent_a: Script_Writer, agent_b: Script_Critic) ----------
+
+
+basic_chat: Script_Writer -> Script_Critic
+Script_Writer (to Script_Critic):
+
+----------
+...and that, my friends, is how we find ourselves here, at the beginning of another exciting journey into the heart of music history. Welcome to Rhythm and Roots, I'm your host, Basilius, and I'm thrilled to be your guide on this musical expedition. 
+
+Now, today, we're diving into the rich and tumultuous history of a band that needs no introduction... but I'm gonna give them one anyway. We're talking about Fleetwood Mac, folks. Formed in London in 1967, this band has seen more than its fair share of ups, downs, and everything in between. From their bluesy beginnings to their pop-rock dominance, Fleetwood Mac has evolved and adapted over the years, much like a musical chameleon... or maybe a phoenix, rising from the ashes of their own internal conflicts to create some of the most iconic songs of the 20th century. 
+
+Pause for music: 'Go Your Own Way' by Fleetwood Mac.
+
+Ah, that's a classic, isn't it? Now, here on Rhythm and Roots, we're all about digging deep. We're not just gonna skim the surface of Fleetwood Mac's history. Oh no, we're going to delve into the nitty-gritty, the behind-the-scenes drama, the creative process, and of course, the music itself. We'll explore how this band, against all odds, managed to stay together and produce hit after hit, even when they were at each other's throats. 
+
+And to keep things interesting, we'll be sprinkling in some trivia questions throughout the podcast. So, if you're a Fleetwood Mac superfan, or even if you're just a casual listener, you'll have a chance to test your knowledge and maybe learn something new. 
+
+Speaking of trivia, let's kick things off with a teaser question. Now, we all know that Fleetwood Mac has had a revolving door of band members over the years, but can you tell me who the only two constant members have been since the band's formation in 1967? Don't worry, I won't leave you hanging for too long. We'll reveal the answer later in the show. 
+
+So, buckle up, folks. We're about to embark on a wild ride through the history of Fleetwood Mac. And trust me, it's gonna be a trip you won't want to miss.
+
+--------------------------------------------------------------------------------
+basic_chat(): replied with: Scores: 
+Cohesiveness: 9/10
+Flow between last era and this era: N/A
+Overall flow: 9/10
+Natural use of filler words: 9/10
+Fun to listen: 9/10
+Accuracy of the information: 10/10
+Depth: 8/10
+Originality: 9/10
+Unique perspective: 8/10
+Relatability to themes: 9/10
+Non-repetitiveness of the script: 9/10
+Introductions to the songs: 9/10
+Transition from song back into story: 9/10
+
+Feedback:
+- The script is engaging and fun to listen to.
+- The introduction to Fleetwood Mac is well done, providing a brief overview of their history.
+- The trivia question is a nice touch, adding an interactive element to the podcast.
+- The transition from the song back into the story is smooth and natural.
+- The script provides a good balance of information and entertainment.
+
+Suggestions:
+- The script could delve a bit deeper into the band's history, perhaps providing a few more specific examples of their ups and downs.
+- The script could also provide a bit more context for the song that is played, explaining its significance in the band's history.
+- The script could benefit from a bit more variation in sentence structure to keep the listener engaged.
+
+
+--------- Running iteration 1 with (agent_a: Script_Critic, agent_b: Script_Writer) ----------
+
+
+basic_chat: Script_Critic -> Script_Writer
+Script_Critic (to Script_Writer):
+
+Scores: 
+Cohesiveness: 9/10
+Flow between last era and this era: N/A
+Overall flow: 9/10
+Natural use of filler words: 9/10
+Fun to listen: 9/10
+Accuracy of the information: 10/10
+Depth: 8/10
+Originality: 9/10
+Unique perspective: 8/10
+Relatability to themes: 9/10
+Non-repetitiveness of the script: 9/10
+Introductions to the songs: 9/10
+Transition from song back into story: 9/10
+
+Feedback:
+- The script is engaging and fun to listen to.
+- The introduction to Fleetwood Mac is well done, providing a brief overview of their history.
+- The trivia question is a nice touch, adding an interactive element to the podcast.
+- The transition from the song back into the story is smooth and natural.
+- The script provides a good balance of information and entertainment.
+
+Suggestions:
+- The script could delve a bit deeper into the band's history, perhaps providing a few more specific examples of their ups and downs.
+- The script could also provide a bit more context for the song that is played, explaining its significance in the band's history.
+- The script could benefit from a bit more variation in sentence structure to keep the listener engaged.
+
+--------------------------------------------------------------------------------
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+  File "/Users/kbverlaan/GitProjects/autogen-podcast/autogen_podcast/main.py", line 78, in main
+    _, strategy_messages = script_writer_orchestrator.feedback_conversation(prompt)
+  File "/Users/kbverlaan/GitProjects/autogen-podcast/autogen_podcast/modules/orchestrator.py", line 220, in feedback_conversation
+    self.basic_chat(agent_a, agent_b, self.latest_message)
+  File "/Users/kbverlaan/GitProjects/autogen-podcast/autogen_podcast/modules/orchestrator.py", line 79, in basic_chat
+    reply = agent_b.generate_reply(sender=agent_a)
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/autogen/agentchat/conversable_agent.py", line 781, in generate_reply
+    final, reply = reply_func(self, messages=messages, sender=sender, config=reply_func_tuple["config"])
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/autogen/agentchat/conversable_agent.py", line 606, in generate_oai_reply
+    response = oai.ChatCompletion.create(
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/autogen/oai/completion.py", line 803, in create
+    response = cls.create(
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/autogen/oai/completion.py", line 834, in create
+    return cls._get_response(params, raise_on_ratelimit_or_timeout=raise_on_ratelimit_or_timeout)
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/autogen/oai/completion.py", line 222, in _get_response
+    response = openai_completion.create(**config)
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/openai/api_resources/chat_completion.py", line 25, in create
+    return super().create(*args, **kwargs)
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/openai/api_resources/abstract/engine_api_resource.py", line 155, in create
+    response, _, api_key = requestor.request(
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/openai/api_requestor.py", line 289, in request
+    result = self.request_raw(
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/openai/api_requestor.py", line 606, in request_raw
+    result = _thread_context.session.request(
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/requests/sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/requests/sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/requests/adapters.py", line 486, in send
+    resp = conn.urlopen(
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/urllib3/connectionpool.py", line 791, in urlopen
+    response = self._make_request(
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/urllib3/connectionpool.py", line 537, in _make_request
+    response = conn.getresponse()
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/urllib3/connection.py", line 461, in getresponse
+    httplib_response = super().getresponse()
+  File "/Users/kbverlaan/miniforge3/lib/python3.10/http/client.py", line 1374, in getresponse
+    response.begin()
+  File "/Users/kbverlaan/miniforge3/lib/python3.10/http/client.py", line 318, in begin
+    version, status, reason = self._read_status()
+  File "/Users/kbverlaan/miniforge3/lib/python3.10/http/client.py", line 279, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "/Users/kbverlaan/miniforge3/lib/python3.10/socket.py", line 705, in readinto
+    return self._sock.recv_into(b)
+  File "/Users/kbverlaan/miniforge3/lib/python3.10/ssl.py", line 1274, in recv_into
+    return self.read(nbytes, buffer)
+  File "/Users/kbverlaan/miniforge3/lib/python3.10/ssl.py", line 1130, in read
+    return self._sslobj.read(len, buffer)
+KeyboardInterrupt

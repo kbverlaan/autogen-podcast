@@ -1,0 +1,241 @@
+
+
+---------- Outline Creation Feedback Conversation Starting ----------
+
+
+basic_chat: Admin -> Script_Writer
+Admin (to Script_Writer):
+
+
+Write the part of the script for the following section outline:
+ERA 1: The Peter Green Era (1967-1970) (5 minutes)
+- Overview of the band's blues roots and Peter Green's influence.
+- Music highlights: "Black Magic Woman", "Albatross", and "Oh Well".
+- Stories: Peter Green's departure and its impact on the band.
+
+
+If the outline is not the introduction, use the following last sentences of the previous section to create a smooth transition.
+"So, let's peel back the layers of this iconic track. But first, let's take a moment to immerse ourselves in the song that started it all. [play: 'Go Your Own Way' by Fleetwood Mac]"
+
+
+--------------------------------------------------------------------------------
+basic_chat(): replied with: As the last notes of 'Go Your Own Way' fade away, we find ourselves at the beginning of a journey, a journey that takes us back to the roots of Fleetwood Mac. The year is 1967, and a young guitarist named Peter Green is about to change the face of blues music forever. 
+
+Peter Green, a man whose guitar skills were so profound that even the legendary B.B. King once said, "He has the sweetest tone I ever heard; he was the only one who gave me the cold sweats." Green's influence on Fleetwood Mac was profound, shaping their early sound with his bluesy guitar riffs and soulful songwriting. 
+
+And speaking of soulful songwriting, let's dive into some of the music highlights from this era. First up, we have 'Black Magic Woman'. Yes, you heard that right. Before Santana made it a hit, it was a Fleetwood Mac original, penned by none other than Peter Green himself. [play: 'Black Magic Woman' by Fleetwood Mac]
+
+[pause 1 second]
+
+Next, we have 'Albatross', a track that showcases Green's ability to create a soundscape that's as vast and as deep as the ocean itself. [play: 'Albatross' by Fleetwood Mac]
+
+[pause 1 second]
+
+And finally, we have 'Oh Well', a song that perfectly encapsulates the raw energy and passion that defined Fleetwood Mac during the Peter Green era. [play: 'Oh Well' by Fleetwood Mac]
+
+[pause 1.5 seconds]
+
+But as we all know, all good things must come to an end. In 1970, Peter Green left Fleetwood Mac, a departure that sent shockwaves through the music world. His departure marked the end of an era, but it also paved the way for a new chapter in the band's history, one that would see them evolve from a blues band into a rock 'n' roll powerhouse. But that's a story for another time. For now, let's just sit back and appreciate the genius of Peter Green and the indelible mark he left on Fleetwood Mac.
+
+
+--------- Running iteration 0 with (agent_a: Script_Writer, agent_b: Script_Critic) ----------
+
+
+basic_chat: Script_Writer -> Script_Critic
+Script_Writer (to Script_Critic):
+
+As the last notes of 'Go Your Own Way' fade away, we find ourselves at the beginning of a journey, a journey that takes us back to the roots of Fleetwood Mac. The year is 1967, and a young guitarist named Peter Green is about to change the face of blues music forever. 
+
+Peter Green, a man whose guitar skills were so profound that even the legendary B.B. King once said, "He has the sweetest tone I ever heard; he was the only one who gave me the cold sweats." Green's influence on Fleetwood Mac was profound, shaping their early sound with his bluesy guitar riffs and soulful songwriting. 
+
+And speaking of soulful songwriting, let's dive into some of the music highlights from this era. First up, we have 'Black Magic Woman'. Yes, you heard that right. Before Santana made it a hit, it was a Fleetwood Mac original, penned by none other than Peter Green himself. [play: 'Black Magic Woman' by Fleetwood Mac]
+
+[pause 1 second]
+
+Next, we have 'Albatross', a track that showcases Green's ability to create a soundscape that's as vast and as deep as the ocean itself. [play: 'Albatross' by Fleetwood Mac]
+
+[pause 1 second]
+
+And finally, we have 'Oh Well', a song that perfectly encapsulates the raw energy and passion that defined Fleetwood Mac during the Peter Green era. [play: 'Oh Well' by Fleetwood Mac]
+
+[pause 1.5 seconds]
+
+But as we all know, all good things must come to an end. In 1970, Peter Green left Fleetwood Mac, a departure that sent shockwaves through the music world. His departure marked the end of an era, but it also paved the way for a new chapter in the band's history, one that would see them evolve from a blues band into a rock 'n' roll powerhouse. But that's a story for another time. For now, let's just sit back and appreciate the genius of Peter Green and the indelible mark he left on Fleetwood Mac.
+
+--------------------------------------------------------------------------------
+basic_chat(): replied with: - Increase enthusiasm in tone to reflect a fun radio host.
+- Avoid overly poetic language such as "a journey that takes us back to the roots".
+- Improve transitions between topics, they currently feel abrupt.
+- Reflect more on each track after it has played.
+- Use pauses more effectively to enhance the flow.
+- Make the dialogue sound more natural and conversational.
+- Engage listeners more by asking questions or encouraging interaction.
+- Explore topics in more detail, such as Peter Green's influence on Fleetwood Mac.
+- Offer new perspectives or insights on the discussed topics.
+- Ensure thematic consistency throughout the script.
+- Avoid repetition in the script.
+- Smoothly integrate music introductions and transitions.
+- Avoid abbreviations or symbols in the script.
+
+
+--------- Running iteration 1 with (agent_a: Script_Critic, agent_b: Script_Writer) ----------
+
+
+basic_chat: Script_Critic -> Script_Writer
+Script_Critic (to Script_Writer):
+
+- Increase enthusiasm in tone to reflect a fun radio host.
+- Avoid overly poetic language such as "a journey that takes us back to the roots".
+- Improve transitions between topics, they currently feel abrupt.
+- Reflect more on each track after it has played.
+- Use pauses more effectively to enhance the flow.
+- Make the dialogue sound more natural and conversational.
+- Engage listeners more by asking questions or encouraging interaction.
+- Explore topics in more detail, such as Peter Green's influence on Fleetwood Mac.
+- Offer new perspectives or insights on the discussed topics.
+- Ensure thematic consistency throughout the script.
+- Avoid repetition in the script.
+- Smoothly integrate music introductions and transitions.
+- Avoid abbreviations or symbols in the script.
+
+--------------------------------------------------------------------------------
+basic_chat(): replied with: As the last notes of 'Go Your Own Way' by Fleetwood Mac fade out, we're about to take a fun trip down memory lane. We're going back to 1967, when a young guitarist named Peter Green was making waves in the music scene. 
+
+Now, Peter Green wasn't just any guitarist. He was a blues prodigy, a man whose guitar skills were so impressive that even the great B.B. King was left in awe. King once said about Green, "He has the sweetest tone I ever heard; he was the only one who gave me the cold sweats." Now, that's high praise, isn't it? 
+
+Green's influence on Fleetwood Mac was massive. He was the driving force behind their early sound, crafting bluesy guitar riffs and soulful songs that still resonate today. 
+
+And speaking of those songs, let's get into some of the best tracks from this era. First up, we have 'Black Magic Woman'. Now, you might be thinking, "Wait, isn't that a Santana song?" Well, you're not wrong, but before Santana made it famous, it was a Fleetwood Mac original, written by Peter Green himself. Let's give it a listen. [play: 'Black Magic Woman' by Fleetwood Mac]
+
+[pause 1.5 seconds]
+
+Wow, what a track! You can really hear Green's blues influence in there, can't you? 
+
+Next up, we have 'Albatross'. This song is a testament to Green's ability to create a soundscape that's as vast and as deep as the ocean itself. Let's dive in. [play: 'Albatross' by Fleetwood Mac]
+
+[pause 1.5 seconds]
+
+Isn't that just beautiful? The way Green's guitar just seems to float on the melody, it's like being out at sea. 
+
+And finally, we have 'Oh Well', a song that perfectly captures the raw energy and passion that defined Fleetwood Mac during the Peter Green era. Let's crank it up. [play: 'Oh Well' by Fleetwood Mac]
+
+[pause 2 seconds]
+
+What a tune! You can really feel the energy in that one, can't you? 
+
+But as we all know, nothing lasts forever. In 1970, Peter Green left Fleetwood Mac, a move that shocked the music world. His departure marked the end of an era, but it also opened the door for a new chapter in the band's history. But we'll get into that another time. For now, let's just appreciate the genius of Peter Green and the incredible music he created with Fleetwood Mac.
+
+
+--------- Running iteration 2 with (agent_a: Script_Writer, agent_b: Script_Critic) ----------
+
+
+basic_chat: Script_Writer -> Script_Critic
+Script_Writer (to Script_Critic):
+
+As the last notes of 'Go Your Own Way' by Fleetwood Mac fade out, we're about to take a fun trip down memory lane. We're going back to 1967, when a young guitarist named Peter Green was making waves in the music scene. 
+
+Now, Peter Green wasn't just any guitarist. He was a blues prodigy, a man whose guitar skills were so impressive that even the great B.B. King was left in awe. King once said about Green, "He has the sweetest tone I ever heard; he was the only one who gave me the cold sweats." Now, that's high praise, isn't it? 
+
+Green's influence on Fleetwood Mac was massive. He was the driving force behind their early sound, crafting bluesy guitar riffs and soulful songs that still resonate today. 
+
+And speaking of those songs, let's get into some of the best tracks from this era. First up, we have 'Black Magic Woman'. Now, you might be thinking, "Wait, isn't that a Santana song?" Well, you're not wrong, but before Santana made it famous, it was a Fleetwood Mac original, written by Peter Green himself. Let's give it a listen. [play: 'Black Magic Woman' by Fleetwood Mac]
+
+[pause 1.5 seconds]
+
+Wow, what a track! You can really hear Green's blues influence in there, can't you? 
+
+Next up, we have 'Albatross'. This song is a testament to Green's ability to create a soundscape that's as vast and as deep as the ocean itself. Let's dive in. [play: 'Albatross' by Fleetwood Mac]
+
+[pause 1.5 seconds]
+
+Isn't that just beautiful? The way Green's guitar just seems to float on the melody, it's like being out at sea. 
+
+And finally, we have 'Oh Well', a song that perfectly captures the raw energy and passion that defined Fleetwood Mac during the Peter Green era. Let's crank it up. [play: 'Oh Well' by Fleetwood Mac]
+
+[pause 2 seconds]
+
+What a tune! You can really feel the energy in that one, can't you? 
+
+But as we all know, nothing lasts forever. In 1970, Peter Green left Fleetwood Mac, a move that shocked the music world. His departure marked the end of an era, but it also opened the door for a new chapter in the band's history. But we'll get into that another time. For now, let's just appreciate the genius of Peter Green and the incredible music he created with Fleetwood Mac.
+
+--------------------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/urllib3/connectionpool.py", line 537, in _make_request
+    response = conn.getresponse()
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/urllib3/connection.py", line 461, in getresponse
+    httplib_response = super().getresponse()
+  File "/Users/kbverlaan/miniforge3/lib/python3.10/http/client.py", line 1374, in getresponse
+    response.begin()
+  File "/Users/kbverlaan/miniforge3/lib/python3.10/http/client.py", line 318, in begin
+    version, status, reason = self._read_status()
+  File "/Users/kbverlaan/miniforge3/lib/python3.10/http/client.py", line 279, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "/Users/kbverlaan/miniforge3/lib/python3.10/socket.py", line 705, in readinto
+    return self._sock.recv_into(b)
+  File "/Users/kbverlaan/miniforge3/lib/python3.10/ssl.py", line 1274, in recv_into
+    return self.read(nbytes, buffer)
+  File "/Users/kbverlaan/miniforge3/lib/python3.10/ssl.py", line 1130, in read
+    return self._sslobj.read(len, buffer)
+TimeoutError: The read operation timed out
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/requests/adapters.py", line 486, in send
+    resp = conn.urlopen(
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/urllib3/connectionpool.py", line 845, in urlopen
+    retries = retries.increment(
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/urllib3/util/retry.py", line 470, in increment
+    raise reraise(type(error), error, _stacktrace)
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/urllib3/util/util.py", line 39, in reraise
+    raise value
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/urllib3/connectionpool.py", line 791, in urlopen
+    response = self._make_request(
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/urllib3/connectionpool.py", line 539, in _make_request
+    self._raise_timeout(err=e, url=url, timeout_value=read_timeout)
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/urllib3/connectionpool.py", line 371, in _raise_timeout
+    raise ReadTimeoutError(
+urllib3.exceptions.ReadTimeoutError: HTTPSConnectionPool(host='api.openai.com', port=443): Read timed out. (read timeout=120)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/openai/api_requestor.py", line 606, in request_raw
+    result = _thread_context.session.request(
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/requests/sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/requests/sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/requests/adapters.py", line 532, in send
+    raise ReadTimeout(e, request=request)
+requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='api.openai.com', port=443): Read timed out. (read timeout=120)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+  File "/Users/kbverlaan/GitProjects/autogen-podcast/autogen_podcast/main.py", line 84, in main
+    _, strategy_messages = script_writer_orchestrator.feedback_conversation(prompt)
+  File "/Users/kbverlaan/GitProjects/autogen-podcast/autogen_podcast/modules/orchestrator.py", line 220, in feedback_conversation
+    self.basic_chat(agent_a, agent_b, self.latest_message)
+  File "/Users/kbverlaan/GitProjects/autogen-podcast/autogen_podcast/modules/orchestrator.py", line 79, in basic_chat
+    reply = agent_b.generate_reply(sender=agent_a)
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/autogen/agentchat/conversable_agent.py", line 781, in generate_reply
+    final, reply = reply_func(self, messages=messages, sender=sender, config=reply_func_tuple["config"])
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/autogen/agentchat/conversable_agent.py", line 606, in generate_oai_reply
+    response = oai.ChatCompletion.create(
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/autogen/oai/completion.py", line 803, in create
+    response = cls.create(
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/autogen/oai/completion.py", line 826, in create
+    return cls._get_response(
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/autogen/oai/completion.py", line 222, in _get_response
+    response = openai_completion.create(**config)
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/openai/api_resources/chat_completion.py", line 25, in create
+    return super().create(*args, **kwargs)
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/openai/api_resources/abstract/engine_api_resource.py", line 155, in create
+    response, _, api_key = requestor.request(
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/openai/api_requestor.py", line 289, in request
+    result = self.request_raw(
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/openai/api_requestor.py", line 617, in request_raw
+    raise error.Timeout("Request timed out: {}".format(e)) from e
+openai.error.Timeout: Request timed out: HTTPSConnectionPool(host='api.openai.com', port=443): Read timed out. (read timeout=120)

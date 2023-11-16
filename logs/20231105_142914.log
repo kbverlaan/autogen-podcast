@@ -1,0 +1,13 @@
+0 ERA 1: The Peter Green Era (1967-1970) (5 minutes)
+- Introduction to the band's early blues roots, key members and their influence.
+- Music: "Black Magic Woman", "Albatross".
+- Discuss the departure of Peter Green and its impact on the band.
+- Share an interesting anecdote about Peter Green's departure.
+- Answer a fan question about this era.
+
+
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+  File "/Users/kbverlaan/GitProjects/autogen-podcast/autogen_podcast/main.py", line 59, in main
+    with open(f'./output/script_{i-1}', 'r') as f:
+FileNotFoundError: [Errno 2] No such file or directory: './output/script_-1'

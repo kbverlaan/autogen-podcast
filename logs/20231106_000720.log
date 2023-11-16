@@ -1,0 +1,5 @@
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+  File "/Users/kbverlaan/GitProjects/autogen-podcast/autogen_podcast/main.py", line 66, in main
+    last_three_sentences = ' '.join([sentence for sentence in sent_tokenize(LAST_SECTION_SCRIPT) if not sentence.endswith('?')][-3:])
+UnboundLocalError: local variable 'LAST_SECTION_SCRIPT' referenced before assignment

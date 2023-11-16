@@ -1,0 +1,190 @@
+
+
+---------- Outline Creation Feedback Conversation Starting ----------
+
+
+basic_chat: Admin -> Script_Writer
+Admin (to Script_Writer):
+
+
+Write the part of the script for the following section outline:
+ERA 1: The Peter Green Era (1967-1970) (5 minutes)
+- Overview of the band's blues roots and Peter Green's influence.
+- Music highlights: "Black Magic Woman", "Albatross", and "Oh Well".
+- Stories: Peter Green's departure and its impact on the band.
+
+
+If the outline is not the introduction, use the following last sentences of the previous section to create a smooth transition.
+"So, let's peel back the layers of this iconic track. But first, let's take a moment to immerse ourselves in the song that started it all. [play: 'Go Your Own Way' by Fleetwood Mac]"
+
+
+--------------------------------------------------------------------------------
+basic_chat(): replied with: As the last notes of 'Go Your Own Way' by Fleetwood Mac fade away, it's hard not to feel a sense of awe at the journey this band has taken. But to truly appreciate the depth of Fleetwood Mac's music, we need to travel back in time, to the very beginning. The year was 1967, and a young guitarist named Peter Green was about to change the face of blues music forever.
+
+Peter Green, a gifted musician with a unique vision, was the driving force behind Fleetwood Mac's early years. His influence on the band was profound, shaping their sound and setting the stage for their future success. Green's bluesy guitar riffs and soulful vocals gave Fleetwood Mac a distinctive edge, setting them apart from other bands of the era.
+
+And speaking of Green's influence, let's dive into some of the music highlights from this era. First up, we have 'Black Magic Woman'. Now, you might be more familiar with the Santana version, but it was actually written by Peter Green for Fleetwood Mac. [play: 'Black Magic Woman' by Fleetwood Mac]
+
+Ah, the haunting beauty of 'Black Magic Woman'. It's a testament to Green's songwriting prowess, isn't it? But that's not all. Next, we have 'Albatross', a track that showcases Green's ability to create atmospheric, almost hypnotic music. [play: 'Albatross' by Fleetwood Mac]
+
+The ethereal 'Albatross' truly is a masterpiece, isn't it? It's a song that transports you to another place, another time. And finally, we have 'Oh Well', a track that perfectly encapsulates the raw energy and passion of the Peter Green era. [play: 'Oh Well' by Fleetwood Mac]
+
+Listening to 'Oh Well', you can't help but feel the intensity of the band's early years. But as we all know, all good things must come to an end. In 1970, Peter Green left Fleetwood Mac, a departure that sent shockwaves through the music world. His exit marked the end of an era, but it also paved the way for a new chapter in the band's history, one that would see them reach even greater heights. But that's a story for another time. For now, let's just sit back and appreciate the genius of Peter Green and the indelible mark he left on Fleetwood Mac.
+
+
+--------- Running iteration 0 with (agent_a: Script_Writer, agent_b: Script_Critic) ----------
+
+
+basic_chat: Script_Writer -> Script_Critic
+Script_Writer (to Script_Critic):
+
+As the last notes of 'Go Your Own Way' by Fleetwood Mac fade away, it's hard not to feel a sense of awe at the journey this band has taken. But to truly appreciate the depth of Fleetwood Mac's music, we need to travel back in time, to the very beginning. The year was 1967, and a young guitarist named Peter Green was about to change the face of blues music forever.
+
+Peter Green, a gifted musician with a unique vision, was the driving force behind Fleetwood Mac's early years. His influence on the band was profound, shaping their sound and setting the stage for their future success. Green's bluesy guitar riffs and soulful vocals gave Fleetwood Mac a distinctive edge, setting them apart from other bands of the era.
+
+And speaking of Green's influence, let's dive into some of the music highlights from this era. First up, we have 'Black Magic Woman'. Now, you might be more familiar with the Santana version, but it was actually written by Peter Green for Fleetwood Mac. [play: 'Black Magic Woman' by Fleetwood Mac]
+
+Ah, the haunting beauty of 'Black Magic Woman'. It's a testament to Green's songwriting prowess, isn't it? But that's not all. Next, we have 'Albatross', a track that showcases Green's ability to create atmospheric, almost hypnotic music. [play: 'Albatross' by Fleetwood Mac]
+
+The ethereal 'Albatross' truly is a masterpiece, isn't it? It's a song that transports you to another place, another time. And finally, we have 'Oh Well', a track that perfectly encapsulates the raw energy and passion of the Peter Green era. [play: 'Oh Well' by Fleetwood Mac]
+
+Listening to 'Oh Well', you can't help but feel the intensity of the band's early years. But as we all know, all good things must come to an end. In 1970, Peter Green left Fleetwood Mac, a departure that sent shockwaves through the music world. His exit marked the end of an era, but it also paved the way for a new chapter in the band's history, one that would see them reach even greater heights. But that's a story for another time. For now, let's just sit back and appreciate the genius of Peter Green and the indelible mark he left on Fleetwood Mac.
+
+--------------------------------------------------------------------------------
+basic_chat(): replied with: - Increase the energy and enthusiasm in the tone.
+- Add more transitions between topics for smoother flow.
+- Avoid phrases suggesting a break in narrative at the end.
+- Include more pauses for better pacing.
+- Make the dialogue sound more conversational.
+- Engage listeners more by asking questions or prompting thoughts.
+- Explore topics in more detail for greater depth.
+- Add more original content or unique perspectives.
+- Ensure thematic consistency throughout the script.
+- Avoid repetition of phrases or ideas for freshness.
+- Improve music integration by contextualizing tracks before and after they play.
+
+
+--------- Running iteration 1 with (agent_a: Script_Critic, agent_b: Script_Writer) ----------
+
+
+basic_chat: Script_Critic -> Script_Writer
+Script_Critic (to Script_Writer):
+
+- Increase the energy and enthusiasm in the tone.
+- Add more transitions between topics for smoother flow.
+- Avoid phrases suggesting a break in narrative at the end.
+- Include more pauses for better pacing.
+- Make the dialogue sound more conversational.
+- Engage listeners more by asking questions or prompting thoughts.
+- Explore topics in more detail for greater depth.
+- Add more original content or unique perspectives.
+- Ensure thematic consistency throughout the script.
+- Avoid repetition of phrases or ideas for freshness.
+- Improve music integration by contextualizing tracks before and after they play.
+
+--------------------------------------------------------------------------------
+basic_chat(): replied with: As the last notes of 'Go Your Own Way' by Fleetwood Mac gently recede, it's hard not to marvel at the musical journey this band has embarked on. But to truly grasp the depth of Fleetwood Mac's music, we need to rewind the clock, all the way back to 1967. Picture this: a young, talented guitarist named Peter Green is about to revolutionize blues music forever. 
+
+Peter Green, a musical prodigy with a vision, was the heartbeat of Fleetwood Mac's early years. His influence was like a ripple in a pond, shaping their sound and laying the foundation for their future triumphs. Green's blues-infused guitar riffs and soulful vocals gave Fleetwood Mac a unique edge, setting them apart from the musical crowd of the era. 
+
+Now, let's immerse ourselves in some of the musical gems from this period. First on our list is 'Black Magic Woman'. You might be more familiar with the Santana version, but did you know it was actually penned by Peter Green for Fleetwood Mac? [play: 'Black Magic Woman' by Fleetwood Mac]
+
+[pause 1 second] The mesmerizing allure of 'Black Magic Woman' is a testament to Green's songwriting genius, wouldn't you agree? But wait, there's more. Next, we have 'Albatross', a track that showcases Green's ability to create atmospheric, almost hypnotic music. Ready to be transported? [play: 'Albatross' by Fleetwood Mac]
+
+[pause 1.5 seconds] The ethereal 'Albatross' truly is a masterpiece, isn't it? It's like a musical journey, taking you to another place, another time. And finally, we have 'Oh Well', a track that perfectly encapsulates the raw energy and passion of the Peter Green era. Are you ready to feel the intensity? [play: 'Oh Well' by Fleetwood Mac]
+
+[pause 1 second] Listening to 'Oh Well', you can almost touch the fervor of the band's early years. But as we all know, change is the only constant. In 1970, Peter Green bid adieu to Fleetwood Mac, a departure that reverberated through the music world. His exit marked the end of an era, but it also heralded a new chapter in the band's history, one that would see them scale even greater heights. But let's not rush ahead. For now, let's just bask in the genius of Peter Green and the indelible mark he left on Fleetwood Mac. What do you think? Can you feel the magic of the Peter Green era?
+
+
+--------- Running iteration 2 with (agent_a: Script_Writer, agent_b: Script_Critic) ----------
+
+
+basic_chat: Script_Writer -> Script_Critic
+Script_Writer (to Script_Critic):
+
+As the last notes of 'Go Your Own Way' by Fleetwood Mac gently recede, it's hard not to marvel at the musical journey this band has embarked on. But to truly grasp the depth of Fleetwood Mac's music, we need to rewind the clock, all the way back to 1967. Picture this: a young, talented guitarist named Peter Green is about to revolutionize blues music forever. 
+
+Peter Green, a musical prodigy with a vision, was the heartbeat of Fleetwood Mac's early years. His influence was like a ripple in a pond, shaping their sound and laying the foundation for their future triumphs. Green's blues-infused guitar riffs and soulful vocals gave Fleetwood Mac a unique edge, setting them apart from the musical crowd of the era. 
+
+Now, let's immerse ourselves in some of the musical gems from this period. First on our list is 'Black Magic Woman'. You might be more familiar with the Santana version, but did you know it was actually penned by Peter Green for Fleetwood Mac? [play: 'Black Magic Woman' by Fleetwood Mac]
+
+[pause 1 second] The mesmerizing allure of 'Black Magic Woman' is a testament to Green's songwriting genius, wouldn't you agree? But wait, there's more. Next, we have 'Albatross', a track that showcases Green's ability to create atmospheric, almost hypnotic music. Ready to be transported? [play: 'Albatross' by Fleetwood Mac]
+
+[pause 1.5 seconds] The ethereal 'Albatross' truly is a masterpiece, isn't it? It's like a musical journey, taking you to another place, another time. And finally, we have 'Oh Well', a track that perfectly encapsulates the raw energy and passion of the Peter Green era. Are you ready to feel the intensity? [play: 'Oh Well' by Fleetwood Mac]
+
+[pause 1 second] Listening to 'Oh Well', you can almost touch the fervor of the band's early years. But as we all know, change is the only constant. In 1970, Peter Green bid adieu to Fleetwood Mac, a departure that reverberated through the music world. His exit marked the end of an era, but it also heralded a new chapter in the band's history, one that would see them scale even greater heights. But let's not rush ahead. For now, let's just bask in the genius of Peter Green and the indelible mark he left on Fleetwood Mac. What do you think? Can you feel the magic of the Peter Green era?
+
+--------------------------------------------------------------------------------
+basic_chat(): replied with: - Avoid using abbreviations or symbols in the script.
+- Ensure the accuracy of all information presented.
+- Add more original insights or new perspectives to the script.
+- Maintain thematic consistency throughout the script.
+- Avoid repetition of phrases or ideas for freshness.
+- Improve music integration by contextualizing tracks before and after they play.
+
+
+--------- Running iteration 3 with (agent_a: Script_Critic, agent_b: Script_Writer) ----------
+
+
+basic_chat: Script_Critic -> Script_Writer
+Script_Critic (to Script_Writer):
+
+- Avoid using abbreviations or symbols in the script.
+- Ensure the accuracy of all information presented.
+- Add more original insights or new perspectives to the script.
+- Maintain thematic consistency throughout the script.
+- Avoid repetition of phrases or ideas for freshness.
+- Improve music integration by contextualizing tracks before and after they play.
+
+--------------------------------------------------------------------------------
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+  File "/Users/kbverlaan/GitProjects/autogen-podcast/autogen_podcast/main.py", line 84, in main
+    _, strategy_messages = script_writer_orchestrator.feedback_conversation(prompt)
+  File "/Users/kbverlaan/GitProjects/autogen-podcast/autogen_podcast/modules/orchestrator.py", line 220, in feedback_conversation
+    self.basic_chat(agent_a, agent_b, self.latest_message)
+  File "/Users/kbverlaan/GitProjects/autogen-podcast/autogen_podcast/modules/orchestrator.py", line 79, in basic_chat
+    reply = agent_b.generate_reply(sender=agent_a)
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/autogen/agentchat/conversable_agent.py", line 781, in generate_reply
+    final, reply = reply_func(self, messages=messages, sender=sender, config=reply_func_tuple["config"])
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/autogen/agentchat/conversable_agent.py", line 606, in generate_oai_reply
+    response = oai.ChatCompletion.create(
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/autogen/oai/completion.py", line 803, in create
+    response = cls.create(
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/autogen/oai/completion.py", line 826, in create
+    return cls._get_response(
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/autogen/oai/completion.py", line 222, in _get_response
+    response = openai_completion.create(**config)
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/openai/api_resources/chat_completion.py", line 25, in create
+    return super().create(*args, **kwargs)
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/openai/api_resources/abstract/engine_api_resource.py", line 155, in create
+    response, _, api_key = requestor.request(
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/openai/api_requestor.py", line 289, in request
+    result = self.request_raw(
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/openai/api_requestor.py", line 606, in request_raw
+    result = _thread_context.session.request(
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/requests/sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/requests/sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/requests/adapters.py", line 486, in send
+    resp = conn.urlopen(
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/urllib3/connectionpool.py", line 791, in urlopen
+    response = self._make_request(
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/urllib3/connectionpool.py", line 537, in _make_request
+    response = conn.getresponse()
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/urllib3/connection.py", line 461, in getresponse
+    httplib_response = super().getresponse()
+  File "/Users/kbverlaan/miniforge3/lib/python3.10/http/client.py", line 1374, in getresponse
+    response.begin()
+  File "/Users/kbverlaan/miniforge3/lib/python3.10/http/client.py", line 318, in begin
+    version, status, reason = self._read_status()
+  File "/Users/kbverlaan/miniforge3/lib/python3.10/http/client.py", line 279, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "/Users/kbverlaan/miniforge3/lib/python3.10/socket.py", line 705, in readinto
+    return self._sock.recv_into(b)
+  File "/Users/kbverlaan/miniforge3/lib/python3.10/ssl.py", line 1274, in recv_into
+    return self.read(nbytes, buffer)
+  File "/Users/kbverlaan/miniforge3/lib/python3.10/ssl.py", line 1130, in read
+    return self._sslobj.read(len, buffer)
+KeyboardInterrupt

@@ -1,0 +1,189 @@
+
+
+---------- Outline Creation Feedback Conversation Starting ----------
+
+
+memory_chat: Admin -> Script_Writer
+Admin (to Script_Writer):
+
+
+        Write the part of the script for the following section outline:
+        INTRODUCTION (3 minutes)
+- Brief introduction of Hall & Oates as a duo, their impact on the music industry, and their unique blend of rock and soul.
+- Overview of the podcast structure and what listeners can expect.
+
+
+        Use the LAST THREE SENTENCES from the last section to make sure this script flows naturally into this section.
+        ENDING OF LAST SECTION
+        This is the introduction, so there was no last section. Please write the introduction of the podcast according to the outline.
+        
+
+--------------------------------------------------------------------------------
+Script_Writer (to Script_Writer):
+
+
+        Write the part of the script for the following section outline:
+        INTRODUCTION (3 minutes)
+- Brief introduction of Hall & Oates as a duo, their impact on the music industry, and their unique blend of rock and soul.
+- Overview of the podcast structure and what listeners can expect.
+
+
+        Use the LAST THREE SENTENCES from the last section to make sure this script flows naturally into this section.
+        ENDING OF LAST SECTION
+        This is the introduction, so there was no last section. Please write the introduction of the podcast according to the outline.
+        
+
+--------------------------------------------------------------------------------
+
+
+--------- Running iteration 0 with (agent_a: Script_Writer, agent_b: Script_Critic) ----------
+
+
+memory_chat: Script_Writer -> Script_Critic
+Script_Writer (to Script_Critic):
+
+----------
+Hey there, folks! Welcome to another episode of our podcast. I'm your host, Basilius, and today we're diving into the world of a legendary duo that has left an indelible mark on the music industry. I'm talking about none other than Hall & Oates. 
+
+Now, if you're a fan of rock and soul, you're probably already familiar with these guys. But even if you're not, I bet you've heard their music somewhere - in a movie, on the radio, or maybe even in your favorite coffee shop. That's the kind of impact they've had. They've managed to blend rock and soul in a way that's uniquely theirs, creating a sound that's both timeless and instantly recognizable.
+
+In today's episode, we're going to explore their journey, their music, and the legacy they've built. We'll be talking about their biggest hits, their influences, and the stories behind some of their most iconic songs. And of course, we'll be playing some of their music for you to enjoy.
+
+So, whether you're a long-time fan or just discovering Hall & Oates, there's something for everyone in this episode. So sit back, relax, and let's dive into the world of Hall & Oates.
+
+Pause for music: 'Rich Girl' by Hall & Oates.
+
+Ah, 'Rich Girl' - what a classic! That was Hall & Oates, folks, giving us a taste of their unique blend of rock and soul. Now, let's get back to our narrative and explore more about this dynamic duo.
+
+--------------------------------------------------------------------------------
+Script_Critic (to Script_Critic):
+
+----------
+Hey there, folks! Welcome to another episode of our podcast. I'm your host, Basilius, and today we're diving into the world of a legendary duo that has left an indelible mark on the music industry. I'm talking about none other than Hall & Oates. 
+
+Now, if you're a fan of rock and soul, you're probably already familiar with these guys. But even if you're not, I bet you've heard their music somewhere - in a movie, on the radio, or maybe even in your favorite coffee shop. That's the kind of impact they've had. They've managed to blend rock and soul in a way that's uniquely theirs, creating a sound that's both timeless and instantly recognizable.
+
+In today's episode, we're going to explore their journey, their music, and the legacy they've built. We'll be talking about their biggest hits, their influences, and the stories behind some of their most iconic songs. And of course, we'll be playing some of their music for you to enjoy.
+
+So, whether you're a long-time fan or just discovering Hall & Oates, there's something for everyone in this episode. So sit back, relax, and let's dive into the world of Hall & Oates.
+
+Pause for music: 'Rich Girl' by Hall & Oates.
+
+Ah, 'Rich Girl' - what a classic! That was Hall & Oates, folks, giving us a taste of their unique blend of rock and soul. Now, let's get back to our narrative and explore more about this dynamic duo.
+
+--------------------------------------------------------------------------------
+
+
+--------- Running iteration 1 with (agent_a: Script_Critic, agent_b: Script_Writer) ----------
+
+
+memory_chat: Script_Critic -> Script_Writer
+Script_Critic (to Script_Writer):
+
+1. Cohesiveness: The script is cohesive, but it could be improved by adding a brief recap of the previous episode or a connection to the overall theme of the podcast series.
+2. Transitions: The transitions between topics are smooth, but the transition to the music could be more fluid. Instead of abruptly announcing the pause for music, consider leading into it with a relevant fact or story about the song.
+3. Flow: The script is well-paced, but it could benefit from more varied sentence structures to keep the listener engaged.
+4. Dialogue: The conversation sounds natural, but it could be more engaging with the inclusion of rhetorical questions or direct addresses to the audience.
+5. Engagement: The script is engaging, but it could be improved by adding more suspense or intrigue, such as teasing a surprising fact or story that will be revealed later in the episode.
+6. Accuracy: Without specific content to fact-check, it's hard to assess the accuracy of the information presented.
+7. Depth: The script promises to explore the topics in detail, but it could benefit from including more specific examples or anecdotes.
+8. Originality: The script is original, but it could be more creative with the use of metaphors, similes, or other figurative language.
+9. Insights: The script promises new perspectives, but it could benefit from including more unique or lesser-known facts about Hall & Oates.
+10. Thematic Fit: The script is thematically consistent, but it could be improved by tying the episode's content more closely to the overall theme of the podcast series.
+11. Freshness: The script is free from repetition, but it could be more dynamic with the use of varied vocabulary and sentence structures.
+12. Music Integration: The music introductions and transitions are smooth, but they could be more engaging with the inclusion of relevant facts or stories about the songs.
+13. Abbreviations/Symbols: The script avoids abbreviations and symbols, which is good for clarity and accessibility.
+
+--------------------------------------------------------------------------------
+Script_Writer (to Script_Writer):
+
+1. Cohesiveness: The script is cohesive, but it could be improved by adding a brief recap of the previous episode or a connection to the overall theme of the podcast series.
+2. Transitions: The transitions between topics are smooth, but the transition to the music could be more fluid. Instead of abruptly announcing the pause for music, consider leading into it with a relevant fact or story about the song.
+3. Flow: The script is well-paced, but it could benefit from more varied sentence structures to keep the listener engaged.
+4. Dialogue: The conversation sounds natural, but it could be more engaging with the inclusion of rhetorical questions or direct addresses to the audience.
+5. Engagement: The script is engaging, but it could be improved by adding more suspense or intrigue, such as teasing a surprising fact or story that will be revealed later in the episode.
+6. Accuracy: Without specific content to fact-check, it's hard to assess the accuracy of the information presented.
+7. Depth: The script promises to explore the topics in detail, but it could benefit from including more specific examples or anecdotes.
+8. Originality: The script is original, but it could be more creative with the use of metaphors, similes, or other figurative language.
+9. Insights: The script promises new perspectives, but it could benefit from including more unique or lesser-known facts about Hall & Oates.
+10. Thematic Fit: The script is thematically consistent, but it could be improved by tying the episode's content more closely to the overall theme of the podcast series.
+11. Freshness: The script is free from repetition, but it could be more dynamic with the use of varied vocabulary and sentence structures.
+12. Music Integration: The music introductions and transitions are smooth, but they could be more engaging with the inclusion of relevant facts or stories about the songs.
+13. Abbreviations/Symbols: The script avoids abbreviations and symbols, which is good for clarity and accessibility.
+
+--------------------------------------------------------------------------------
+
+
+--------- Running iteration 2 with (agent_a: Script_Writer, agent_b: Script_Critic) ----------
+
+
+memory_chat: Script_Writer -> Script_Critic
+Script_Writer (to Script_Critic):
+
+----------
+Hey there, folks! Welcome back to another episode of our podcast. I'm your host, Basilius, and today we're taking a trip down memory lane, back to the golden era of rock and soul. Remember last week when we talked about the rise of rock 'n' roll in the 70s? Well, today we're focusing on a duo that not only rode that wave but also added their own unique twist to it. I'm talking about none other than Hall & Oates. 
+
+Now, if you're a fan of rock and soul, you're probably already familiar with these guys. But even if you're not, I bet you've heard their music somewhere - in a movie, on the radio, or maybe even in your favorite coffee shop. That's the kind of impact they've had. They've managed to blend rock and soul in a way that's uniquely theirs, creating a sound that's both timeless and instantly recognizable.
+
+In today's episode, we're going to explore their journey, their music, and the legacy they've built. We'll be talking about their biggest hits, their influences, and the stories behind some of their most iconic songs. And of course, we'll be playing some of their music for you to enjoy.
+
+So, whether you're a long-time fan or just discovering Hall & Oates, there's something for everyone in this episode. So sit back, relax, and let's dive into the world of Hall & Oates.
+
+And speaking of their music, let's kick things off with one of their biggest hits. This song topped the Billboard Hot 100 back in 1977 and has been a fan favorite ever since. Here's 'Rich Girl' by Hall & Oates.
+
+Pause for music: 'Rich Girl' by Hall & Oates.
+
+Ah, 'Rich Girl' - what a classic! That was Hall & Oates, folks, giving us a taste of their unique blend of rock and soul. Now, let's get back to our narrative and explore more about this dynamic duo. Did you know that...
+
+--------------------------------------------------------------------------------
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+  File "/Users/kbverlaan/GitProjects/autogen-podcast/autogen_podcast/main.py", line 83, in main
+    _, strategy_messages = script_writer_orchestrator.feedback_conversation(prompt)
+  File "/Users/kbverlaan/GitProjects/autogen-podcast/autogen_podcast/modules/orchestrator.py", line 220, in feedback_conversation
+    self.memory_chat(agent_a, agent_b, self.latest_message)
+  File "/Users/kbverlaan/GitProjects/autogen-podcast/autogen_podcast/modules/orchestrator.py", line 95, in memory_chat
+    reply = agent_b.generate_reply(sender=agent_a)
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/autogen/agentchat/conversable_agent.py", line 781, in generate_reply
+    final, reply = reply_func(self, messages=messages, sender=sender, config=reply_func_tuple["config"])
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/autogen/agentchat/conversable_agent.py", line 606, in generate_oai_reply
+    response = oai.ChatCompletion.create(
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/autogen/oai/completion.py", line 803, in create
+    response = cls.create(
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/autogen/oai/completion.py", line 834, in create
+    return cls._get_response(params, raise_on_ratelimit_or_timeout=raise_on_ratelimit_or_timeout)
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/autogen/oai/completion.py", line 222, in _get_response
+    response = openai_completion.create(**config)
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/openai/api_resources/chat_completion.py", line 25, in create
+    return super().create(*args, **kwargs)
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/openai/api_resources/abstract/engine_api_resource.py", line 155, in create
+    response, _, api_key = requestor.request(
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/openai/api_requestor.py", line 289, in request
+    result = self.request_raw(
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/openai/api_requestor.py", line 606, in request_raw
+    result = _thread_context.session.request(
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/requests/sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/requests/sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/requests/adapters.py", line 486, in send
+    resp = conn.urlopen(
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/urllib3/connectionpool.py", line 791, in urlopen
+    response = self._make_request(
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/urllib3/connectionpool.py", line 537, in _make_request
+    response = conn.getresponse()
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/urllib3/connection.py", line 461, in getresponse
+    httplib_response = super().getresponse()
+  File "/Users/kbverlaan/miniforge3/lib/python3.10/http/client.py", line 1374, in getresponse
+    response.begin()
+  File "/Users/kbverlaan/miniforge3/lib/python3.10/http/client.py", line 318, in begin
+    version, status, reason = self._read_status()
+  File "/Users/kbverlaan/miniforge3/lib/python3.10/http/client.py", line 279, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "/Users/kbverlaan/miniforge3/lib/python3.10/socket.py", line 705, in readinto
+    return self._sock.recv_into(b)
+  File "/Users/kbverlaan/miniforge3/lib/python3.10/ssl.py", line 1274, in recv_into
+    return self.read(nbytes, buffer)
+  File "/Users/kbverlaan/miniforge3/lib/python3.10/ssl.py", line 1130, in read
+    return self._sslobj.read(len, buffer)
+KeyboardInterrupt

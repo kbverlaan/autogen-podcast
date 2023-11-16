@@ -1,0 +1,225 @@
+0 ERA 1: The Peter Green Era (1967-1970) (5 minutes)
+- Introduction to the band's early blues roots, key members and their influence.
+- Music: "Black Magic Woman", "Albatross".
+- Discuss the departure of Peter Green and its impact on the band.
+- Share an interesting anecdote about Peter Green's departure.
+- Answer a fan question about this era.
+
+
+
+
+---------- Outline Creation Feedback Conversation Starting ----------
+
+
+basic_chat: Admin -> Script_Writer
+Admin (to Script_Writer):
+
+
+        Write the part of the script for the following section outline:
+        ERA 1: The Peter Green Era (1967-1970) (5 minutes)
+- Introduction to the band's early blues roots, key members and their influence.
+- Music: "Black Magic Woman", "Albatross".
+- Discuss the departure of Peter Green and its impact on the band.
+- Share an interesting anecdote about Peter Green's departure.
+- Answer a fan question about this era.
+
+
+        Use the ENDING OF LAST SECTION to make sure this script flows naturally into the last section as if it was one script.
+        ENDING OF LAST SECTION
+        We'll reveal the answer at the end of the episode. So, sit back, relax, and let's dive into the fascinating world of Fleetwood Mac. And now, let's kick things off with one of their biggest hits, 'Go Your Own Way' by Fleetwood Mac."
+        
+
+--------------------------------------------------------------------------------
+basic_chat(): replied with: ----------
+Basilius: "Pause for music: 'Go Your Own Way' by Fleetwood Mac. Ah, what a classic, right? Now, let's rewind a bit, shall we? Back to the very beginning, the early days of Fleetwood Mac. We're talking about the Peter Green era, from 1967 to 1970. 
+
+Basilius: "Now, this was a time when the band was deeply rooted in blues. The key members during this era were Peter Green, Mick Fleetwood, and John McVie. These guys, they were the heart and soul of the band, and their influence, well, it's still felt today. 
+
+Basilius: "Pause for music: 'Black Magic Woman' by Fleetwood Mac. And 'Albatross' by Fleetwood Mac. 
+
+Basilius: "Ah, those were the days, huh? But, as we all know, all good things must come to an end. And so, in 1970, Peter Green decided to leave the band. This, of course, had a huge impact on Fleetwood Mac. 
+
+Basilius: "Now, here's a little anecdote about Peter's departure. Apparently, he announced his decision to leave the band during a band meeting at a Chinese restaurant. Can you imagine? Over some sweet and sour pork, perhaps? 
+
+Basilius: "And now, let's answer a fan question about this era. We have a question from Sarah in New York. She asks, 'Why did Peter Green leave the band?' Well, Sarah, it's a bit of a complex story. Peter was struggling with mental health issues and drug use, and he felt that he needed to step away from the music industry to focus on his health. 
+
+Basilius: "So, there you have it, folks. The Peter Green era of Fleetwood Mac. A time of blues, band members coming and going, and, of course, some unforgettable music. But, as they say, the show must go on. And so, Fleetwood Mac continued on without Peter Green, and well, the rest is history. But we'll get to that later. For now, let's take a short break. When we come back, we'll dive into the next era of Fleetwood Mac. Stay tuned!"
+
+
+--------- Running iteration 0 with (agent_a: Script_Writer, agent_b: Script_Critic) ----------
+
+
+basic_chat: Script_Writer -> Script_Critic
+Script_Writer (to Script_Critic):
+
+----------
+Basilius: "Pause for music: 'Go Your Own Way' by Fleetwood Mac. Ah, what a classic, right? Now, let's rewind a bit, shall we? Back to the very beginning, the early days of Fleetwood Mac. We're talking about the Peter Green era, from 1967 to 1970. 
+
+Basilius: "Now, this was a time when the band was deeply rooted in blues. The key members during this era were Peter Green, Mick Fleetwood, and John McVie. These guys, they were the heart and soul of the band, and their influence, well, it's still felt today. 
+
+Basilius: "Pause for music: 'Black Magic Woman' by Fleetwood Mac. And 'Albatross' by Fleetwood Mac. 
+
+Basilius: "Ah, those were the days, huh? But, as we all know, all good things must come to an end. And so, in 1970, Peter Green decided to leave the band. This, of course, had a huge impact on Fleetwood Mac. 
+
+Basilius: "Now, here's a little anecdote about Peter's departure. Apparently, he announced his decision to leave the band during a band meeting at a Chinese restaurant. Can you imagine? Over some sweet and sour pork, perhaps? 
+
+Basilius: "And now, let's answer a fan question about this era. We have a question from Sarah in New York. She asks, 'Why did Peter Green leave the band?' Well, Sarah, it's a bit of a complex story. Peter was struggling with mental health issues and drug use, and he felt that he needed to step away from the music industry to focus on his health. 
+
+Basilius: "So, there you have it, folks. The Peter Green era of Fleetwood Mac. A time of blues, band members coming and going, and, of course, some unforgettable music. But, as they say, the show must go on. And so, Fleetwood Mac continued on without Peter Green, and well, the rest is history. But we'll get to that later. For now, let's take a short break. When we come back, we'll dive into the next era of Fleetwood Mac. Stay tuned!"
+
+--------------------------------------------------------------------------------
+basic_chat(): replied with: Scores: 
+Cohesiveness: 9/10
+Flow between last era and this era: N/A
+Overall flow: 9/10
+Natural use of filler words: 9/10
+Fun to listen: 9/10
+Accuracy of the information: 10/10
+Depth: 8/10
+Originality: 8/10
+Unique perspective: 8/10
+Relatability to themes: 9/10
+Non-repetitiveness of the script: 9/10
+
+Feedback:
+- The script is well-written and engaging, with a good balance of information and entertainment.
+- The use of music and anecdotes adds depth and interest to the script.
+- The script provides a good overview of the Peter Green era of Fleetwood Mac, with accurate information and a clear narrative.
+- The script could benefit from a bit more depth in terms of the band's musical evolution during this era.
+- The transition to the next era is smooth and well-handled.
+
+Suggestions:
+- Consider adding more details about the band's musical evolution during this era, such as how their sound changed and what influences they were drawing from.
+- Consider adding more anecdotes or behind-the-scenes stories to give the script a more unique perspective.
+- Consider adding more fan questions or interactions to increase engagement and relatability.
+
+
+--------- Running iteration 1 with (agent_a: Script_Critic, agent_b: Script_Writer) ----------
+
+
+basic_chat: Script_Critic -> Script_Writer
+Script_Critic (to Script_Writer):
+
+Scores: 
+Cohesiveness: 9/10
+Flow between last era and this era: N/A
+Overall flow: 9/10
+Natural use of filler words: 9/10
+Fun to listen: 9/10
+Accuracy of the information: 10/10
+Depth: 8/10
+Originality: 8/10
+Unique perspective: 8/10
+Relatability to themes: 9/10
+Non-repetitiveness of the script: 9/10
+
+Feedback:
+- The script is well-written and engaging, with a good balance of information and entertainment.
+- The use of music and anecdotes adds depth and interest to the script.
+- The script provides a good overview of the Peter Green era of Fleetwood Mac, with accurate information and a clear narrative.
+- The script could benefit from a bit more depth in terms of the band's musical evolution during this era.
+- The transition to the next era is smooth and well-handled.
+
+Suggestions:
+- Consider adding more details about the band's musical evolution during this era, such as how their sound changed and what influences they were drawing from.
+- Consider adding more anecdotes or behind-the-scenes stories to give the script a more unique perspective.
+- Consider adding more fan questions or interactions to increase engagement and relatability.
+
+--------------------------------------------------------------------------------
+basic_chat(): replied with: ----------
+Basilius: "Pause for music: 'Go Your Own Way' by Fleetwood Mac. Ah, what a classic, right? Now, let's rewind a bit, shall we? Back to the very beginning, the early days of Fleetwood Mac. We're talking about the Peter Green era, from 1967 to 1970. 
+
+Basilius: "Now, this was a time when the band was deeply rooted in blues. The key members during this era were Peter Green, Mick Fleetwood, and John McVie. These guys, they were the heart and soul of the band, and their influence, well, it's still felt today. 
+
+Basilius: "Pause for music: 'Black Magic Woman' by Fleetwood Mac. And 'Albatross' by Fleetwood Mac. 
+
+Basilius: "Ah, those were the days, huh? But, as we all know, all good things must come to an end. And so, in 1970, Peter Green decided to leave the band. This, of course, had a huge impact on Fleetwood Mac. 
+
+Basilius: "Now, here's a little anecdote about Peter's departure. Apparently, he announced his decision to leave the band during a band meeting at a Chinese restaurant. Can you imagine? Over some sweet and sour pork, perhaps? 
+
+Basilius: "And now, let's answer a fan question about this era. We have a question from Sarah in New York. She asks, 'Why did Peter Green leave the band?' Well, Sarah, it's a bit of a complex story. Peter was struggling with mental health issues and drug use, and he felt that he needed to step away from the music industry to focus on his health. 
+
+Basilius: "But let's not forget about the music. During this era, Fleetwood Mac's sound was evolving. They were moving away from their blues roots and experimenting with different styles. You can hear this evolution in songs like 'Oh Well' and 'Man of the World'. 
+
+Basilius: "Pause for music: 'Oh Well' by Fleetwood Mac. And 'Man of the World' by Fleetwood Mac. 
+
+Basilius: "So, there you have it, folks. The Peter Green era of Fleetwood Mac. A time of blues, band members coming and going, and, of course, some unforgettable music. But, as they say, the show must go on. And so, Fleetwood Mac continued on without Peter Green, and well, the rest is history. But we'll get to that later. For now, let's take a short break. When we come back, we'll dive into the next era of Fleetwood Mac. Stay tuned!"
+
+
+--------- Running iteration 2 with (agent_a: Script_Writer, agent_b: Script_Critic) ----------
+
+
+basic_chat: Script_Writer -> Script_Critic
+Script_Writer (to Script_Critic):
+
+----------
+Basilius: "Pause for music: 'Go Your Own Way' by Fleetwood Mac. Ah, what a classic, right? Now, let's rewind a bit, shall we? Back to the very beginning, the early days of Fleetwood Mac. We're talking about the Peter Green era, from 1967 to 1970. 
+
+Basilius: "Now, this was a time when the band was deeply rooted in blues. The key members during this era were Peter Green, Mick Fleetwood, and John McVie. These guys, they were the heart and soul of the band, and their influence, well, it's still felt today. 
+
+Basilius: "Pause for music: 'Black Magic Woman' by Fleetwood Mac. And 'Albatross' by Fleetwood Mac. 
+
+Basilius: "Ah, those were the days, huh? But, as we all know, all good things must come to an end. And so, in 1970, Peter Green decided to leave the band. This, of course, had a huge impact on Fleetwood Mac. 
+
+Basilius: "Now, here's a little anecdote about Peter's departure. Apparently, he announced his decision to leave the band during a band meeting at a Chinese restaurant. Can you imagine? Over some sweet and sour pork, perhaps? 
+
+Basilius: "And now, let's answer a fan question about this era. We have a question from Sarah in New York. She asks, 'Why did Peter Green leave the band?' Well, Sarah, it's a bit of a complex story. Peter was struggling with mental health issues and drug use, and he felt that he needed to step away from the music industry to focus on his health. 
+
+Basilius: "But let's not forget about the music. During this era, Fleetwood Mac's sound was evolving. They were moving away from their blues roots and experimenting with different styles. You can hear this evolution in songs like 'Oh Well' and 'Man of the World'. 
+
+Basilius: "Pause for music: 'Oh Well' by Fleetwood Mac. And 'Man of the World' by Fleetwood Mac. 
+
+Basilius: "So, there you have it, folks. The Peter Green era of Fleetwood Mac. A time of blues, band members coming and going, and, of course, some unforgettable music. But, as they say, the show must go on. And so, Fleetwood Mac continued on without Peter Green, and well, the rest is history. But we'll get to that later. For now, let's take a short break. When we come back, we'll dive into the next era of Fleetwood Mac. Stay tuned!"
+
+--------------------------------------------------------------------------------
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+  File "/Users/kbverlaan/GitProjects/autogen-podcast/autogen_podcast/main.py", line 82, in main
+    _, strategy_messages = script_writer_orchestrator.feedback_conversation(prompt)
+  File "/Users/kbverlaan/GitProjects/autogen-podcast/autogen_podcast/modules/orchestrator.py", line 220, in feedback_conversation
+    self.basic_chat(agent_a, agent_b, self.latest_message)
+  File "/Users/kbverlaan/GitProjects/autogen-podcast/autogen_podcast/modules/orchestrator.py", line 79, in basic_chat
+    reply = agent_b.generate_reply(sender=agent_a)
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/autogen/agentchat/conversable_agent.py", line 781, in generate_reply
+    final, reply = reply_func(self, messages=messages, sender=sender, config=reply_func_tuple["config"])
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/autogen/agentchat/conversable_agent.py", line 606, in generate_oai_reply
+    response = oai.ChatCompletion.create(
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/autogen/oai/completion.py", line 803, in create
+    response = cls.create(
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/autogen/oai/completion.py", line 834, in create
+    return cls._get_response(params, raise_on_ratelimit_or_timeout=raise_on_ratelimit_or_timeout)
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/autogen/oai/completion.py", line 222, in _get_response
+    response = openai_completion.create(**config)
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/openai/api_resources/chat_completion.py", line 25, in create
+    return super().create(*args, **kwargs)
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/openai/api_resources/abstract/engine_api_resource.py", line 155, in create
+    response, _, api_key = requestor.request(
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/openai/api_requestor.py", line 289, in request
+    result = self.request_raw(
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/openai/api_requestor.py", line 606, in request_raw
+    result = _thread_context.session.request(
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/requests/sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/requests/sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/requests/adapters.py", line 486, in send
+    resp = conn.urlopen(
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/urllib3/connectionpool.py", line 791, in urlopen
+    response = self._make_request(
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/urllib3/connectionpool.py", line 537, in _make_request
+    response = conn.getresponse()
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/urllib3/connection.py", line 461, in getresponse
+    httplib_response = super().getresponse()
+  File "/Users/kbverlaan/miniforge3/lib/python3.10/http/client.py", line 1374, in getresponse
+    response.begin()
+  File "/Users/kbverlaan/miniforge3/lib/python3.10/http/client.py", line 318, in begin
+    version, status, reason = self._read_status()
+  File "/Users/kbverlaan/miniforge3/lib/python3.10/http/client.py", line 279, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "/Users/kbverlaan/miniforge3/lib/python3.10/socket.py", line 705, in readinto
+    return self._sock.recv_into(b)
+  File "/Users/kbverlaan/miniforge3/lib/python3.10/ssl.py", line 1274, in recv_into
+    return self.read(nbytes, buffer)
+  File "/Users/kbverlaan/miniforge3/lib/python3.10/ssl.py", line 1130, in read
+    return self._sslobj.read(len, buffer)
+KeyboardInterrupt

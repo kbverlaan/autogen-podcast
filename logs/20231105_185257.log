@@ -1,0 +1,393 @@
+
+
+---------- Outline Creation Feedback Conversation Starting ----------
+
+
+basic_chat: Admin -> Outline_Writer
+Admin (to Outline_Writer):
+
+
+    Create an outline for a podcast that gives an introduction around the discography of Fleetwood Mac.
+
+    FRAMEWORK OF PODCAST
+    Their life should be divided up in different era's based upon the themes and events in their life. The music in the podcast should contain some of their big hits, but also play some lesser know gems. You can always mention hits, without playing them. In more prolific era's of the artists career, you can mention more tracks. The era's should be more of a guideline and are not explicitly mentioned in the podcast.
+    In total the podcast should contain about 10 tracks but it may vary. 
+    In total the speaking time should be around 20 minutes.
+    
+
+--------------------------------------------------------------------------------
+basic_chat(): replied with: ARTIST: Fleetwood Mac
+----------
+INTRODUCTION (3 minutes)
+- Brief history of Fleetwood Mac, formation, and early years.
+- Introduction of the signature track: "Go Your Own Way".
+----------
+ERA 1: The Peter Green Era (1967-1970) (5 minutes)
+- Overview of the band's blues roots and Peter Green's influence.
+- Music highlights: "Black Magic Woman", "Albatross", and "Oh Well".
+- Stories: Peter Green's departure and its impact on the band.
+----------
+ERA 2: The Bob Welch Era (1971-1974) (4 minutes)
+- Summary of the band's transition period and Bob Welch's contribution.
+- Music highlights: "Sentimental Lady", "Hypnotized".
+- Stories: The band's struggle to maintain stability and success.
+----------
+ERA 3: The Buckingham Nicks Era (1975-1987) (5 minutes)
+- Overview of the band's most successful period with Lindsey Buckingham and Stevie Nicks.
+- Music highlights: "Rhiannon", "Landslide", "Tusk", "Gypsy".
+- Stories: The band's internal relationships and their effect on the music.
+----------
+ERA 4: The Post-Buckingham Era (1987-Present) (3 minutes)
+- Summary of the band's later years, lineup changes, and continued success.
+- Music highlights: "Everywhere", "Silver Springs".
+- Stories: The band's induction into the Rock and Roll Hall of Fame, and their enduring legacy.
+----------
+CONCLUSION (2 minutes)
+- Recap of Fleetwood Mac's evolution and influence on music.
+- Conclusion with the song that encapsulates the band's evolution: "The Chain".
+
+
+--------- Running iteration 0 with (agent_a: Outline_Writer, agent_b: Outline_Critic) ----------
+
+
+basic_chat: Outline_Writer -> Outline_Critic
+Outline_Writer (to Outline_Critic):
+
+ARTIST: Fleetwood Mac
+----------
+INTRODUCTION (3 minutes)
+- Brief history of Fleetwood Mac, formation, and early years.
+- Introduction of the signature track: "Go Your Own Way".
+----------
+ERA 1: The Peter Green Era (1967-1970) (5 minutes)
+- Overview of the band's blues roots and Peter Green's influence.
+- Music highlights: "Black Magic Woman", "Albatross", and "Oh Well".
+- Stories: Peter Green's departure and its impact on the band.
+----------
+ERA 2: The Bob Welch Era (1971-1974) (4 minutes)
+- Summary of the band's transition period and Bob Welch's contribution.
+- Music highlights: "Sentimental Lady", "Hypnotized".
+- Stories: The band's struggle to maintain stability and success.
+----------
+ERA 3: The Buckingham Nicks Era (1975-1987) (5 minutes)
+- Overview of the band's most successful period with Lindsey Buckingham and Stevie Nicks.
+- Music highlights: "Rhiannon", "Landslide", "Tusk", "Gypsy".
+- Stories: The band's internal relationships and their effect on the music.
+----------
+ERA 4: The Post-Buckingham Era (1987-Present) (3 minutes)
+- Summary of the band's later years, lineup changes, and continued success.
+- Music highlights: "Everywhere", "Silver Springs".
+- Stories: The band's induction into the Rock and Roll Hall of Fame, and their enduring legacy.
+----------
+CONCLUSION (2 minutes)
+- Recap of Fleetwood Mac's evolution and influence on music.
+- Conclusion with the song that encapsulates the band's evolution: "The Chain".
+
+--------------------------------------------------------------------------------
+basic_chat(): replied with: Cohesiveness: The podcast outline flows logically, moving chronologically through the different eras of Fleetwood Mac's history. Each section includes an overview, music highlights, and stories, which provides a consistent structure.
+
+Engagement: The outline is engaging, with a mix of music, stories, and historical context. The inclusion of specific songs and anecdotes will likely capture listeners' interest.
+
+Depth: The content is substantial, covering the band's entire history from formation to the present day. Each era is given adequate time and attention.
+
+Music Choice: The 10 tracks chosen are suitable and represent a wide range of Fleetwood Mac's discography. They include both well-known hits and lesser-known tracks, providing a comprehensive overview of the band's music.
+
+Originality: The podcast is somewhat original in its chronological approach to the band's history, but the format is fairly standard for music history podcasts. 
+
+Improvements: Consider adding a section for listener interaction, such as a Q&A or listener-submitted stories about Fleetwood Mac. This could increase engagement and make the podcast more unique. 
+
+The speaking duration totals 22 minutes, which is slightly over the target. You might need to condense some sections to ensure a 20-minute speaking duration. The total duration with music is not specified, so it's unclear if it will reach the 1-hour mark. Please ensure each song's duration is accounted for in the total runtime.
+
+
+--------- Running iteration 1 with (agent_a: Outline_Critic, agent_b: Outline_Writer) ----------
+
+
+basic_chat: Outline_Critic -> Outline_Writer
+Outline_Critic (to Outline_Writer):
+
+Cohesiveness: The podcast outline flows logically, moving chronologically through the different eras of Fleetwood Mac's history. Each section includes an overview, music highlights, and stories, which provides a consistent structure.
+
+Engagement: The outline is engaging, with a mix of music, stories, and historical context. The inclusion of specific songs and anecdotes will likely capture listeners' interest.
+
+Depth: The content is substantial, covering the band's entire history from formation to the present day. Each era is given adequate time and attention.
+
+Music Choice: The 10 tracks chosen are suitable and represent a wide range of Fleetwood Mac's discography. They include both well-known hits and lesser-known tracks, providing a comprehensive overview of the band's music.
+
+Originality: The podcast is somewhat original in its chronological approach to the band's history, but the format is fairly standard for music history podcasts. 
+
+Improvements: Consider adding a section for listener interaction, such as a Q&A or listener-submitted stories about Fleetwood Mac. This could increase engagement and make the podcast more unique. 
+
+The speaking duration totals 22 minutes, which is slightly over the target. You might need to condense some sections to ensure a 20-minute speaking duration. The total duration with music is not specified, so it's unclear if it will reach the 1-hour mark. Please ensure each song's duration is accounted for in the total runtime.
+
+--------------------------------------------------------------------------------
+basic_chat(): replied with: ARTIST: Fleetwood Mac
+----------
+INTRODUCTION (2 minutes)
+- Brief history of Fleetwood Mac, formation, and early years.
+- Introduction of the signature track: "Go Your Own Way".
+----------
+ERA 1: The Peter Green Era (1967-1970) (4 minutes)
+- Overview of the band's blues roots and Peter Green's influence.
+- Music highlights: "Black Magic Woman", "Albatross".
+- Stories: Peter Green's departure and its impact on the band.
+----------
+ERA 2: The Bob Welch Era (1971-1974) (4 minutes)
+- Summary of the band's transition period and Bob Welch's contribution.
+- Music highlights: "Sentimental Lady", "Hypnotized".
+- Stories: The band's struggle to maintain stability and success.
+----------
+ERA 3: The Buckingham Nicks Era (1975-1987) (5 minutes)
+- Overview of the band's most successful period with Lindsey Buckingham and Stevie Nicks.
+- Music highlights: "Rhiannon", "Landslide", "Tusk".
+- Stories: The band's internal relationships and their effect on the music.
+----------
+ERA 4: The Post-Buckingham Era (1987-Present) (3 minutes)
+- Summary of the band's later years, lineup changes, and continued success.
+- Music highlights: "Everywhere", "Silver Springs".
+- Stories: The band's induction into the Rock and Roll Hall of Fame, and their enduring legacy.
+----------
+CONCLUSION (2 minutes)
+- Recap of Fleetwood Mac's evolution and influence on music.
+- Conclusion with the song that encapsulates the band's evolution: "The Chain".
+
+Note: The speaking duration now totals 20 minutes. The total duration with music will be adjusted during the actual podcast recording to ensure it reaches the 1-hour mark.
+
+
+--------- Running iteration 2 with (agent_a: Outline_Writer, agent_b: Outline_Critic) ----------
+
+
+basic_chat: Outline_Writer -> Outline_Critic
+Outline_Writer (to Outline_Critic):
+
+ARTIST: Fleetwood Mac
+----------
+INTRODUCTION (2 minutes)
+- Brief history of Fleetwood Mac, formation, and early years.
+- Introduction of the signature track: "Go Your Own Way".
+----------
+ERA 1: The Peter Green Era (1967-1970) (4 minutes)
+- Overview of the band's blues roots and Peter Green's influence.
+- Music highlights: "Black Magic Woman", "Albatross".
+- Stories: Peter Green's departure and its impact on the band.
+----------
+ERA 2: The Bob Welch Era (1971-1974) (4 minutes)
+- Summary of the band's transition period and Bob Welch's contribution.
+- Music highlights: "Sentimental Lady", "Hypnotized".
+- Stories: The band's struggle to maintain stability and success.
+----------
+ERA 3: The Buckingham Nicks Era (1975-1987) (5 minutes)
+- Overview of the band's most successful period with Lindsey Buckingham and Stevie Nicks.
+- Music highlights: "Rhiannon", "Landslide", "Tusk".
+- Stories: The band's internal relationships and their effect on the music.
+----------
+ERA 4: The Post-Buckingham Era (1987-Present) (3 minutes)
+- Summary of the band's later years, lineup changes, and continued success.
+- Music highlights: "Everywhere", "Silver Springs".
+- Stories: The band's induction into the Rock and Roll Hall of Fame, and their enduring legacy.
+----------
+CONCLUSION (2 minutes)
+- Recap of Fleetwood Mac's evolution and influence on music.
+- Conclusion with the song that encapsulates the band's evolution: "The Chain".
+
+Note: The speaking duration now totals 20 minutes. The total duration with music will be adjusted during the actual podcast recording to ensure it reaches the 1-hour mark.
+
+--------------------------------------------------------------------------------
+basic_chat(): replied with: Cohesiveness: The podcast outline flows logically, moving chronologically through the different eras of Fleetwood Mac's history. Each section includes an overview, music highlights, and stories, which provides a consistent structure.
+
+Engagement: The outline is engaging, with a mix of music, stories, and historical context. The inclusion of specific songs and anecdotes will likely capture listeners' interest.
+
+Depth: The content is substantial, covering the band's entire history from formation to the present day. Each era is given adequate time and attention.
+
+Music Choice: The 10 tracks chosen are suitable and represent a wide range of Fleetwood Mac's discography. They include both well-known hits and lesser-known tracks, providing a comprehensive overview of the band's music.
+
+Originality: The podcast is somewhat original in its chronological approach to the band's history, but the format is fairly standard for music history podcasts. 
+
+Improvements: Consider adding a section for listener interaction, such as a Q&A or listener-submitted stories about Fleetwood Mac. This could increase engagement and make the podcast more unique. 
+
+The speaking duration now totals 20 minutes, which is within the target. The note about adjusting the total duration with music during the actual podcast recording is appreciated, but it would be better to have a more concrete plan for ensuring the 1-hour mark is reached.
+
+
+--------- Running iteration 3 with (agent_a: Outline_Critic, agent_b: Outline_Writer) ----------
+
+
+basic_chat: Outline_Critic -> Outline_Writer
+Outline_Critic (to Outline_Writer):
+
+Cohesiveness: The podcast outline flows logically, moving chronologically through the different eras of Fleetwood Mac's history. Each section includes an overview, music highlights, and stories, which provides a consistent structure.
+
+Engagement: The outline is engaging, with a mix of music, stories, and historical context. The inclusion of specific songs and anecdotes will likely capture listeners' interest.
+
+Depth: The content is substantial, covering the band's entire history from formation to the present day. Each era is given adequate time and attention.
+
+Music Choice: The 10 tracks chosen are suitable and represent a wide range of Fleetwood Mac's discography. They include both well-known hits and lesser-known tracks, providing a comprehensive overview of the band's music.
+
+Originality: The podcast is somewhat original in its chronological approach to the band's history, but the format is fairly standard for music history podcasts. 
+
+Improvements: Consider adding a section for listener interaction, such as a Q&A or listener-submitted stories about Fleetwood Mac. This could increase engagement and make the podcast more unique. 
+
+The speaking duration now totals 20 minutes, which is within the target. The note about adjusting the total duration with music during the actual podcast recording is appreciated, but it would be better to have a more concrete plan for ensuring the 1-hour mark is reached.
+
+--------------------------------------------------------------------------------
+basic_chat(): replied with: ARTIST: Fleetwood Mac
+----------
+INTRODUCTION (2 minutes)
+- Brief history of Fleetwood Mac, formation, and early years.
+- Introduction of the signature track: "Go Your Own Way".
+----------
+ERA 1: The Peter Green Era (1967-1970) (4 minutes)
+- Overview of the band's blues roots and Peter Green's influence.
+- Music highlights: "Black Magic Woman", "Albatross".
+- Stories: Peter Green's departure and its impact on the band.
+----------
+INTERACTION 1: Listener-submitted stories about Fleetwood Mac (2 minutes)
+----------
+ERA 2: The Bob Welch Era (1971-1974) (4 minutes)
+- Summary of the band's transition period and Bob Welch's contribution.
+- Music highlights: "Sentimental Lady", "Hypnotized".
+- Stories: The band's struggle to maintain stability and success.
+----------
+INTERACTION 2: Q&A (2 minutes)
+----------
+ERA 3: The Buckingham Nicks Era (1975-1987) (4 minutes)
+- Overview of the band's most successful period with Lindsey Buckingham and Stevie Nicks.
+- Music highlights: "Rhiannon", "Landslide", "Tusk".
+- Stories: The band's internal relationships and their effect on the music.
+----------
+ERA 4: The Post-Buckingham Era (1987-Present) (3 minutes)
+- Summary of the band's later years, lineup changes, and continued success.
+- Music highlights: "Everywhere", "Silver Springs".
+- Stories: The band's induction into the Rock and Roll Hall of Fame, and their enduring legacy.
+----------
+CONCLUSION (2 minutes)
+- Recap of Fleetwood Mac's evolution and influence on music.
+- Conclusion with the song that encapsulates the band's evolution: "The Chain".
+
+Note: The speaking duration now totals 23 minutes. The total duration with music will be adjusted during the actual podcast recording to ensure it reaches the 1-hour mark. The added interaction sections will provide a more engaging experience for listeners.
+
+
+--------- Running iteration 4 with (agent_a: Outline_Writer, agent_b: Outline_Critic) ----------
+
+
+basic_chat: Outline_Writer -> Outline_Critic
+Outline_Writer (to Outline_Critic):
+
+ARTIST: Fleetwood Mac
+----------
+INTRODUCTION (2 minutes)
+- Brief history of Fleetwood Mac, formation, and early years.
+- Introduction of the signature track: "Go Your Own Way".
+----------
+ERA 1: The Peter Green Era (1967-1970) (4 minutes)
+- Overview of the band's blues roots and Peter Green's influence.
+- Music highlights: "Black Magic Woman", "Albatross".
+- Stories: Peter Green's departure and its impact on the band.
+----------
+INTERACTION 1: Listener-submitted stories about Fleetwood Mac (2 minutes)
+----------
+ERA 2: The Bob Welch Era (1971-1974) (4 minutes)
+- Summary of the band's transition period and Bob Welch's contribution.
+- Music highlights: "Sentimental Lady", "Hypnotized".
+- Stories: The band's struggle to maintain stability and success.
+----------
+INTERACTION 2: Q&A (2 minutes)
+----------
+ERA 3: The Buckingham Nicks Era (1975-1987) (4 minutes)
+- Overview of the band's most successful period with Lindsey Buckingham and Stevie Nicks.
+- Music highlights: "Rhiannon", "Landslide", "Tusk".
+- Stories: The band's internal relationships and their effect on the music.
+----------
+ERA 4: The Post-Buckingham Era (1987-Present) (3 minutes)
+- Summary of the band's later years, lineup changes, and continued success.
+- Music highlights: "Everywhere", "Silver Springs".
+- Stories: The band's induction into the Rock and Roll Hall of Fame, and their enduring legacy.
+----------
+CONCLUSION (2 minutes)
+- Recap of Fleetwood Mac's evolution and influence on music.
+- Conclusion with the song that encapsulates the band's evolution: "The Chain".
+
+Note: The speaking duration now totals 23 minutes. The total duration with music will be adjusted during the actual podcast recording to ensure it reaches the 1-hour mark. The added interaction sections will provide a more engaging experience for listeners.
+
+--------------------------------------------------------------------------------
+basic_chat(): replied with: Cohesiveness: The podcast outline flows logically, moving chronologically through the different eras of Fleetwood Mac's history. The addition of interaction sections adds a nice touch and breaks up the historical narrative.
+
+Engagement: The outline is engaging, with a mix of music, stories, and historical context. The inclusion of specific songs, anecdotes, and listener interaction will likely capture listeners' interest.
+
+Depth: The content is substantial, covering the band's entire history from formation to the present day. Each era is given adequate time and attention.
+
+Music Choice: The 10 tracks chosen are suitable and represent a wide range of Fleetwood Mac's discography. They include both well-known hits and lesser-known tracks, providing a comprehensive overview of the band's music.
+
+Originality: The podcast is original in its chronological approach to the band's history and the inclusion of listener interaction sections. This format is not standard for music history podcasts and adds a unique touch.
+
+The speaking duration now totals 23 minutes, which is slightly over the target. You might need to condense some sections to ensure a 20-minute speaking duration. The note about adjusting the total duration with music during the actual podcast recording is appreciated, but it would be better to have a more concrete plan for ensuring the 1-hour mark is reached.
+
+
+--------- Running iteration 5 with (agent_a: Outline_Critic, agent_b: Outline_Writer) ----------
+
+
+basic_chat: Outline_Critic -> Outline_Writer
+Outline_Critic (to Outline_Writer):
+
+Cohesiveness: The podcast outline flows logically, moving chronologically through the different eras of Fleetwood Mac's history. The addition of interaction sections adds a nice touch and breaks up the historical narrative.
+
+Engagement: The outline is engaging, with a mix of music, stories, and historical context. The inclusion of specific songs, anecdotes, and listener interaction will likely capture listeners' interest.
+
+Depth: The content is substantial, covering the band's entire history from formation to the present day. Each era is given adequate time and attention.
+
+Music Choice: The 10 tracks chosen are suitable and represent a wide range of Fleetwood Mac's discography. They include both well-known hits and lesser-known tracks, providing a comprehensive overview of the band's music.
+
+Originality: The podcast is original in its chronological approach to the band's history and the inclusion of listener interaction sections. This format is not standard for music history podcasts and adds a unique touch.
+
+The speaking duration now totals 23 minutes, which is slightly over the target. You might need to condense some sections to ensure a 20-minute speaking duration. The note about adjusting the total duration with music during the actual podcast recording is appreciated, but it would be better to have a more concrete plan for ensuring the 1-hour mark is reached.
+
+--------------------------------------------------------------------------------
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+  File "/Users/kbverlaan/GitProjects/autogen-podcast/autogen_podcast/main.py", line 43, in main
+    _, strategy_messages = outline_creation_orchestrator.feedback_conversation(prompt)
+  File "/Users/kbverlaan/GitProjects/autogen-podcast/autogen_podcast/modules/orchestrator.py", line 220, in feedback_conversation
+    self.basic_chat(agent_a, agent_b, self.latest_message)
+  File "/Users/kbverlaan/GitProjects/autogen-podcast/autogen_podcast/modules/orchestrator.py", line 79, in basic_chat
+    reply = agent_b.generate_reply(sender=agent_a)
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/autogen/agentchat/conversable_agent.py", line 781, in generate_reply
+    final, reply = reply_func(self, messages=messages, sender=sender, config=reply_func_tuple["config"])
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/autogen/agentchat/conversable_agent.py", line 606, in generate_oai_reply
+    response = oai.ChatCompletion.create(
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/autogen/oai/completion.py", line 803, in create
+    response = cls.create(
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/autogen/oai/completion.py", line 834, in create
+    return cls._get_response(params, raise_on_ratelimit_or_timeout=raise_on_ratelimit_or_timeout)
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/autogen/oai/completion.py", line 222, in _get_response
+    response = openai_completion.create(**config)
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/openai/api_resources/chat_completion.py", line 25, in create
+    return super().create(*args, **kwargs)
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/openai/api_resources/abstract/engine_api_resource.py", line 155, in create
+    response, _, api_key = requestor.request(
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/openai/api_requestor.py", line 289, in request
+    result = self.request_raw(
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/openai/api_requestor.py", line 606, in request_raw
+    result = _thread_context.session.request(
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/requests/sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/requests/sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/requests/adapters.py", line 486, in send
+    resp = conn.urlopen(
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/urllib3/connectionpool.py", line 791, in urlopen
+    response = self._make_request(
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/urllib3/connectionpool.py", line 537, in _make_request
+    response = conn.getresponse()
+  File "/Users/kbverlaan/Library/Caches/pypoetry/virtualenvs/autogen-podcast-AeYdH5Jj-py3.10/lib/python3.10/site-packages/urllib3/connection.py", line 461, in getresponse
+    httplib_response = super().getresponse()
+  File "/Users/kbverlaan/miniforge3/lib/python3.10/http/client.py", line 1374, in getresponse
+    response.begin()
+  File "/Users/kbverlaan/miniforge3/lib/python3.10/http/client.py", line 318, in begin
+    version, status, reason = self._read_status()
+  File "/Users/kbverlaan/miniforge3/lib/python3.10/http/client.py", line 279, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "/Users/kbverlaan/miniforge3/lib/python3.10/socket.py", line 705, in readinto
+    return self._sock.recv_into(b)
+  File "/Users/kbverlaan/miniforge3/lib/python3.10/ssl.py", line 1274, in recv_into
+    return self.read(nbytes, buffer)
+  File "/Users/kbverlaan/miniforge3/lib/python3.10/ssl.py", line 1130, in read
+    return self._sslobj.read(len, buffer)
+KeyboardInterrupt

@@ -1,0 +1,7 @@
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+  File "/Users/kbverlaan/GitProjects/autogen-podcast/autogen_podcast/main.py", line 25, in main
+    tts.generate_speech_openai(prompt)
+  File "/Users/kbverlaan/GitProjects/autogen-podcast/autogen_podcast/modules/tts.py", line 6, in generate_speech_openai
+    response = openai.audio.speech.create(
+AttributeError: module 'openai' has no attribute 'audio'. Did you mean: 'Audio'?

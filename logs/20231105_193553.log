@@ -1,0 +1,5 @@
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+  File "/Users/kbverlaan/GitProjects/autogen-podcast/autogen_podcast/main.py", line 95, in main
+    print(f"Iteration cost: {cost}, tokens: {tokens}")
+UnboundLocalError: local variable 'cost' referenced before assignment
