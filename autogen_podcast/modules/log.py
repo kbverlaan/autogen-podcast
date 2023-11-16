@@ -20,7 +20,7 @@ class DualOutput:
 
 def setup_logging():
     # Set up logging to file
-    log_directory = "/Users/kbverlaan/GitProjects/autogen-podcast/logs"
+    log_directory = "../logs"
     log_filename = datetime.datetime.now().strftime("%Y%m%d_%H%M%S") + ".log"
     log_path = f"{log_directory}/{log_filename}"
 

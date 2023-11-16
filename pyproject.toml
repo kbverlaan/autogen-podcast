@@ -21,5 +21,5 @@ build-backend = "poetry.core.masonry.api"
 
 [tool.poetry.scripts]
 start = "autogen_podcast.main:main"
-tts = "autogen_podcast.modules.tts"
+tts = "autogen_podcast.modules:tts"
 

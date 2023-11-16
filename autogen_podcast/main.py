@@ -9,12 +9,14 @@ import nltk
 from nltk.tokenize import sent_tokenize
 import time 
 
+#nltk.download('punkt')
+
 dotenv.load_dotenv()
 
 assert os.environ.get("OPENAI_API_KEY") is not None, "OPENAI_API_KEY not found in .env file"
 OPENAI_API_KEY = os.environ.get("OPENAI_API_KEY")
 
-artist = "Zac Brown Band"
+artist = "The Beatles"
 
 def main():
     #logging
@@ -33,7 +35,7 @@ def main():
         agents=[user_proxy, outline_writer, outline_critic]
     )
     
-    if True:
+    if True: #Create outline
         _, strategy_messages = outline_creation_orchestrator.feedback_conversation(prompt)
         cost, tokens = outline_creation_orchestrator.get_cost_and_tokens()
         outline = strategy_messages[-2]
@@ -53,7 +55,17 @@ def main():
     sections = outline.split("----------\n")
     starting_script = 0
 
-    if False:
+    if True: #Create script
+        folder_path = './output'
+        # Loop through all files in the folder
+        for filename in os.listdir(folder_path):
+            # Check if 'script' is in the filename
+            if 'script' in filename:
+                # Construct full file path
+                file_path = os.path.join(folder_path, filename)
+                # Delete the file
+                os.remove(file_path)
+
         for i, section in enumerate(sections[starting_script+1:]):
             i += starting_script
             # Import last sections script if not the first iteration

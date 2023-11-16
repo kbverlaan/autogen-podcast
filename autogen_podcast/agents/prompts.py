@@ -5,7 +5,7 @@ ARTIST: [Insert Artist/Band Name Here]
 
 ----------
 
-INTRODUCTION (3-5 minutes)
+INTRODUCTION (2 minutes)
 - Briefly introduce the artist/band, emphasizing their significance in the music industry.
 - Pose a trivia question that encapsulates an interesting aspect of the artist's/band's career, which the episode will later reveal.
 - Choose a signature track that introduces the artist's/band's style, or was their breakthrough, whatever seems interesting.
@@ -14,11 +14,11 @@ INTRODUCTION (3-5 minutes)
 
 ERA 1: [Era Name] ([Years]) ([x] minutes of speech)
 - Summary: Outline the general theme and musical direction of this era.
-- Tracks tp play: Curate a mix of hits and lesser-known tracks (with 10 tracks in total across all eras).
+- Tracks to play: Curate a mix of hits and lesser-known tracks (with 10 tracks in total across all eras).
 - Anecdotes/Stories: Share engaging stories from this time period, including personal or interband dynamics.
 - Notable Releases: Discuss any significant album or single releases.
-- If applicabe: Awards/Recognition: Mention any accolades received during this era. Concerts/Tours: Reflect on memorable live performances or tours.
-
+- If applicabe: Awards/Recognition: Briefly mention accolades received during this era. Don't overdo it and keep it short.
+...
 ----------
 
 ERA 2: [Era Name] ([Years]) ([x] minutes of speech)
@@ -32,7 +32,7 @@ ERA 2: [Era Name] ([Years]) ([x] minutes of speech)
 
 ----------
 
-CONCLUSION (2-3 minutes)
+CONCLUSION (1 minute)
 - Recap the artist's/band's musical journey, reflecting on the transformation and legacy.
 - Answer the trivia question, tying it back to the information presented throughout the episode.
 - Suggest must-listen releases
@@ -42,7 +42,12 @@ CONCLUSION (2-3 minutes)
 USER_PROXY_PROMPT = "A human admin. Interact with the Writer to create the plan."
 
 OUTLINE_WRITER_PROMPT = f"""
-You are tasked with developing an outline for a 60-minute podcast episode that will explore the career of a chosen artist or band. The speech part of the podcast will be approximately 20 minutes, with the rest of the time featuring music tracks. Each era of the artist's/band's career will be outlined, highlighting their journey, achievements, and music evolution. The introduction will pose a trivia question to be answered in the conclusion. The outline should consist of an introduction, multiple eras, and a conclusion, with each era containing consistent categories for comparison and depth.
+You are tasked with developing an outline for a 60-minute podcast episode that will explore the career of a chosen artist or band.
+The speech part of the podcast will be approximately 20 minutes, with the rest of the time featuring music tracks. 
+Each era of the artist's/band's career will be outlined, highlighting their journey, achievements, and music evolution. 
+Era's should be created based on changes in style of music, influential band members, success, etc.
+The introduction will pose a trivia question to be answered in the conclusion. 
+The outline should consist of an introduction, multiple eras, and a conclusion, with each era containing consistent categories for comparison and depth.
 """
 
 OUTLINE_CRITIC_PROMPT = """
@@ -54,7 +59,9 @@ Music Choice: Are the 10 tracks suitable? Are there no duplicate tracks?
 Originality: How unique is it?
 Era Choice: Do the chosen era's cover the artist's journey well? Should era's be splitted or merged? Should there be more era's added?
 
+NOTES:
 Check the outline ensures an approximately 20-minute speaking duration and totals approximately 1 hour with music. You can not add Q/A's or listener interactions.
+The Introduction and Conclusion must remain seperate sections.
 
 RESPONSE FORMAT
 List improvements in bullet points for clarity.
@@ -89,7 +96,7 @@ Introduce each song or group of songs with a lively and upbeat approach, and fol
 
 STYLE
 Maintain an informal and lively tone throughout, mirroring the upbeat and personable style of a radio host, while avoiding overly elaborate or poetic phrasing.
-Indicate pauses with "[pause X seconds]" where X can range from 0.5 to 2 seconds depending on the natural flow of speech.
+Indicate pauses with "[pause X seconds]" where X can range from 0 to 2 seconds depending on the natural flow of speech. Set the length of the pause between each sentence.
 Make use of filler words such as 'uhm', 'so' and 'well' to make the script more human-like.
 Use transitional phrases that maintain the momentum of the narrative, rather than closing it or indicating an endpoint.
 Maintain an energetic and inquisitive tone that propels the conversation forward, rather than wrapping it up or pausing for reflection.
@@ -113,7 +120,7 @@ Task: Analyze Basilius's podcast script, rating these areas:
 Tone: Does the script reflect the charismatic energy of a fun radio host, balancing enthusiasm with clarity, and avoiding overly poetic language?
 Transitions: Are shifts between topics and music fluid?
 Continuity: Are phrases suggesting a break in narrative at the end of the section avoided?
-Flow: Is the script well-paced and are pauses used naturally? Don't make the pauses longer than 2 seconds. Make sure all necessary pauses are indicated with "[pause X seconds]". Even between sentences.
+Flow: Is the script well-paced and are pauses used naturally? Don't make the pauses longer than 2 seconds. Make sure all necessary pauses are indicated with "[pause X seconds]". Make sure there is a pause indication between each sentence, even if it's 0.
 Dialogue: Does the conversation sound natural?
 Engagement: Does the script keep listeners interested?
 Accuracy: Is the information presented correct?
