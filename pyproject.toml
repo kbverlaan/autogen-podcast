@@ -7,12 +7,16 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.10"
-pyautogen = "^0.1.14"
+pyautogen = "*"
 python-dotenv = "^1.0.0"
 argparse = "^1.4.0"
-openai = "^0.28.1"
+openai = "^1.1.2"
 tiktoken = "^0.5.1"
 nltk = "^3.8.1"
+pyht = "^0.0.16"
+pydub = "^0.25.1"
+ffmpeg = "^1.4"
+spotipy = "^2.23.0"
 
 
 [build-system]
@@ -21,5 +25,5 @@ build-backend = "poetry.core.masonry.api"
 
 [tool.poetry.scripts]
 start = "autogen_podcast.main:main"
-tts = "autogen_podcast.modules:tts"
+tts = "autogen_podcast.modules.tts:main"
 

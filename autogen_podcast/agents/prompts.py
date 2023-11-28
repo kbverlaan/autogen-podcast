@@ -96,10 +96,15 @@ Introduce each song or group of songs with a lively and upbeat approach, and fol
 
 STYLE
 Maintain an informal and lively tone throughout, mirroring the upbeat and personable style of a radio host, while avoiding overly elaborate or poetic phrasing.
-Indicate pauses with "[pause X seconds]" where X can range from 0 to 2 seconds depending on the natural flow of speech. Set the length of the pause between each sentence.
 Make use of filler words such as 'uhm', 'so' and 'well' to make the script more human-like.
 Use transitional phrases that maintain the momentum of the narrative, rather than closing it or indicating an endpoint.
 Maintain an energetic and inquisitive tone that propels the conversation forward, rather than wrapping it up or pausing for reflection.
+Indicate pauses with "[pause X seconds]" where X can range from 0 to 2 seconds depending on the natural flow of speech. Set the length of the pause between each sentence. Follow the guide in setting the length:
+- 0 Seconds (No Pause): Use no pause between closely connected parts of a sentence or in rapid, urgent speech.
+- 0.5 Seconds: Apply a half-second pause between related but separate short sentences or after commas in complex sentences.
+- 1 Second: Insert a one-second pause at the end of complete sentences or between sentences in a list.
+- 1.5 Seconds: Use a one-and-a-half-second pause between paragraphs or major topic shifts.
+- 2 Seconds: Place a two-second pause before significant conclusions or major transitions in content.
 
 FORMAT
 For the unambiguous indication of full song playback without speech overlay, consistently utilize the standalone line '[play: 'track_name' by 'artist']', substituting 'track_name' and 'artist' with the respective song title and artist's name. This directive should be isolated in the script to signify the exclusive action of playing the track.

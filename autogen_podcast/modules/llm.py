@@ -1,3 +1,5 @@
+from autogen_podcast.modules import api_costs
+
 """
 Purpose:
     Interact with the OpenAI API.
@@ -93,7 +95,7 @@ def count_tokens(text: str):
 
 def estimate_price_and_tokens(text):
     # round up to output tokens
-    COST_PER_1K_TOKENS = 0.06
+    COST_PER_1K_TOKENS = api_costs.llm_input
 
     tokens = count_tokens(text)
 
