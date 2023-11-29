@@ -19,11 +19,11 @@ def generate_speech(text, path):
     """Generate speech from text using OpenAI's text-to-speech API and save to a file."""
     response = client.audio.speech.create(
         model="tts-1-hd",
-        voice="echo",
+        voice="echo", #shimmer
         input=text
     )
     response.stream_to_file(f"{path}")
-    time.sleep(2)
+    time.sleep(12)
 
 
 def split_script_by_music_and_pauses(text):
@@ -54,14 +54,21 @@ def split_script_by_music_and_pauses(text):
     return final_output, formatted_tracks
 
 def generate_speech_and_save_with_pauses(parts, output_folder, tts_function):
-    """Generate speech for each part of the script with pauses and save as audio files."""
+    """Generate speech for each part of the script with pauses and save as audio files, starting from a specific part."""
     Path(output_folder).mkdir(parents=True, exist_ok=True)
 
+    start_at_part = 5  # Set the part number from where to start processing
+
     cost = 0
-    for i, part in enumerate(parts):
+    for i, part in enumerate(parts[start_at_part - 1:], start=start_at_part):
         audio_segments = []
+
+        # Track if there is any valid audio content
+        has_audio_content = False
+
         for segment in part:
-            if isinstance(segment, str) and segment:
+            if isinstance(segment, str) and segment.strip():
+                has_audio_content = True
                 temp_path = os.path.join(output_folder, f"temp_{i}.mp3")
                 tts_function(segment, temp_path)
                 cost += len(segment) * api_costs.tts
@@ -74,15 +81,19 @@ def generate_speech_and_save_with_pauses(parts, output_folder, tts_function):
                     continue
 
                 os.remove(temp_path)
-            elif isinstance(segment, int):
-                pause = silence.AudioSegment.silent(duration=segment * 1000)
+            elif isinstance(segment, float):
+                pause = AudioSegment.silent(duration=int(segment * 1000))
                 audio_segments.append(pause)
 
-        combined_audio = sum(audio_segments)
-        final_path = os.path.join(output_folder, f"part_{i + 1}.mp3")
-        combined_audio.export(final_path, format="mp3")
-        print(f"Part {i + 1} audio generated at {final_path}")
-    
+        # Only proceed with export if there's valid audio content
+        if has_audio_content:
+            combined_audio = sum(audio_segments)
+            final_path = os.path.join(output_folder, f"part_{i}.mp3")
+            combined_audio.export(final_path, format="mp3")
+            print(f"Part {i} audio generated at {final_path}")
+        else:
+            print(f"Skipped part {i} due to no audio content.")
+
     return cost
 
 def generate_tracklist(tracks, output_folder):
@@ -94,8 +105,17 @@ def generate_tracklist(tracks, output_folder):
 def generate_sequence_file(parts, tracks, output_folder):
     """Generate a file indicating the sequence of audio parts and tracks."""
     with open(os.path.join(output_folder, "audio_sequence.txt"), 'w') as file:
-        for i, track in enumerate(tracks):
-            file.write(f"part_{i + 1}\n")
+        for i, (part, track) in enumerate(zip(parts, tracks), start=1):
+            # Check if the part is not empty (has meaningful content)
+            is_not_empty = any(isinstance(segment, str) and segment.strip() for segment in part)
+
+            if is_not_empty:
+                file.write(f"part_{i}\n")
+            else:
+                # Indicate in the sequence file that this part was skipped
+                file.write(f"part_{i} (skipped)\n")
+
+            # Always write the track regardless of whether the part was empty
             file.write(f"{track}\n")
 
 def create_playlist_from_list(song_list, artist_name):
@@ -148,6 +168,65 @@ def create_playlist_from_list(song_list, artist_name):
     else:
         print("No tracks were found.")
 
+def mix_speech_with_music(speech_path, music_path, output_path):
+    # Load the speech and music files
+    speech = AudioSegment.from_file(speech_path, format=speech_path.split('.')[-1])
+    music = AudioSegment.from_file(music_path, format=music_path.split('.')[-1])
+
+    # Reduce the volume of the music
+    music = music - 13  # Decrease the volume by 10 dB
+
+    # Calculate the time when the fade out should start and end
+    fade_out_start = len(speech) - 5000  # 5 seconds before speech ends
+    fade_out_duration = 7000  # Total fade-out duration (5 seconds before speech ends + 2 seconds after)
+
+    # Extend or trim the music track to fit the length of the speech + fade out time
+    total_duration = len(speech) + 3000 + 2000  # Length of speech + 3 seconds before + 2 seconds after
+    if len(music) < total_duration:
+        music = music + music[:total_duration - len(music)]  # Extend music by repeating
+    else:
+        music = music[:total_duration]  # Trim music to the required length
+
+    # Apply fade out to the music
+    music = music.fade_out(fade_out_duration)
+
+    # Overlay the speech on the music, starting 3 seconds into the music
+    combined = music.overlay(speech, position=3000)
+
+    # Export the result
+    combined.export(output_path, format=output_path.split('.')[-1])
+
+def process_directory_for_bgm(input_folder, music_path, output_folder):
+    """Add background music to all audio files in a directory, except the first and last files."""
+    # Ensure the output directory exists
+    Path(output_folder).mkdir(parents=True, exist_ok=True)
+
+    # Filter out non-audio files and sort the list
+    def is_audio_file(filename):
+        return filename.endswith(('.mp3', '.wav'))  # Add other audio formats if needed
+
+    def sort_key(f):
+        numbers = ''.join(filter(str.isdigit, f))
+        return int(numbers) if numbers else float('inf')
+
+    files = sorted(filter(is_audio_file, os.listdir(input_folder)), key=sort_key)
+
+    for i, file in enumerate(files):
+        # Construct the full file paths
+        speech_path = os.path.join(input_folder, file)
+        output_path = os.path.join(output_folder, file)
+
+        # Check if it's the first or the last file
+        if i == 0 or i == len(files) - 1:
+            # Copy the file as is without adding background music
+            original_audio = AudioSegment.from_file(speech_path)
+            original_audio.export(output_path, format=speech_path.split('.')[-1])
+            print(f"Copied {file} without background music")
+        else:
+            # Add background music to the file
+            mix_speech_with_music(speech_path, music_path, output_path)
+            print(f"Processed {file} with background music")
+
 # Main function to process script and generate audio
 def process_script_and_generate_audio(script, output_path, artist_name):
     parts, tracks = split_script_by_music_and_pauses(script)
@@ -155,9 +234,11 @@ def process_script_and_generate_audio(script, output_path, artist_name):
     generate_sequence_file(parts, tracks, output_path)
     #create_playlist_from_list(tracks, artist_name)
 
-    if True:
+    if False:
         speech_cost = generate_speech_and_save_with_pauses(parts, output_path, generate_speech)
     else:
         speech_cost = 0
+
+    process_directory_for_bgm('output/audio', 'background_music/background_1.wav', 'output/audio_with_bgm')
 
     return speech_cost

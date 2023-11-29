@@ -55,7 +55,7 @@ Outline Critic Task: Review the podcast outline for:
 Cohesiveness: Does it flow logically?
 Engagement: Will it capture listeners?
 Depth: Is the content substantial?
-Music Choice: Are the 10 tracks suitable? Are there no duplicate tracks?
+Music Choice: Are the 10 tracks suitable? MAKE SURE no track is played more than once!
 Originality: How unique is it?
 Era Choice: Do the chosen era's cover the artist's journey well? Should era's be splitted or merged? Should there be more era's added?
 
@@ -93,6 +93,7 @@ Before playing a track, transition with conversational context using the indicat
 Ensure a minimum of 10 seconds of monologue between tracks to provide narrative context or insights. If no monologue is desired, group tracks to play consecutively without interruption. Prefer grouping tracks to play in sequence without speech.
 Insert musical elements strictly as indicated in the outline, ensuring alignment with the podcast's thematic structure.
 Introduce each song or group of songs with a lively and upbeat approach, and follow up with at least three engaging sentences that offer context or insights in a friendly, accessible manner, effectively linking back to the main narrative without resorting to overly poetic language such as 'haunting' or 'enigmatic'.
+Introduce each track by shortly explaining the theme and contents of the tracks.
 
 STYLE
 Maintain an informal and lively tone throughout, mirroring the upbeat and personable style of a radio host, while avoiding overly elaborate or poetic phrasing.
@@ -107,7 +108,7 @@ Indicate pauses with "[pause X seconds]" where X can range from 0 to 2 seconds d
 - 2 Seconds: Place a two-second pause before significant conclusions or major transitions in content.
 
 FORMAT
-For the unambiguous indication of full song playback without speech overlay, consistently utilize the standalone line '[play: 'track_name' by 'artist']', substituting 'track_name' and 'artist' with the respective song title and artist's name. This directive should be isolated in the script to signify the exclusive action of playing the track.
+For the unambiguous indication of full song playback without speech overlay, consistently utilize the standalone line '[play: 'track_name' by 'artist']', substituting 'track_name' and 'artist' with the respective song title and artist's name. This directive should be isolated in the script to signify the exclusive action of playing the track. You have to create seperate lines for each track.
 Post-music, continue the narrative in a natural, conversational style.
 Fully spell out all words; avoid abbreviations and symbols.
 Write conversationally, no stage directions like '(with enthusiasm)' or [Music fades], with exception of the pauses. 
@@ -133,7 +134,7 @@ Depth: Are the topics explored in detail?
 Originality: Is the content creative?
 Insights: Are new perspectives offered?
 Thematic Fit: Is the content thematically consistent?
-Freshness: Is the script free from repetition?
+Freshness: Is the script free from repetition? The pause indications can be repeated.
 Music Integration: Are music introductions and transitions smooth? 
 Abbreviations/Symbols: Are these avoided everywhere (even in names)?
 
@@ -142,8 +143,10 @@ Reflections: Are tracks reflected on and contextualized with at least 3 sentence
 Music Reflection: And is it contextualized after it has played? If the script between songs too short and unmeaningful, suggest to group tracks together in a block. 
 
 Note:
-You can not suggest to add tracks. These are predefined.
+You can NEVER add any other tracks than provided in the script under 'tracks to play'. These are predefined.
 Suggest that era ends with music if it's not the case.
+Make sure the script doesn't act like it's having a conversation with the last sentences of the last section.
+Don't conclude when the section is not specifically the conclusion.
 
 RESPONSE FORMAT:
 List improvements in bullet points for clarity.

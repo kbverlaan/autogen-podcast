@@ -16,7 +16,7 @@ dotenv.load_dotenv()
 assert os.environ.get("OPENAI_API_KEY") is not None, "OPENAI_API_KEY not found in .env file"
 OPENAI_API_KEY = os.environ.get("OPENAI_API_KEY")
 
-artist = "The Doobie Brothers"
+artist = "Blaze Foley"
 create_outline = False
 create_script = False
 create_audio = True
@@ -74,7 +74,7 @@ def main():
             i += starting_script
             # Import last sections script if not the first iteration
             if i > 0:
-                with open(f'./output/script_{i-1}', 'r') as f:
+                with open(f'./temp_output/script_{i-1}', 'r') as f:
                     LAST_SECTION_SCRIPT = f.read() 
                 last_three_sentences = ' '.join([sentence for sentence in sent_tokenize(LAST_SECTION_SCRIPT) if not sentence.endswith('?')][-3:])
             else:
