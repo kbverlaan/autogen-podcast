@@ -3,10 +3,9 @@ import autogen
 # build gpt_configuration object
 # Base Configuration        
 base_config = {
-    "use_cache": False,
     "temperature": 0,
     "config_list": autogen.config_list_from_models(['gpt-4']),
-    "request_timeout": 120,
+    "timeout": 120,
 }
 
 write_file_config = {
