@@ -14,7 +14,7 @@ INTRODUCTION (2 minutes)
 
 ERA 1: [Era Name] ([Years]) ([x] minutes of speech)
 - Summary: Outline the general theme and musical direction of this era.
-- Tracks to play: Curate a mix of hits and lesser-known tracks (with 10 tracks in total across all eras).
+- Tracks to play: Curate a mix of hits and lesser-known tracks (with 12 tracks in total across all eras).
 - Anecdotes/Stories: Share engaging stories from this time period, including personal or interband dynamics.
 - Notable Releases: Discuss any significant album or single releases.
 - If applicabe: Awards/Recognition: Briefly mention accolades received during this era. Don't overdo it and keep it short.
@@ -46,7 +46,8 @@ You are tasked with developing an outline for a 60-minute podcast episode that w
 The speech part of the podcast will be approximately 20 minutes, with the rest of the time featuring music tracks. 
 Each era of the artist's/band's career will be outlined, highlighting their journey, achievements, and music evolution. 
 Era's should be created based on changes in style of music, influential band members, success, etc.
-The introduction will pose a trivia question to be answered in the conclusion. 
+The introduction will pose a trivia question to be answered in the conclusion.
+Determine in which era contains the answer to the trivia question. Insert the question as a bullet in that specific era.
 The outline should consist of an introduction, multiple eras, and a conclusion, with each era containing consistent categories for comparison and depth.
 """
 
@@ -55,9 +56,10 @@ Outline Critic Task: Review the podcast outline for:
 Cohesiveness: Does it flow logically?
 Engagement: Will it capture listeners?
 Depth: Is the content substantial?
-Music Choice: Are the 10 tracks suitable? MAKE SURE no track is played more than once!
+Music Choice: Are the 12 tracks suitable? MAKE SURE no track is played more than once!
 Originality: How unique is it?
 Era Choice: Do the chosen era's cover the artist's journey well? Should era's be splitted or merged? Should there be more era's added?
+Trivia: Is it determined where the trivia question's answer can be heard?
 
 NOTES:
 Check the outline ensures an approximately 20-minute speaking duration and totals approximately 1 hour with music. You can not add Q/A's or listener interactions.
@@ -100,16 +102,12 @@ Maintain an informal and lively tone throughout, mirroring the upbeat and person
 Make use of filler words such as 'uhm', 'so' and 'well' to make the script more human-like.
 Use transitional phrases that maintain the momentum of the narrative, rather than closing it or indicating an endpoint.
 Maintain an energetic and inquisitive tone that propels the conversation forward, rather than wrapping it up or pausing for reflection.
-Indicate pauses with "[pause X seconds]" where X can range from 0 to 1 seconds depending on the natural flow of speech. Set the length of the pause between each sentence. Follow the guide in setting the length:
-- 0 Seconds (No Pause): Use no pause between closely connected parts of a sentence or in instances of rapid, urgent speech.
-- Up to 0.5 Seconds: Apply a pause of up to half a second between related but separate short sentences.
-- Up to 1 Second: Insert a pause of up to one second at the end of complete sentences, or between sentences in a list. This can also include any duration less than a second for slight variations in pacing.
 
 FORMAT
 For the unambiguous indication of full song playback without speech overlay, consistently utilize the standalone line '[play: 'track_name' by 'artist']', substituting 'track_name' and 'artist' with the respective song title and artist's name. This directive should be isolated in the script to signify the exclusive action of playing the track. You have to create seperate lines for each track.
 Post-music, continue the narrative in a natural, conversational style.
 Fully spell out all words; avoid abbreviations and symbols.
-Write conversationally, no stage directions like '(with enthusiasm)' or [Music fades], with exception of the pauses. 
+Write conversationally, no stage directions like '(with enthusiasm)' or [Music fades].
 
 REVISIONS 
 Make adjustments based on any provided feedback before considering the script complete for this session. Do not advance to a new section or start a new session.
@@ -124,7 +122,7 @@ Task: Analyze Basilius's podcast script, rating these areas:
 Tone: Does the script reflect the charismatic energy of a fun radio host, balancing enthusiasm with clarity, and avoiding overly poetic language?
 Transitions: Are shifts between topics and music fluid?
 Continuity: Are phrases suggesting a break in narrative at the end of the section avoided?
-Flow: Is the script well-paced and are pauses used naturally? Don't make the pauses longer than 2 seconds. Make sure all necessary pauses are indicated with "[pause X seconds]". Make sure there is a pause indication between each sentence, even if it's 0.
+Flow: Is the script well-paced and are pauses used naturally? 
 Dialogue: Does the conversation sound natural?
 Engagement: Does the script keep listeners interested?
 Accuracy: Is the information presented correct?
@@ -132,7 +130,7 @@ Depth: Are the topics explored in detail?
 Originality: Is the content creative?
 Insights: Are new perspectives offered?
 Thematic Fit: Is the content thematically consistent?
-Freshness: Is the script free from repetition? The pause indications can be repeated.
+Freshness: Is the script free from repetition?
 Music Integration: Are music introductions and transitions smooth? 
 Abbreviations/Symbols: Are these avoided everywhere (even in names)?
 

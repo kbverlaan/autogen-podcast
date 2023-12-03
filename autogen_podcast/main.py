@@ -18,10 +18,12 @@ dotenv.load_dotenv()
 assert os.environ.get("OPENAI_API_KEY") is not None, "OPENAI_API_KEY not found in .env file"
 OPENAI_API_KEY = os.environ.get("OPENAI_API_KEY")
 
-artist = "Pink Floyd"
+artist = "The Rolling Stones"
 create_outline = False
 create_script = False
-create_audio = True
+create_audio = False
+add_bgm = False
+create_playlist = True
 
 def main():
     #logging
@@ -147,10 +149,21 @@ def main():
         with open(f'{artist_folder_path}/scripts/{artist_name_formatted}_script.txt', 'r') as f:
             script = f.read()
         
-        speech_cost = tts.process_script_and_generate_audio(script, f'{artist_folder_path}', artist)
+        speech_cost = tts.process_script_and_generate_audio(script, f'{artist_folder_path}')
 
         total_cost += speech_cost
         print(f"Total cost: {total_cost}, tokens: {total_tokens}")
+    
+    if add_bgm:
+        tts.process_directory_for_bgm(f'{artist_folder_path}/audio/raw', 'background_music/background_1.wav', f'{artist_folder_path}/audio/with_bgm')
+
+    if create_playlist:
+        artist_folder_path = f'./output/{artist}'
+        with open(f'{artist_folder_path}/scripts/{artist_name_formatted}_script.txt', 'r') as f:
+            script = f.read()
+
+        _, tracks = tts.split_script_by_music_and_pauses(script)
+        tts.create_playlist_from_list(tracks, artist)
 
 
 if __name__ == '__main__':
